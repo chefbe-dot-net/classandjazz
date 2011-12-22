@@ -8,8 +8,12 @@ text:
   nl: |-
     CLASS & JAZZ biedt opleidingen aan voor kinderen en volwassenen
     
-    * Vanaf 4 jaar: @{/instruments/cello/}{cello}
-    * Vanaf 5 jaar: @{/instruments/piano/}{piano} - @{/instruments/violin/}{viool} - @{/instruments/cello/}{cello}
+    * Vanaf 4 jaar: 
+      @{/instruments/cello/}{cello}
+    * Vanaf 5 jaar: 
+      @{/instruments/piano/}{piano} - 
+      @{/instruments/violin/}{viool} - 
+      @{/instruments/cello/}{cello}
     * Vanaf 8 jaar: 
       @{/instruments/piano/}{piano & keyboards} - 
       @{/instruments/guitar_and_bass/}{gitaar, folk gitaar & elektrische gitaar} - 
@@ -22,16 +26,16 @@ text:
       @{/instruments/other_instruments/}{houtblazers & koperblazers} -
       @{/instruments/other_instruments/}{andere instrumenten}
     
-    @{/instruments/other/}{Andere cursussen} (meer info op @{/instruments/other/}{deze pagina}):<br/> 
-    Band-coaching - Klassieke samenspel - Jazz/Rock/Pop samenspel (Combo) -
-    Improvisatie - Compositie - Arrangement - Jazz-Harmonie - Klassieke Harmonie - 
-    Gehoortraining - Klassieke muziekgeschiedenis - Jazz/Rock/Pop muziekgeschiedenis - 
-    Pre-Notenleer (van 5 tot 8 jaar) - Notenleer (vanaf 8 jaar) - Notenleer volwassenen - 
-    Muziekinformatica
+    ## Andere cursussen (meer info op @{/instruments/other/}{deze pagina})
+
+    Band-coaching - Klassieke samenspel - Jazz/Rock/Pop samenspel (Combo) - Improvisatie - 
+    Compositie - Arrangement - Jazz-Harmonie - Klassieke Harmonie - Gehoortraining - 
+    Klassieke muziekgeschiedenis - Jazz/Rock/Pop muziekgeschiedenis - Pre-Notenleer 
+    (van 5 tot 8 jaar) - Notenleer (vanaf 8 jaar) - Notenleer volwassenen - Muziekinformatica
     
     <b>Belangrijke opmerking voor groepslessen:</b> 
-    CLASS & JAZZ biedt uitsluitend groepslessen aan studenten die samen, 
-    in groep van minimum drie personen, inschrijven.
+    CLASS & JAZZ biedt uitsluitend groepslessen aan studenten die samen, in groep 
+    van minimum drie personen, inschrijven.
     
     Zie ook @{/individual/}{individuele lessen} en @{/group/}{groepslessen}.
     
@@ -40,24 +44,31 @@ text:
   fr: |-
     CLASS & JAZZ offre des cours pour enfants et adultes 
     
-    * A partir de 4 ans: @{/instruments/cello/}{violoncelle}
-    * A partir de 5 ans: @{/instruments/piano/}{piano} - @{/instruments/violin/}{violon} - @{/instruments/cello/}{violoncelle}
+    * A partir de 4 ans: 
+      @{/instruments/cello/}{violoncelle}
+    * A partir de 5 ans: 
+      @{/instruments/piano/}{piano} - 
+      @{/instruments/violin/}{violon} - 
+      @{/instruments/cello/}{violoncelle}
     * A partir de 8 ans: 	
       @{/instruments/piano/}{piano & claviers} - 
       @{/instruments/guitar_and_bass/}{guitare, guitare folk & guitare électrique} - 
       @{/instruments/guitar_and_bass/}{guitare basse} - 
       @{/instruments/other_instruments/}{contrebasse} -
-      @{/instruments/violin/}{violon, violon folk & violon électrique} - @{/instruments/cello/}{violoncelle} - 
+      @{/instruments/violin/}{violon, violon folk & violon électrique} - 
+      @{/instruments/cello/}{violoncelle} - 
       @{/instruments/singing/}{chant} - 
       @{/instruments/dr_and_perc_Pieter/}{batterie & percussions} - 
-      @{/instruments/other_instruments/}{instruments à vent bois et cuivres} - <br>
+      @{/instruments/other_instruments/}{instruments à vent bois et cuivres} -
       @{/instruments/other_instruments/}{autres instruments}
         
-    @{/instruments/other/}{Autres cours} (plus d’informations sur @{/instruments/other/}{cette page}): <br/>
-    Band-coaching - Ensemble Classique - Ensemble Jazz/Rock/Pop (combo) - Improvisation - Composition - 
-    Arrangement - Harmonie Jazz - Harmonie Classique - Entraînement de l’oreille musicale - 
-    Histoire de la musique classique - Histoire du Jazz/Rock/Pop - Pré-solfège (de 5 à 8 ans) - 
-    Solfège (à partir de 8 ans) - Solfège pour adultes - Informatique musicale	 
+    ## Autres cours (plus d’informations sur @{/instruments/other/}{cette page})
+
+    Band-coaching - Ensemble Classique - Ensemble Jazz/Rock/Pop (combo) - Improvisation - 
+    Composition - Arrangement - Harmonie Jazz - Harmonie Classique - Entraînement de 
+    l’oreille musicale - Histoire de la musique classique - Histoire du Jazz/Rock/Pop - 
+    Pré-solfège (de 5 à 8 ans) - Solfège (à partir de 8 ans) - Solfège pour adultes - 
+    Informatique musicale	 
     
     <b>Remarque importante pour les cours groupés:</b>
     Les cours groupés ne sont disponibles qu’aux étudiants qui s’inscrivent ensemble, 
@@ -70,19 +81,26 @@ text:
   en: |-
     CLASS & JAZZ offers courses for children and adults
     
-    * From the age of 4 years old: @{/instruments/cello/}{cello}
-    * From the age of 5 years old: @{/instruments/piano/}{piano} - @{/instruments/violin/}{violin} - @{/instruments/cello/}{cello}
+    * From the age of 4 years old: 
+      @{/instruments/cello/}{cello}
+    * From the age of 5 years old: 
+      @{/instruments/piano/}{piano} - 
+      @{/instruments/violin/}{violin} - 
+      @{/instruments/cello/}{cello}
     * From the age of 8 years old: 	
       @{/instruments/piano/}{piano & keyboards} - 
       @{/instruments/guitar_and_bass/}{guitar, folk guitar & electric guitar} - 
       @{/instruments/guitar_and_bass/}{bass guitar} - 
       @{/instruments/other_instruments/}{double bass} -
-      @{/instruments/violin/}{violin, folk violin & electric violin} - @{/instruments/cello/}{cello} -
-      @{/instruments/singing/}{singing} <br>- 
-      @{/instruments/dr_and_perc_Pieter/}{drums & percussion} -@{/instruments/other_instruments/}{woodwind and brass} -
+      @{/instruments/violin/}{violin, folk violin & electric violin} - 
+      @{/instruments/cello/}{cello} -
+      @{/instruments/singing/}{singing} - 
+      @{/instruments/dr_and_perc_Pieter/}{drums & percussion} -
+      @{/instruments/other_instruments/}{woodwind and brass} -
       @{/instruments/other_instruments/}{other instruments} 
     
-    @{/instruments/other/}{Other courses} (more information on @{/instruments/other/}{this page}): <br>
+    ## Other courses (more information on @{/instruments/other/}{this page})
+
     Band-coaching - Classical Ensemble - Jazz/Rock/Pop Ensemble (combo) - Improvisation - 
     Composition - Arrangement - Jazz Harmony - Classical Harmony - Ear Training -
     Classical Music History - Jazz/Rock/Pop History - Music Theory preparation (5 to 8 years old) - 

@@ -1,5 +1,6 @@
 require 'wlang'
 require 'wlang/dialects/xhtml_dialect'
+
 WLang::dialect('whtml', '.whtml') do
   encoders WLang::EncoderSet::XHtml
   rules    WLang::RuleSet::Basic
@@ -10,19 +11,49 @@ WLang::dialect('whtml', '.whtml') do
   rule '+' do |parser,offset|
     text, reached = parser.parse(offset)
     text = parser.evaluate(text)
-    text = Kramdown::Document.new(text).to_html
     [text, reached]
   end
 
   rule '@' do |parser, offset|
-    link, offset = parser.parse(offset)
+    href, offset = parser.parse(offset)
+    href = "#{href}?lang=#{parser.evaluate('lang')}" unless href =~ /^[a-z]+:/
     if parser.has_block?(offset)
-      sublink, offset = parser.parse_block(offset)
-      link += "/" unless link[-1,1] == '/'
-      link += sublink
+      label, offset = parser.parse_block(offset)
+      ["<a href='#{href}'>#{label}</a>", offset]
+    else 
+      [href, offset]
     end
-    link = "#{link}?lang=#{parser.evaluate('lang')}"
-    [link, offset]
+  end
+
+  rule '~' do |parser, offset|
+    text, offset = parser.parse(offset)
+    text = parser.evaluate(text)
+    text, _ = parser.branch(
+      :template => WLang::template(text, "active-markdown"),
+      :offset   => 0,
+      :shared   => :all) do
+      parser.instantiate
+    end 
+    [text, offset]
+  end
+
+end
+
+WLang::dialect("active-markdown") do
+
+  rule '@' do |parser, offset|
+    href, offset = parser.parse(offset)
+    href = "#{href}?lang=#{parser.evaluate('lang')}" unless href =~ /^[a-z]+:/
+    if parser.has_block?(offset)
+      label, offset = parser.parse_block(offset)
+      ["<a href='#{href}'>#{label}</a>", offset]
+    else 
+      [href, offset]
+    end
+  end
+
+  post_transform do |text|
+    Kramdown::Document.new(text).to_html
   end
 
 end

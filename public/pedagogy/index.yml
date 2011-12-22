@@ -1,3 +1,4 @@
+template: page
 partition: f_moll
 title:
   nl: PEDAGOGIE
@@ -5,55 +6,72 @@ title:
   en: PEDAGOGY
 text:
   nl: |-
-    CLASS & JAZZ wil zich distantiëren van het eeuwige verdelen in hokjes. Muziek is muziek! De basisopleiding maakt dan ook geen onderscheid 
-    tussen Klassiek, enerzijds en Pop/Rock/Jazz, anderzijds. Van het begin af opteren we voor een globale aanpak die de leerlingen toelaat om 
-    alle gewenste muziekstijlen te ontdekken gedurende hun opleiding.
+    CLASS & JAZZ wil zich distantiëren van het eeuwige verdelen in hokjes. Muziek 
+    is muziek! De basisopleiding maakt dan ook geen onderscheid tussen Klassiek, 
+    enerzijds en Pop/Rock/Jazz, anderzijds. Van het begin af opteren we voor een 
+    globale aanpak die de leerlingen toelaat om alle gewenste muziekstijlen te 
+    ontdekken gedurende hun opleiding.
     
-    Op later tijdstip dringt een keuze zich echter (meestal) op, afhankelijk van de persoonlijke voorkeuren en aanleg, omdat beide stijlen een 
-    verschillende aanpak vereisen.
-    Klassieke muzikanten moeten het vooral hebben van een veelzijdige instrumententechniek en een correct begrip van de, reeds bewerkte, 
-    partituur. De opleiding bestaat dus voornamelijk uit het lezen en uitvoeren van het klassieke repertoire. 
-    Jazz, Rock en Pop muzikanten moeten een grondige kennis van toonladders en akkoorden bezitten, gericht op de eigen techniek, compositie, 
-    arrangement en improvisatie. De aanpak is dan ook voornamelijk gericht op het creatieve gebruik van de muziektheorie tijdens het spelen van 
-    Jazz, Rock, Pop en World standards.
+    Op later tijdstip dringt een keuze zich echter (meestal) op, afhankelijk van 
+    de persoonlijke voorkeuren en aanleg, omdat beide stijlen een verschillende 
+    aanpak vereisen. Klassieke muzikanten moeten het vooral hebben van een veelzijdige 
+    instrumententechniek en een correct begrip van de, reeds bewerkte, partituur. De 
+    opleiding bestaat dus voornamelijk uit het lezen en uitvoeren van het klassieke 
+    repertoire. Jazz, Rock en Pop muzikanten moeten een grondige kennis van toonladders 
+    en akkoorden bezitten, gericht op de eigen techniek, compositie, arrangement en 
+    improvisatie. De aanpak is dan ook voornamelijk gericht op het creatieve gebruik 
+    van de muziektheorie tijdens het spelen van Jazz, Rock, Pop en World standards.
 
-    Maar het is fout om te denken dat klassieke muzikanten de muziektheorie kunnen verwaarlozen, en omgekeerd, dat jazzmuzikanten de 
-    instrumententechniek en het zichtlezen mogen negeren.
+    Maar het is fout om te denken dat klassieke muzikanten de muziektheorie kunnen 
+    verwaarlozen, en omgekeerd, dat jazzmuzikanten de instrumententechniek en het 
+    zichtlezen mogen negeren.
     
     Al onze leerkrachten bieden beide benaderingen aan.
     
   fr: |-
-    CLASS & JAZZ veut se distancer des éternelles étiquettes qui cherchent à opposer les musiques comme autant de styles différents. La musique, 
-    c’est de la musique ! L’éducation de base ne fait donc pas la différence entre le Classique d’une part et le Jazz/Rock/Pop d’autre part. Dès 
-    le départ, notre approche se veut globale, afin de permettre aux élèves d'explorer tous les styles de musiques voulus au cours de leur formation. 
+    CLASS & JAZZ veut se distancer des éternelles étiquettes qui cherchent à opposer 
+    les musiques comme autant de styles différents. La musique, c’est de la musique! 
+    L’éducation de base ne fait donc pas la différence entre le Classique d’une part 
+    et le Jazz/Rock/Pop d’autre part. Dès le départ, notre approche se veut globale, 
+    afin de permettre aux élèves d'explorer tous les styles de musiques voulus au cours 
+    de leur formation. 
     
-    Plus tard un choix s’impose (généralement), selon les dispositions et les goûts personnels, parce que ces deux styles exigent une approche 
-    différente. 
-    Les musiciens classiques doivent développer une technique instrumentale hétérogène et une bonne compréhension de la partition écrite, pré 
-    arrangée. La formation comprend donc principalement la lecture et l’exécution du répertoire classique.
-    Les musiciens de Jazz, Rock et Pop ont, eux, surtout besoin d’une connaissance approfondie des gammes et des accords, orientée vers une 
-    technique plus personnalisée, la composition, l’arrangement et l’improvisation. L’approche comprend donc essentiellement l’utilisation 
-    créative de la théorie musicale pendant l’exécution des standards de Jazz, de Rock, de Pop et de World.
+    Plus tard un choix s’impose (généralement), selon les dispositions et les goûts 
+    personnels, parce que ces deux styles exigent une approche différente. Les musiciens 
+    classiques doivent développer une technique instrumentale hétérogène et une bonne 
+    compréhension de la partition écrite, pré-arrangée. La formation comprend donc 
+    principalement la lecture et l’exécution du répertoire classique. Les musiciens 
+    de Jazz, Rock et Pop ont, eux, surtout besoin d’une connaissance approfondie des 
+    gammes et des accords, orientée vers une technique plus personnalisée, la composition, 
+    l’arrangement et l’improvisation. L’approche comprend donc essentiellement l’utilisation 
+    créative de la théorie musicale pendant l’exécution des standards de Jazz, de 
+    Rock, de Pop et de World.
 
-    Mais ce serait une erreur de penser que les musiciens classiques puissent négliger la théorie musicale, et réciproquement, que les musiciens 
-    de jazz puissent se permettre d’ignorer la technique instrumentale et la lecture à vue.
+    Mais ce serait une erreur de penser que les musiciens classiques puissent négliger 
+    la théorie musicale, et réciproquement, que les musiciens de jazz puissent se 
+    permettre d’ignorer la technique instrumentale et la lecture à vue.
 
     Tous nos professeurs pratiquent les deux approches. 
     
   en: |-
-    CLASS & JAZZ aims to avoid dividing music with too many labels and into too many styles. Music is music! The foundation of the programme does not oppose classical 
-    music to jazz/rock/pop. From the very start we opt for a global approach that enables the students to explore 
-    all the musical styles they are interested in during their initial training.
+    CLASS & JAZZ aims to avoid dividing music with too many labels and into too many 
+    styles. Music is music! The foundation of the programme does not oppose classical 
+    music to jazz/rock/pop. From the very start we opt for a global approach that 
+    enables the students to explore all the musical styles they are interested in 
+    during their initial training.
     
-    Later on, students will usually make a choice according to their inclinations and taste, as different styles require different 
-    approaches. 
-    Classical musicians need to develop a versatile instrumental technique and a good understanding of the written, pre-arranged music score. 
-    The training consists mainly of reading and performing the classical repertoire. 
-    Jazz, rock and pop musicians need to possess a thorough knowledge of scales and chords, oriented towards a more personalised technique, 
-    and towards composition, arrangement and improvisation. The approach includes the creative use of music theory while playing jazz, rock, pop and 
-    world music standards.
+    Later on, students will usually make a choice according to their inclinations 
+    and taste, as different styles require different approaches. Classical musicians 
+    need to develop a versatile instrumental technique and a good understanding of 
+    the written, pre-arranged music score. The training consists mainly of reading 
+    and performing the classical repertoire. Jazz, rock and pop musicians need to 
+    possess a thorough knowledge of scales and chords, oriented towards a more 
+    personalised technique, and towards composition, arrangement and improvisation. 
+    The approach includes the creative use of music theory while playing jazz, rock, 
+    pop and world music standards.
     
-    But it is a mistake to think that classical musicians can neglect music theory, and that conversely, jazz musicians can ignore 
-    instrumental technique and sight-reading.
+    But it is a mistake to think that classical musicians can neglect music theory, 
+    and that conversely, jazz musicians can ignore instrumental technique and 
+    sight-reading.
     
     All our teachers provide both approaches.

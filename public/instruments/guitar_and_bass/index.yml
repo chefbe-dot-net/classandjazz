@@ -17,7 +17,8 @@ text:
   fr: |-
     <b>Les cours de guitare</b> sont possibles à partir de 8 ans.
     
-    Les leçons peuvent être données en français, en néerlandais, en anglais ou en allemand.
+    Les leçons peuvent être données en français, en néerlandais, en anglais ou 
+    en allemand.
     
     Nos professeurs:<br>
     <b>@{/instruments/guitar_and_bass_Michel/}{Michel Kuijken}</b> <br/>

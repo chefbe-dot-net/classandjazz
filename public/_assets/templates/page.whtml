@@ -5,17 +5,9 @@
   </a>
   <<+{menu.whtml share all}
   <img id="partition" src="/images/partitions/${partition}.gif"/>
-  <table id="content" border="0" cellpadding="4" cellspacing="0">
-    <tr>
-      <td>
-        <div id="scrollarea" class="scroll-pane">
-          <div id="text">
-            <h2>${title[lang]}</h2>
-            +{text[lang]}
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <div id="text">
+    <h2>+{title[lang]}</h2>
+    ~{text[lang]}
+  </div>
 </div>
 
