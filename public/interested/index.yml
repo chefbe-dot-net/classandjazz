@@ -15,13 +15,13 @@ text:
     Wij bieden kwalitatieve muziekopleidingen aan zowel ambitieuze leerlingen die willen doorstromen naar het hoger kunstonderwijs, als aan
     amateurs die recreatief willen bezig zijn met muziek.
     
-    === @{INDIVIDUELE LESSEN}[individual]
+    ### @{/individual/}{INDIVIDUELE LESSEN}
     
     Geen aparte notenleer – de “allesomvattende” individuele les
     
     De transitie – INDIVIDUELE LES TER VOORBEREIDING VAN HET CONSERVATORIUM
     
-    === @{GROEPSLESSEN}[group]
+    ### @{/group/}{GROEPSLESSEN}
     
     Samen leren, voor beginners – de “allesomvattende” groepsles
     
@@ -36,7 +36,7 @@ text:
     Wenst u meer informatie over reeds bestaande cursussen? Wenst u op de hoogte gehouden te worden van nieuwe cursussen?     
     Laat het ons weten: mailto:info@classandjazz.be
     
-    Zie ook @{instrumenten}[instruments] en @{andere cursussen}[instruments/other].
+    Zie ook @{/instruments/}{instrumenten} en @{/instruments/other/}{andere cursussen}.
     
   fr: |-
     CLASS & JAZZ n’étant pas une école officielle, nos programmes ne sont pas liés aux obligations scolaires: pas de leçons ni examens ni 
@@ -48,13 +48,13 @@ text:
     Nous offrons une éducation musicale de qualité, tant aux élèves ambitieux qui veulent se préparer aux hautes études musicales, qu’aux
     élèves amateurs qui désirent aborder la musique d’un point de vue purement récréatif.
     
-    === @{COURS INDIVIDUELS}[individual]
+    ### @{/individual/}{COURS INDIVIDUELS}
     
     Pas de solfège séparé – LE COURS INDIVIDUEL « intégré »
     
     La transition – COURS INDIVIDUEL EN PREPARATION DU CONSERVATOIRE
     
-    === @{COURS GROUPES}[group]
+    ### @{/group/}{COURS GROUPES}
     
     Apprendre ensemble, pour débutants – LA LECON DE GROUPE « intégrée »
     
@@ -69,7 +69,7 @@ text:
     Désirez-vous de plus amples renseignements au sujet des possibilités pour certains cours spécifiques ?     
     Faites-le nous savoir: mailto:info@classandjazz.be
     
-    Voir aussi @{instruments}[instruments] et @{autres cours}[instruments/other].
+    Voir aussi @{/instruments/}{instruments} et @{/instruments/other/}{autres cours}.
     
   en: |-
     CLASS & JAZZ is not an official school and is therefore not bound to school rules: no compulsory lessons, no compulsory exams, no fixed
@@ -81,13 +81,13 @@ text:
     We offer a musical education of quality to ambitious students who would like to prepare for higher music studies as well as to amateurs who
     prefer to play music purely as a form of entertainment. 
     
-    === @{INDIVIDUAL LESSONS}[individual]
+    ### @{/individual/}{INDIVIDUAL LESSONS}
     
     No separate Music Theory lessons – THE “COMPREHENSIVE” INDIVIDUAL LESSON
     
     The transition – INDIVIDUAL LESSON AS PREPARATION FOR HIGHER MUSIC STUDIES
     
-    === @{GROUP LESSONS}[group]
+    ### @{/group/}{GROUP LESSONS}
     
     Learning together, for beginners – THE “COMPREHENSIVE” GROUP LESSON
     
@@ -101,4 +101,4 @@ text:
     Would you like more information about existing courses? Would you like to be kept
     informed about new courses? Please, let us know: mailto:info@classandjazz.be
     
-    Please also read @{about instruments}[instruments] and @{other courses}[instruments/other].
+    Please also read @{/instruments/}{about instruments} and @{/instruments/other/}{other courses}.
