@@ -1,0 +1,34 @@
+picture: 
+partition: while_my_guitar
+title:
+  nl: GITAAR, ELEKTRISCHE GITAAR & BASGITAAR
+  fr: GUITARE, GUITARE ELECTRIQUE & BASSE
+  en: GUITAR, ELECTRIC GUITAR & BASS GUITAR
+text:
+  nl: |-
+    <b>Een opleiding gitaar</b> is mogelijk vanaf 8 jaar.
+
+    De lessen kunnen gegeven worden in het Nederlands, Frans, Engels of Duits. 
+
+    Onze leerkrachten: <br>
+    <b>@{Michel Kuijken}[instruments/guitar_and_bass_Michel]</b> <br>
+    <b>@{Bart Buls}[instruments/guitar_and_bass_Bart]</b>
+    
+  fr: |-
+    <b>Les cours de guitare</b> sont possibles à partir de 8 ans.
+    
+    Les leçons peuvent être données en français, en néerlandais, en anglais ou en allemand.
+    
+    Nos professeurs:<br>
+    <b>@{Michel Kuijken}[instruments/guitar_and_bass_Michel]</b> <br/>
+    <b>@{Bart Buls}[instruments/guitar_and_bass_Bart]</b>
+    
+  en: |-
+    <b>Guitar lessons</b> are possible from the age of 8 years old. 
+    
+    Lessons can be followed in English, Dutch, French or German 
+    
+    Our teachers:<br>
+    <b>@{Michel Kuijken}[instruments/guitar_and_bass_Michel]</b> <br>
+    <b>@{Bart Buls}[instruments/guitar_and_bass_Bart]</b>
+  

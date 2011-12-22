@@ -1,0 +1,135 @@
+﻿template:  page
+partition: moak_s_shop
+title:
+  nl: MOAK'S SHOP
+  fr: MOAK'S SHOP
+  en: MOAK'S SHOP
+text:
+  nl: |-
+    Zoek je iets te koop? Verkoop je zelf iets? Zoek je medemuzikanten voor je 
+    groep?
+
+    Je kan het laten publiceren op onze @{zoekertjes}{/live_music/classifieds/}. 
+    Stuur je aankondiging door naar mailto:info@classandjazz.
+
+    == LIVE MUZIEK
+    Onze leerkrachten kan je ook live aan het werk horen en zien:
+    * <b>@{SOMEONE ELS}[http://www.someoneels.be/]</b> met Mariske Broeckmeyer (zang), 
+      <b>Andries Baele (viool en zang)</b>, Piet Haven (zang en bas), <b>Raph Van Goubergen (piano)</b> 
+      en <b>Pieter Dedoncker (drums)</b>
+    * <b>@{MICHEL KUIJKEN TRIO}[http://users.coditel.net/mk/trionl.html]</b> (project) met <b>Michel Kuijken (gitaar en zang)</b>
+      en Laurent Bijnens (accordeon)
+    * <b>@{GUY RAIFF TRIO}[http://users.skynet.be/fa525417/disco.htm]</b> met <b>Guy Raiff (gitaar)</b>, Mario Vermandel (contrabas) en Luc Vanden Bosch (drums)
+    * <b>@{I QUATRO LIRICI}[http://www.majorievanhaverbeke.be/iquattrolirici/]</b> met <b>Majorie Vanhaverbeke (sopraan)</b>,
+      Ann Callewaert (alt), Marc Hillewaere (tenor), en Jacky Bollengier (tenor), 
+      met als vaste huispianist Thor Rzoska (en met de medewerking van pianiste Sylvia Bernier).
+    * <b>@{THE ROSE ROOM SWING}[http://www.myspace.com/theroseroomswing] </b>met 
+      Karel 'Binez' Bijnens alias Don El Binar (gitaar), Simon 'Pigeon' Fonteyn (gitaar), 
+      <b>Andries 'Didi' Baele alias Druce Stringspeed (viool)</b>, Pieter 'Taccoz' Taccoen (drums) en 
+      Piet Fonteyn alias Teip Nyetnof (bas)
+    * <b>@{LOS VENTURAS}[http://www.losventuras.be/] </b>met Christophe Boost (gitaar), 
+      Michael Schots (gitaar), Andy Wellens (bas) en <b>Pieter Dedoncker (drums)</b>
+    * <b>@{SiX MiX KOMPAS}[http://www.kompasmuziek.be] </b>met Amy Merril (viool),
+      Tine Van Boven (viool), <b>Andries Baele (viool)</b>, Geert Laureyssen (accordeon), 
+      Jan Moons (percussie) en Freija De Mol (bas)
+    * <b>KOSTAS CHATZ BAND </b>met Kostas Chatz (gitaar en zang), Mariske Broeckmeyer (zang)
+      en <b>Pieter Dedoncker (drums)</b>
+
+    == PARTITUREN, MUZIEKSOFTWARE en INSTRUMENTEN verkoop en verhuur
+
+    Zoekt u partituren of muzieksoftware te koop? Wilt u een instrument kopen? 
+    Kleinhandel in partituren, software en instrumenten is een van de bedrijfstakken van <b>CLASS & JAZZ</b>.
+    
+    == MUZIEKMONTAGES
+    <b>CLASS & JAZZ</b> maakt uw muziekmontages voor 
+    * danswedstrijden
+    * paardendressuur
+    * dansoptredens
+    * schoolfeesten
+    * bedrijfsfeesten
+    * ...
+    
+  fr: |-
+    Cherches-tu à acheter quelque chose? Vends-tu quelque chose? Cherches-tu des musiciens pour ton groupe?
+    Envoie-nous ton annonce à mailto:info@classandjazz et nous la publierons sur notre page de @{petites annonces}[classifieds]. 
+    == MUSIQUE LIVE
+    Vous pouvez entendre et voir nos professeurs à l'oeuvre en concert:
+    * <b>@{SOMEONE ELS}[http://www.someoneels.be/lang/FR]</b> avec Mariske Broeckmeyer (chant), 
+      <b>Andries Baele (violon et chant)</b>, Piet Haven (chant et basse), <b>Raph Van Goubergen (piano)</b> 
+      et <b>Pieter Dedoncker (batterie)</b>
+    * <b>@{MICHEL KUIJKEN TRIO}[http://users.coditel.net/mk/triofr.html]</b> (projet) avec <b>Michel Kuijken (guitare et chant)</b>
+      et Laurent Bijnens (accordeon)
+    * <b>@{GUY RAIFF TRIO}[http://users.skynet.be/fa525417/disco.htm]</b> avec <b>Guy Raiff (guitare)</b>, 
+      Mario Vermandel (contrebasse) et Luc Vanden Bosch (batterie)
+    * <b>@{I QUATRO LIRICI}[http://www.majorievanhaverbeke.be/iquattrolirici/]</b> avec 
+      <b>Majorie Vanhaverbeke (soprano)</b>,
+      Ann Callewaert (alto), Marc Hillewaere (ténor), Jacky Bollengier (ténor), 
+      Thor Rzoska (piano) et avec la collaboration occasionelle de Sylvia Bernier (piano).
+    * <b>@{THE ROSE ROOM SWING}[http://www.myspace.com/theroseroomswing] </b>avec 
+      Karel 'Binez' Bijnens alias Don El Binar (guitare), Simon 'Pigeon' Fonteyn (guitare), 
+      <b>Andries 'Didi' Baele alias Druce Stringspeed (violon)</b>, Pieter 'Taccoz' Taccoen (batterie) et 
+      Piet Fonteyn alias Teip Nyetnof (basse)
+    * <b>@{LOS VENTURAS}[http://www.losventuras.be/] </b>avec Christophe Boost (guitare), 
+      Michael Schots (guitare), Andy Wellens (basse) et <b>Pieter Dedoncker (batterie)</b>
+    * <b>@{SiX MiX KOMPAS}[http://www.kompasmuziek.be] </b>avec Amy Merril (violon),
+      Tine Van Boven (violon), <b>Andries Baele (violon)</b>, Geert Laureyssen (accordeon), 
+      Jan Moons (percussions) et Freija De Mol (basse)
+    * <b>KOSTAS CHATZ BAND </b>avec Kostas Chatz (guitare et chant), Mariske Broeckmeyer (chant)
+      et <b>Pieter Dedoncker (batterie)</b>
+    
+    == PARTITIONS, LOGICIELS DE MUSIQUE et INSTRUMENTS vente et location
+    
+    Vous cherchez à acheter des partitions ou des logiciels de musique? Vous voulez acheter un instrument?  
+    La vente en détail de partitions, de logiciels et d’instruments est une des branches d’activités de <b>CLASS & JAZZ</b>.
+    
+    == MONTAGES AUDIO
+    <b>CLASS & JAZZ</b> fait vos montages audio pour  
+    * concours de danse
+    * dressage de chevaux
+    * spectacles de danse
+    * fêtes d'école
+    * fêtes d'entreprise
+    * ...
+
+  en: |-
+    Are you looking for something to buy? Do you sell something? Are you looking for musicians to join your band? 
+    Post a free ad at mailto:info@classandjazz. We'll publish it on our @{classifieds}[classifieds] page.
+    == LIVE MUSIC
+    You can hear and see our teachers playing live in concert:
+    * <b>@{SOMEONE ELS}[http://www.someoneels.be/lang/EN]</b> with Mariske Broeckmeyer (vocals), 
+      <b>Andries Baele (violin and vocals)</b>, Piet Haven (vocals and bass), <b>Raph Van Goubergen (piano)</b> 
+      and <b>Pieter Dedoncker (drums)</b>
+    * <b>@{MICHEL KUIJKEN TRIO}[http://users.coditel.net/mk/triofr.html]</b> (project) with <b>Michel Kuijken (guitar and vocals)</b>
+      and <b>Laurent Bijnens (accordion)</b>
+    * <b>@{GUY RAIFF TRIO}[http://users.skynet.be/fa525417/disco.htm]</b> with 
+      <b>Guy Raiff (guitar)</b>, 
+      Mario Vermandel (double bass) and Luc Vanden Bosch (drums)
+    * <b>@{I QUATRO LIRICI}[http://www.majorievanhaverbeke.be/iquattrolirici/]</b> with 
+      <b>Majorie Vanhaverbeke (soprano)</b>,
+      Ann Callewaert (alto), Marc Hillewaere (tenor), Jacky Bollengier (tenor), 
+      Thor Rzoska (piano) and with the occasional cooperation of Sylvia Bernier (piano).
+    * <b>@{THE ROSE ROOM SWING}[http://www.myspace.com/theroseroomswing] </b>with 
+      Karel 'Binez' Bijnens alias Don El Binar (guitar), Simon 'Pigeon' Fonteyn (guitar), 
+      <b>Andries 'Didi' Baele alias Druce Stringspeed (violin)</b>, Pieter 'Taccoz' Taccoen (drums) and 
+      Piet Fonteyn alias Teip Nyetnof (bass)
+    * <b>@{LOS VENTURAS}[http://www.losventuras.be/] </b>with Christophe Boost (guitar), 
+      Michael Schots (guitar), Andy Wellens (bass) and <b>Pieter Dedoncker (drums)</b>
+    * <b>@{SiX MiX KOMPAS}[http://www.kompasmuziek.be] </b>with Amy Merril (violin),
+      Tine Van Boven (violin), <b>Andries Baele (violin)</b>, Geert Laureyssen (accordion), 
+      Jan Moons (percussions) and Freija De Mol (bass)
+    * <b>KOSTAS CHATZ BAND </b>with Kostas Chatz (guitar and vocals), Mariske Broeckmeyer (vocals)
+      and <b>Pieter Dedoncker (drums)</b>
+    
+    == SHEET MUSIC and MUSIC SOFTWARE sales <br> INSTRUMENTS sales and rental
+    
+    Are you looking for sheet music or music software? Do you want to buy an instrument?  
+    Retail sales of sheet music, software and instruments is one of <br><b>CLASS & JAZZ’s</b> services. 
+    
+    == AUDIO EDITING
+    <b>CLASS & JAZZ</b> can edit your audio collages for 
+    * dance competitions
+    * dressage horses
+    * dance shows
+    * school parties
+    * company parties
+    * ...

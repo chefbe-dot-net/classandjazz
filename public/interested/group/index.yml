@@ -1,0 +1,123 @@
+template: page
+partition: all_together_now
+title:
+  nl: GROEPSLESSEN
+  fr: COURS GROUPES
+  en: GROUP LESSONS
+text:
+  nl: |
+    === Samen leren, voor beginners - De "allesomvattende" groepsles
+    
+    Naar analogie met de individuele lessen worden hier zowel het instrument als de notenleer samen benaderd (lees: @{de "allesomvattende" individuele les}[individual]). 
+    Voor beginners zijn groepslessen een laagdrempelige en toegankelijke manier om in een muzikale opleiding te stappen. 
+    
+    <b>Belangrijke opmerking voor groepslessen:</b> 
+    CLASS & JAZZ biedt uitsluitend groepslessen aan studenten die samen, 
+    in groep van minimum drie personen, inschrijven.
+    
+    === Samen meer leren over een specifiek onderwerp - De "topic" groepsles
+    === Samen spelen/zingen in een BAND of ENSEMBLE
+    
+    Het is ook mogelijk om in te schrijven voor een groepsles die slechts één onderdeel 
+    (topic) van de muziek benadert. Enkele voorbeelden: Band-coaching - Klassiek samenspel - Jazz/Rock/Pop samenspel (Combo) - Improvisatie - Compositie - Arrangement - Jazz-Harmonie - 
+    Klassieke Harmonie - Gehoortraining - Klassieke muziekgeschiedenis - Jazz/Rock/Pop muziekgeschiedenis - 
+    Pre-Notenleer van 5 tot 8 jaar) - Notenleer (vanaf 8 jaar) - Notenleer volwassenen - Muziekinformatica
+    
+    === PRAKTISCH
+    
+    De groepen of BANDS bestaan uit minimum 3 leerlingen (en, naargelang de topic, maximum 5).
+    Een ENSEMBLE bestaat uit minimum 8 leerlingen.
+    
+    Groepen en BANDS schrijven in voor, naar keuze
+    * een <b>FULL</b> abonnement: 30 x 60 minuten (+ 7 <i>gratis lessen</i>)<br>OF 15 x 120 minuten (+ 5 <i>gratis lessen</i>).
+    * een <b>LIGHT</b> abonnement: 15 x 60 minuten (+ 3 <i>gratis lessen</i>)<br>OF 8 x 120 minuten (+ 2 <i>gratis lessen</i>). 
+    * een <b>Proefsessie</b>: 10 x 60 minuten OF 5 x 120 minuten.
+    
+    De lessen worden op voorhand op kalender vastgelegd. 
+    De groepsles vereist een regelmatige aanwezigheid om het ritme van de groepsvooruitgang te kunnen volgen. 
+    
+    Men kan, vrijblijvend, contact opnemen alvorens zich definitief in te schrijven. 
+    
+    Voor tarieven, gelieve @{contact}[mailto:info@classandjazz.be] op te nemen.
+    
+    Zie ook @{instrumenten}[instruments] en @{andere cursussen}[instruments/other].
+    
+    >> @{INDIVIDUELE LESSEN}[individual]
+
+  fr: |
+    === Apprendre ensemble, pour débutants - LA LECON DE GROUPE "intégrée"
+    
+    Comme pour les cours individuels, ces leçons abordent l’instrument ET le solfège (lire : @{le cours individuel "intégré"}[individual]). Les cours
+    groupés, étant financièrement plus abordables, sont particulièrement adaptés aux débutants.
+    
+    <b>Remarque importante pour les cours groupés:</b>
+    Les cours groupés ne sont disponibles qu’aux étudiants qui s’inscrivent ensemble, 
+    en groupe de trois minimum. 
+    
+    === Apprendre ensemble à propos d’un sujet spécifié<br/> LA LECON DE GROUPE CIBLEE
+    === Jouer/chanter ensemble dans un BAND ou ENSEMBLE
+    
+    Il est possible de s’inscrire pour un cours groupé qui n’aborde qu’un sujet particulier. 
+    Quelques exemples: Band-coaching - Ensemble
+    Classique - Ensemble Jazz/Rock/Pop (combo) - Improvisation - Composition - Arrangement - Harmonie Jazz - Harmonie Classique - Entrainement
+    de l’oreille musicale - Histoire de la musique classique - histoire du Jazz/Rock/Pop - Pré-solfège (de 5 à 8 ans) - Solfège (à partir de 8
+    ans) - Solfège pour adultes - Informatique musicale
+    
+    === PRATIQUEMENT
+    
+    Les groupes ou BANDS ont un minimum de 3 élèves (et, selon le sujet abordé, un maximum de 5).
+    Un ENSEMBLE a un minimum de 8 élèves.
+    
+    Les groupes et BANDS s'inscrivent au choix pour
+    * un abonnement <b>FULL</b>: 30 x 60 minutes (+ 7 <i>leçons gratuites</i>)<br>OU 15 x 120 minutes (+ 5 <i>leçons gratuites</i>).
+    * un abonnement <b>LIGHT</b>: 15 x 60 minutes (+ 7 <i>leçons gratuites</i>)<br>OU 8 x 120 minutes (+ 2 <i>leçons gratuites</i>). 
+    * une <b>session d'Essai</b>: 10 x 60 minutes OU 5 x 120 minutes. 
+    
+    Les leçons sont fixées à l’avance sur calendrier. 
+    Il est indispensable d’être présent de façon régulière afin de pouvoir suivre le progrès du groupe.
+    
+    Il est possible de prendre contact, sans engagement, avant de s’inscrire définitivement.
+    
+    Pour les tarifs, n’hésitez pas à @{prendre contact}[mailto:info@classandjazz.be].
+    
+    Voir aussi @{instruments}[instruments] et @{autres cours}[instruments/other].
+    
+    >> @{COURS INDIVIDUELS}[individual]
+
+  en: |
+    === Learning together, for beginners <br/> THE "COMPREHENSIVE" GROUP LESSON
+    
+    As is the case for individual lessons, these lessons include instrument tuition AND music theory (read about @{the "comprehensive" individual lesson}[individual]). Group lessons, being more affordable, are especially adapted for beginners.
+    
+    <b>Important remark for group lessons:</b>
+    Group lessons are offered only to students that enlist together, in group of three minimum.
+    
+    === Learning together about a specific topic <br/> THE TOPIC GROUP LESSON
+    === Playing/singing together in a BAND or ENSEMBLE
+    
+    It is possible to register for group lessons that address only one specific topic.<br/>
+    A few examples: 
+    Band-coaching - Classical Ensemble - Jazz/Rock/Pop Ensemble (combo) - Improvisation - 
+    Composition - Arrangement - Jazz Harmony - Classical Harmony - Ear Training - Classical Music History - Jazz/Rock/Pop History - 
+    Music Theory preparation (5 to 8 years old) - Music theory (from 8 years old onwards) - Music Theory for adults - Music and Computers
+    
+    === PRACTICALLY
+    
+    Each group or BAND has a minimum of 3 students (and a maximum of 5 depending on the topic).
+    An ENSEMBLE has a minimum of 8 students.
+    
+    Groeps and BANDS subcribe at their own choice for
+    * a <b>FULL</b> subscription: 30 x 60 minutes (+ 7 <i>free lessons</i>)<br>OR 15 x 120 minutes (+ 5 <i>free lessons</i>). 
+    * a <b>LIGHT</b> subscription: 15 x 60 minutes (+ 3 <i>free lessons</i>)<br>OR 8 x 120 minutes (+ 2 <i>free lessons</i>).
+    * a <b>Try-Out</b> session: 10 x 60 minutes OR 5 x 120 minutes. 
+    
+    The lessons are scheduled on calendar in advance. It is essential to
+    attend these lessons on a regular basis if one wants to keep up with the progress of the group.
+    
+    It is possible to contact us without obligation, before registering.
+    
+    For prices, please @{contact us}[mailto:info@classandjazz.be].
+    
+    Please also read about @{instruments}[instruments] and @{other courses}[instruments/other].
+
+    >> @{INDIVIDUAL LESSONS}[individual]

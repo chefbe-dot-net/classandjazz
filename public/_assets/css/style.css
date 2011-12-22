@@ -1,0 +1,131 @@
+html {
+	font-family: Verdana, Lucida, Arial, Sans-serif;
+	font-size: 13px;
+	background: #CECECE;
+}
+a img  {
+	border: none;
+}
+#main {
+	width: 1000px;
+	height: 619px;
+	border: 1px solid black;
+	background-image: url('../images/degrade.gif');
+	margin: auto;
+	overflow: hidden;
+	position: relative;
+}
+img#menuetc {
+	position: absolute;
+	top: 20px;
+	left: 450px;
+	cursor: hand;
+}
+a#attitude_logo {
+    position: absolute;
+    top: 65px;
+    left: 450px;
+}
+a#attitude_logo.home {
+    top: auto;
+    bottom: 10px;
+    left: 10px;
+}
+div#menu {
+	display: none;
+	position: absolute;
+	top: 59px;
+	left: 451px;
+	width: 163px;
+	background: #cecece;
+	z-index: 10;
+}
+div#menu ul {
+	width: 173px;
+	list-style-type:none;
+	margin: 0;
+	border-bottom: 1px solid black;
+}
+div#menu ul li {
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+div#menu ul li a {
+	text-decoration: none;
+	display: block;
+	background: #cecece;
+	color: black;
+	width: 163px;
+	padding: 4px;
+}
+div#menu ul li a:hover {
+	background: #32c8f0;
+	color: #b9004e;
+}
+img#keyboard {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+div#title {
+	position: absolute;
+	top: 160px;
+	left: 20px;
+	color: cyan;
+	font-weight: bold;
+	font-variant: small-caps;
+	font-size: 25px;
+}
+img#logo {
+	position: absolute;
+	left: 10px;
+	top: 10px;
+}
+div#photo{
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 350px;
+	height: 210px;
+	background-repeat: no-repeat;
+}
+table#content {
+	position: absolute;
+	top: 150px;
+	width: 620px;
+	height: 450px;
+	overflow: hidden;
+}
+div.jScrollPaneContainer {
+	background-image: url('../images/white.gif');
+}
+div#scrollarea {
+	height: 450px;
+	width: 620px;
+	position: relative;
+	padding-top: 0px;
+	z-index: 2;
+	overflow: hidden;
+/*	border: 1px solid black;*/
+}
+div#text {
+	line-height: 20px;
+	color: #336699;
+	padding: 4px;
+}
+div#text h1 {
+	margin-top: 0;
+	padding-top: 0px;
+	font-size: 14px;
+	font-style: bold;
+	font-variant: small-caps;
+}
+img#partition {
+	position: absolute;
+	bottom: -100px;
+	right: 0;
+	opacity: 0.2;
+	filter: alpha(opacity=20);
+	-moz-opacity: 0.2;
+}

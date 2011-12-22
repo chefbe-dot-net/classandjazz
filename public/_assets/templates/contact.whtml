@@ -1,0 +1,87 @@
+<div id="main">
+  <a href="/">
+    <img id="logo" src="/images/class_and_jazz.gif"/>
+  </a>
+  <img id="keyboard" src="/images/keyboard_${lang}.gif" border="0" usemap="#map"/>
+  <map name="map">
+    <area shape="poly" coords="113,30,127,22,323,27,323,61,114,58" href="@{news/}" />
+    <area shape="poly" coords="114,111,131,106,323,106,324,144,114,143" href="@{philosophy/}" />
+    <area shape="poly" coords="115,172,132,167,324,166,325,201,114,202" href="@{pedagogy/}" />
+    <area shape="poly" coords="117,261,139,258,323,257,324,292,116,293" href="@{instruments/}" />
+    <area shape="poly" coords="117,322,323,320,323,351,117,353" href="@{interested/}" />
+    <area shape="poly" coords="119,385,322,381,322,415,121,418" href="https://sites.google.com/site/classandjazzwebschool/home/" />
+    <area shape="poly" coords="121,485,325,478,324,515,123,522" href="@{live_music/}" />
+    <area shape="poly" coords="124,558,323,548,325,585,125,593" href="@{partners/}" />
+  </map>
+  <img id="partition" src="/images/partitions/birdland.gif"/>
+  <<+{menu.whtml share all}
+  <div id="infos">
+    <div id="contact">
+      <img alt="contact" src="/images/contact.gif"/>
+      <p>Raph Van Goubergen</p>
+      <p>016 65 11 79 / 0486 11 95 66</p>
+    </div>
+    <div id="addr">
+      <img alt="address" src="/images/address_${lang}.gif"/>
+      <p>Studio Birdland Belgium</p>
+      <p>
+        <a target="_blank" href="http://maps.google.fr/maps?f=q&source=s_q&hl=${lang}&geocode=&q=langestraat+78+Kampenhout+Belgique&sll=46.845164,1.73584&sspn=13.289173,33.815918&ie=UTF8&ll=50.962779,4.560056&spn=0.011947,0.033023&z=16&iwloc=A">
+          Langestraat 78 - 1910 Kampenhout
+        </a>
+      </p>
+    </div>
+    <div id="mail">
+      <img src="/images/mail.gif"/> 
+      <a href="mailto:info@classandjazz.be">info@classandjazz.be</a>
+    </div>
+  </div>
+</div>
+<style>
+  #infos {
+    font-family: tahoma, sans-serif; 
+    font-stretch: ultra-expanded;
+    font-size: 16px;
+    font-weight: bold;
+    word-spacing: 2px;
+    letter-spacing: -0.10em;
+  }
+  img#partition {
+    position: absolute;
+    bottom: -300px;
+    opacity: 0.5;
+    filter: alpha(opacity=50); 
+    -moz-opacity: 0.5;
+    z-index: 0;
+    left: -100px;
+  }
+  div#contact {
+    position: absolute;
+    top: 140px;
+    left: 100px;
+  }
+  div#addr {
+    position: absolute;
+    top: 140px;
+    left: 360px;
+  }
+  div#mail {
+    position: absolute;
+    top: 260px;
+    left: 360px;
+  } 
+  p {
+    margin: 3px;
+  }
+  div#flash {
+    position: relative;
+    width: 500px;
+    height: 285px;
+    top: 300px;
+    left: 15px;
+    background: white;
+    border: 2px solid #b9004e;
+    padding: 5px;
+    overflow: auto;
+  }
+</style>
+

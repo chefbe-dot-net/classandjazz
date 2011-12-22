@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="${lang}">
+  <head>
+    <title>${title[lang]}</title>
+    <meta name="keywords" content="${keywords[lang].join(', ')}">
+    <meta name="description" content="${description[lang]}">
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="/_assets/css/style.css" />
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script src="/_assets/js/jquery-1.6.4.min.js"></script>
+    <script src="/_assets/js/websync-tools-0.0.1.js"></script>
+ </head>
+  <body>
+    <<+{${template}.whtml share all}
+    ?{environment == :production}{<<+{analytics.whtml share all}}
+  </body>
+</html>

@@ -1,0 +1,5 @@
+logs/*
+tmp/*
+.bundle
+vendor/bundle
+websync-admin

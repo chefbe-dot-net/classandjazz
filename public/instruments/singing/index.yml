@@ -1,0 +1,35 @@
+picture: 
+partition: you_taught_my_heart_to_sing
+title:
+  nl: JAZZ ZANG en KLASSIEKE ZANG
+  fr: CHANT CLASSIQUE et JAZZ
+  en: JAZZ and CLASSICAL SINGING
+text:
+  nl: |-
+    <b>Een opleiding zang</b> is mogelijk vanaf 8 jaar.
+    
+    De lessen kunnen gegeven worden in het Nederlands, Engels of Frans.
+    
+    Onze leerkrachten:<br>
+    <b>@{Raph Van Goubergen}[instruments/piano]</b> - Jazz Zang<br>
+    <b>@{Majorie Vanhaverbeke}[instruments/singing_Majorie]</b> - Klassieke Zang
+    
+  fr: |-
+    <b>Les cours de chant</b> sont possibles à partir de 8 ans.
+    
+    Les leçons peuvent être données en français, en néerlandais et en anglais.
+    
+    Nos professeurs:<br>
+    <b>@{Raph Van Goubergen}[instruments/piano]</b> - Chant Jazz<br>
+    <b>@{Majorie Vanhaverbeke}[instruments/singing_Majorie]</b> - Chant Classique
+    
+  en: |-
+    <b>Singing lessons</b> are possible from the age of 8 years old.
+    
+    Lessons can be followed in English, Dutch or French. 
+    
+    Our teachers:<br>
+    <b>@{Raph Van Goubergen}[instruments/piano]</b> - Jazz Singing<br>
+    <b>@{Majorie Vanhaverbeke}[instruments/singing_Majorie]</b> -Classical Singing
+    
+
