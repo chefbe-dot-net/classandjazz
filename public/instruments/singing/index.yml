@@ -12,7 +12,7 @@ text:
     
     Onze leerkrachten:<br>
     <b>@{/instruments/piano/}{Raph Van Goubergen}</b> - Jazz Zang<br>
-    <b>@{/instruments/singing_Majorie/}{Majorie Vanhaverbeke}</b> - Klassieke Zang
+    <b>@{/instruments/singing/majorie/}{Majorie Vanhaverbeke}</b> - Klassieke Zang
     
   fr: |-
     <b>Les cours de chant</b> sont possibles à partir de 8 ans.
@@ -21,7 +21,7 @@ text:
     
     Nos professeurs:<br>
     <b>@{/instruments/piano/}{Raph Van Goubergen}</b> - Chant Jazz<br>
-    <b>@{/instruments/singing_Majorie/}{Majorie Vanhaverbeke}</b> - Chant Classique
+    <b>@{/instruments/singing/majorie/}{Majorie Vanhaverbeke}</b> - Chant Classique
     
   en: |-
     <b>Singing lessons</b> are possible from the age of 8 years old.
@@ -30,6 +30,6 @@ text:
     
     Our teachers:<br>
     <b>@{/instruments/piano/}{Raph Van Goubergen}</b> - Jazz Singing<br>
-    <b>@{/instruments/singing_Majorie/}{Majorie Vanhaverbeke}</b> -Classical Singing
+    <b>@{/instruments/singing/majorie/}{Majorie Vanhaverbeke}</b> -Classical Singing
     
 
