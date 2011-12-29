@@ -3,7 +3,6 @@
   <<+{bricks/keyboard.whtml share all}
   <<+{bricks/menu.whtml     share all}
 
-  <div id="photo"></div>
   <table id="partners">
   *{partners as partner}{
     <tr>
