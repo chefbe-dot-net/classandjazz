@@ -38,7 +38,7 @@ menu:
     - label: Zang
       url: /instruments/singing/
     - label: Contrabas
-      url: /instruments/other_instruments/
+      url: /instruments/other-instruments/
     - label: Drums & Percussie
       url: /instruments/dr_and_perc_Pieter/
     - label: Viool, Folk Viool & Elektrische Viool
@@ -46,11 +46,11 @@ menu:
     - label: Cello
       url: /instruments/cello/
     - label: Houtblazers en Koperblazers
-      url: /instruments/other_instruments/
+      url: /instruments/other-instruments/
     - label: Andere Instrumenten
-      url: /instruments/other_instruments/
+      url: /instruments/other-instruments/
     - label: Andere cursussen
-      url: /instruments/other/
+      url: /instruments/other-courses/
   - label: Interesse ?
     url: /interested/
     menu:
@@ -86,7 +86,7 @@ menu:
     - label: Singing
       url: /instruments/singing/
     - label: Double Bass
-      url: /instruments/other_instruments/
+      url: /instruments/other-instruments/
     - label: Drums & Percussion
       url: /instruments/dr_and_perc_Pieter/
     - label: Violin, Folk Violin & Electric Violin
@@ -94,11 +94,11 @@ menu:
     - label: Cello
       url: /instruments/cello/
     - label: Woodwinds and Brass
-      url: /instruments/other_instruments/
+      url: /instruments/other-instruments/
     - label: Other Instruments
-      url: /instruments/other_instruments/
+      url: /instruments/other-instruments/
     - label: Other courses
-      url: /instruments/other/
+      url: /instruments/other-courses/
   - label: Interested ?
     url: /interested/
     menu:
@@ -134,7 +134,7 @@ menu:
     - label: Singing
       url: /instruments/singing/
     - label: Double Bass
-      url: /instruments/other_instruments/
+      url: /instruments/other-instruments/
     - label: Drums & Percussion
       url: /instruments/dr_and_perc_Pieter/
     - label: Violin, Folk Violin & Electric Violin
@@ -142,11 +142,11 @@ menu:
     - label: Cello
       url: /instruments/cello/
     - label: Woodwinds and Brass
-      url: /instruments/other_instruments/
+      url: /instruments/other-instruments/
     - label: Other Instruments
-      url: /instruments/other_instruments/
+      url: /instruments/other-instruments/
     - label: Other courses
-      url: /instruments/other/
+      url: /instruments/other-courses/
   - label: Interested ?
     url: /interested/
     menu:
