@@ -9,5 +9,11 @@
     <h2>+{title[lang]}</h2>
     ~{text[lang]}
   </div>
+
+  ?{knows?(:picture)}{
+    <style>
+      div#photo { background-image: url('/_assets/photos/${picture}'); }
+    </style>
+  }
 </div>
 

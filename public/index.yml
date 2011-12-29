@@ -34,7 +34,7 @@ menu:
       - label: Piano & Keyboards
         url: /instruments/piano/
       - label: Gitaar, Elektrische Gitaar & Basgitaar
-        url: /instruments/guitar_and_bass/
+        url: /instruments/guitar-and-bass/
       - label: Zang
         url: /instruments/singing/
       - label: Contrabas
@@ -82,7 +82,7 @@ menu:
       - label: Piano & Claviers
         url: /instruments/piano/
       - label: Guitare, Guitare électrique & Guitare basse
-        url: /instruments/guitar_and_bass/
+        url: /instruments/guitar-and-bass/
       - label: Chant
         url: /instruments/singing/
       - label: Contrebasse
@@ -130,7 +130,7 @@ menu:
       - label: Piano & Keyboards
         url: /instruments/piano/
       - label: Guitar, Electric Guitar & Bass Guitar
-        url: /instruments/guitar_and_bass/
+        url: /instruments/guitar-and-bass/
       - label: Singing
         url: /instruments/singing/
       - label: Double Bass

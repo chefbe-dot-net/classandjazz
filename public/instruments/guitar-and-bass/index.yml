@@ -11,8 +11,8 @@ text:
     De lessen kunnen gegeven worden in het Nederlands, Frans, Engels of Duits. 
 
     Onze leerkrachten: <br>
-    <b>@{/instruments/guitar_and_bass_Michel/}{Michel Kuijken}</b> <br>
-    <b>@{/instruments/guitar_and_bass_Bart/}{Bart Buls}</b>
+    <b>@{/instruments/guitar-and-bass/michel/}{Michel Kuijken}</b> <br>
+    <b>@{/instruments/guitar-and-bass/bart/}{Bart Buls}</b>
     
   fr: |-
     <b>Les cours de guitare</b> sont possibles à partir de 8 ans.
@@ -21,8 +21,8 @@ text:
     en allemand.
     
     Nos professeurs:<br>
-    <b>@{/instruments/guitar_and_bass_Michel/}{Michel Kuijken}</b> <br/>
-    <b>@{/instruments/guitar_and_bass_Bart/}{Bart Buls}</b>
+    <b>@{/instruments/guitar-and-bass/michel/}{Michel Kuijken}</b> <br/>
+    <b>@{/instruments/guitar-and-bass/bart/}{Bart Buls}</b>
     
   en: |-
     <b>Guitar lessons</b> are possible from the age of 8 years old. 
@@ -30,6 +30,6 @@ text:
     Lessons can be followed in English, Dutch, French or German 
     
     Our teachers:<br>
-    <b>@{/instruments/guitar_and_bass_Michel/}{Michel Kuijken}</b> <br>
-    <b>@{/instruments/guitar_and_bass_Bart/}{Bart Buls}</b>
+    <b>@{/instruments/guitar-and-bass/michel/}{Michel Kuijken}</b> <br>
+    <b>@{/instruments/guitar-and-bass/bart/}{Bart Buls}</b>
   
