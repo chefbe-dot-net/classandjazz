@@ -66,8 +66,10 @@ module ClassAndJazz
 
       def load_ctx(lang, url)
         ctx = {}
-        while url.exist?
-          ctx = YAML::load(url.read).merge(ctx)
+        until (url == PUBLIC.parent/"index.yml")
+          if url.exist?
+            ctx = YAML::load(url.read).merge(ctx) 
+          end
           url = url.dir.parent/"index.yml"
         end
         {
