@@ -1,0 +1,12 @@
+<img id="keyboard" src="/images/keyboard_${lang}.gif" border="0" usemap="#map"/>
+<map name="map">
+  <area shape="poly" coords="113,30,127,22,323,27,323,61,114,58" href="@{/news/}" />
+  <area shape="poly" coords="114,111,131,106,323,106,324,144,114,143" href="@{/philosophy/}" />
+  <area shape="poly" coords="115,172,132,167,324,166,325,201,114,202" href="@{/pedagogy/}" />
+  <area shape="poly" coords="117,261,139,258,323,257,324,292,116,293" href="@{/instruments/}" />
+  <area shape="poly" coords="117,322,323,320,323,351,117,353" href="@{/interested/}" />
+  <area shape="poly" coords="119,385,322,381,322,415,121,418" href="https://sites.google.com/site/classandjazzwebschool/home/" />
+  <area shape="poly" coords="121,485,325,478,324,515,123,522" href="@{/live-music/}" />
+  <area shape="poly" coords="124,558,323,548,325,585,125,593" href="@{/partners/}" />
+</map>
+

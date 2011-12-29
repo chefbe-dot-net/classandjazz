@@ -1,0 +1,44 @@
+<style type="text/css">
+  p { margin: 3px; }
+  table#partners {
+    position: absolute;
+    top: 170px;
+    left: 45px;
+    border-collapse: separate;
+    border-spacing: 0 20px; }
+  table#partners tr td {
+    padding-right: 10px;
+    vertical-align: top; }
+  table#partners a {
+    text-decoration: none; }
+  a h1 {
+    color: black;
+    margin-top: 0; }
+</style>
+
+<div id="main">
+  <div id="photo"></div>
+  <a href="/">
+    <img id="logo" alt="logo" src="/images/class_and_jazz.gif"/>
+  </a>
+  <<+{keyboard.whtml share all}
+  <<+{menu.whtml share all}
+
+  <table id="partners">
+  *{partners as partner}{
+    <tr>
+      <td class="pic">
+        <img src="${partner.picture}"/>
+      </td>
+      <td>
+	      <a href="${partner.website}"><h1>${partner.title}</h1></a>
+        ~{partner.text[lang]}
+      </td>
+    </tr>
+  }
+  </table>
+</div>
+
+
+
+
