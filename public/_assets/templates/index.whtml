@@ -1,11 +1,11 @@
 <div id="main"> 
-  <img src="/images/home.jpg" width="1000" height="619" border="0" usemap="#map" alt="Home" /> 
+  <img src="/_assets/images/home.jpg" width="1000" height="619" border="0" usemap="#map" alt="Home" /> 
   <map name="map" id="homemap"> 
     <area shape="poly" coords="50,387,58,380,232,362,236,369,235,388,225,403,51,420" href="/contact/?lang=nl" alt="Muziek"/> 
     <area shape="poly" coords="298,363,307,357,481,338,483,348,483,365,472,379,298,396" href="/contact/?lang=fr" alt="Musique"/> 
     <area shape="poly" coords="527,340,534,334,709,315,711,321,712,341,702,356,527,373" href="/contact/?lang=en" alt="Music"/> 
   </map> 
   <a id="attitude_logo" class="home" target="_blank" href="http://www.balletschoolattitude.be" title="Balletschool Attitude">
-    <img src="/images/attitude_logo.gif" alt="Balletschool Attitude"/>
+    <img src="/_assets/images/attitude_logo.gif" alt="Balletschool Attitude"/>
   </a> 
 </div>

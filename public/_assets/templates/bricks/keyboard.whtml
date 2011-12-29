@@ -1,4 +1,4 @@
-<img id="keyboard" src="/images/keyboard_${lang}.gif" border="0" usemap="#map"/>
+<img id="keyboard" src="/_assets/images/keyboard_${lang}.gif" border="0" usemap="#map"/>
 <map name="map">
   <area shape="poly" coords="113,30,127,22,323,27,323,61,114,58" href="@{/news/}" />
   <area shape="poly" coords="114,111,131,106,323,106,324,144,114,143" href="@{/philosophy/}" />

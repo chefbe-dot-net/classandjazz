@@ -1,10 +1,10 @@
-<img id="menuetc" src="/images/menu.gif"
+<img id="menuetc" src="/_assets/images/menu.gif"
      onmouseover="$('#menu').show()" 
      onmouseout="$('#menu').hide()" />
 <a id="attitude_logo" target="_blank" 
    href="http://www.balletschoolattitude.be" 
    title="Balletschool Attitude">
-  <img src="/images/attitude_logo.gif" alt="Balletschool Attitude"/>
+  <img src="/_assets/images/attitude_logo.gif" alt="Balletschool Attitude"/>
 </a>
 <div id="menu" 
      onmouseover="$('#menu').show()"  
