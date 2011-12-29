@@ -3,7 +3,7 @@
   <<+{bricks/keyboard.whtml share all}
   <<+{bricks/menu.whtml     share all}
 
-  <img id="partition" src="/images/partitions/birdland.gif"/>
+  <img id="partition" src="/_assets/partitions/birdland.gif"/>
 
   <div id="infos">
     <div id="contact">

@@ -3,7 +3,7 @@
   <<+{bricks/menu.whtml share all}
 
   <div id="photo"></div>
-  <img id="partition" src="/images/partitions/${partition}.gif"/>
+  <img id="partition" src="/_assets/partitions/${partition}.gif"/>
 
   <div id="text">
     <h2>+{title[lang]}</h2>
