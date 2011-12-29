@@ -39,7 +39,7 @@ text:
     Wenst u meer informatie over reeds bestaande cursussen? Wenst u op de hoogte 
     gehouden te worden van nieuwe cursussen? Laat het ons weten: mailto:info@classandjazz.be
     
-    Zie ook @{/instruments/}{instrumenten} en @{/instruments/other/}{andere cursussen}.
+    Zie ook @{/instruments/}{instrumenten} en @{/instruments/other-instruments/}{andere cursussen}.
     
   fr: |-
     CLASS & JAZZ n’étant pas une école officielle, nos programmes ne sont pas liés 
@@ -74,7 +74,7 @@ text:
     Désirez-vous de plus amples renseignements au sujet des possibilités pour certains 
     cours spécifiques ? Faites-le nous savoir: mailto:info@classandjazz.be
     
-    Voir aussi @{/instruments/}{instruments} et @{/instruments/other/}{autres cours}.
+    Voir aussi @{/instruments/}{instruments} et @{/instruments/other-instruments/}{autres cours}.
     
   en: |-
     CLASS & JAZZ is not an official school and is therefore not bound to school 
@@ -109,4 +109,4 @@ text:
     Would you like more information about existing courses? Would you like to be 
     kept informed about new courses? Please, let us know: mailto:info@classandjazz.be
     
-    Please also read @{/instruments/}{about instruments} and @{/instruments/other/}{other courses}.
+    Please also read @{/instruments/}{about instruments} and @{/instruments/other-instruments/}{other courses}.
