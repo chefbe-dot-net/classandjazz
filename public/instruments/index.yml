@@ -16,15 +16,15 @@ text:
       @{/instruments/cello/}{cello}
     * Vanaf 8 jaar: 
       @{/instruments/piano/}{piano & keyboards} - 
-      @{/instruments/guitar_and_bass/}{gitaar, folk gitaar & elektrische gitaar} - 
-      @{/instruments/guitar_and_bass/}{basgitaar} - 
-      @{/instruments/other_instruments/}{contrabas} -
+      @{/instruments/guitar-and-bass/}{gitaar, folk gitaar & elektrische gitaar} - 
+      @{/instruments/guitar-and-bass/}{basgitaar} - 
+      @{/instruments/other-instruments/}{contrabas} -
       @{/instruments/violin/}{viool, folk viool & elektrische viool} - 
       @{/instruments/cello/}{cello} -
       @{/instruments/singing/}{zang} - 
-      @{/instruments/dr_and_perc_Pieter/}{drums & percussie} - 
-      @{/instruments/other_instruments/}{houtblazers & koperblazers} -
-      @{/instruments/other_instruments/}{andere instrumenten}
+      @{/instruments/drums-and-percurssions/pieter/}{drums & percussie} - 
+      @{/instruments/other-instruments/}{houtblazers & koperblazers} -
+      @{/instruments/other-instruments/}{andere instrumenten}
     
     ## Andere cursussen (meer info op @{/instruments/other/}{deze pagina})
 
@@ -52,15 +52,15 @@ text:
       @{/instruments/cello/}{violoncelle}
     * A partir de 8 ans: 	
       @{/instruments/piano/}{piano & claviers} - 
-      @{/instruments/guitar_and_bass/}{guitare, guitare folk & guitare électrique} - 
-      @{/instruments/guitar_and_bass/}{guitare basse} - 
-      @{/instruments/other_instruments/}{contrebasse} -
+      @{/instruments/guitar-and-bass/}{guitare, guitare folk & guitare électrique} - 
+      @{/instruments/guitar-and-bass/}{guitare basse} - 
+      @{/instruments/other-instruments/}{contrebasse} -
       @{/instruments/violin/}{violon, violon folk & violon électrique} - 
       @{/instruments/cello/}{violoncelle} - 
       @{/instruments/singing/}{chant} - 
-      @{/instruments/dr_and_perc_Pieter/}{batterie & percussions} - 
-      @{/instruments/other_instruments/}{instruments à vent bois et cuivres} -
-      @{/instruments/other_instruments/}{autres instruments}
+      @{/instruments/drums-and-percurssions/pieter/}{batterie & percussions} - 
+      @{/instruments/other-instruments/}{instruments à vent bois et cuivres} -
+      @{/instruments/other-instruments/}{autres instruments}
         
     ## Autres cours (plus d’informations sur @{/instruments/other/}{cette page})
 
@@ -89,15 +89,15 @@ text:
       @{/instruments/cello/}{cello}
     * From the age of 8 years old: 	
       @{/instruments/piano/}{piano & keyboards} - 
-      @{/instruments/guitar_and_bass/}{guitar, folk guitar & electric guitar} - 
-      @{/instruments/guitar_and_bass/}{bass guitar} - 
-      @{/instruments/other_instruments/}{double bass} -
+      @{/instruments/guitar-and-bass/}{guitar, folk guitar & electric guitar} - 
+      @{/instruments/guitar-and-bass/}{bass guitar} - 
+      @{/instruments/other-instruments/}{double bass} -
       @{/instruments/violin/}{violin, folk violin & electric violin} - 
       @{/instruments/cello/}{cello} -
       @{/instruments/singing/}{singing} - 
-      @{/instruments/dr_and_perc_Pieter/}{drums & percussion} -
-      @{/instruments/other_instruments/}{woodwind and brass} -
-      @{/instruments/other_instruments/}{other instruments} 
+      @{/instruments/drums-and-percurssions/pieter/}{drums & percussion} -
+      @{/instruments/other-instruments/}{woodwind and brass} -
+      @{/instruments/other-instruments/}{other instruments} 
     
     ## Other courses (more information on @{/instruments/other/}{this page})
 
