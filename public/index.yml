@@ -40,7 +40,7 @@ menu:
       - label: Contrabas
         url: /instruments/other-instruments/
       - label: Drums & Percussie
-        url: /instruments/dr_and_perc_Pieter/
+        url: /instruments/drums-and-percurssions/pieter/
       - label: Viool, Folk Viool & Elektrische Viool
         url: /instruments/violin/
       - label: Cello
@@ -64,7 +64,7 @@ menu:
       url: /live-music/
       menu:
       - label: Zoekertjes
-        url: /live-music/classifieds/
+        url: /classifieds/
   fr:
     - label: Home
       url: /
@@ -88,7 +88,7 @@ menu:
       - label: Contrebasse
         url: /instruments/other-instruments/
       - label: Batterie & Percussions
-        url: /instruments/dr_and_perc_Pieter/
+        url: /instruments/drums-and-percurssions/pieter/
       - label: Violon, Violon Folk & Violon électrique
         url: /instruments/violin/
       - label: Violoncelle
@@ -112,7 +112,7 @@ menu:
       url: /live-music/
       menu:
       - label: Petites Annonces
-        url: /live-music/classifieds/
+        url: /classifieds/
   en:
     - label: Home
       url: /
@@ -136,7 +136,7 @@ menu:
       - label: Double Bass
         url: /instruments/other-instruments/
       - label: Drums & Percussion
-        url: /instruments/dr_and_perc_Pieter/
+        url: /instruments/drums-and-percurssions/pieter/
       - label: Violin, Folk Violin & Electric Violin
         url: /instruments/violin/
       - label: Cello
@@ -160,5 +160,5 @@ menu:
       url: /live-music/
       menu:
       - label: Classifieds
-        url: /live-music/classifieds/
+        url: /classifieds/
 
