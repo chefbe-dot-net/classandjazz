@@ -1,7 +1,7 @@
 <div id="main">
-  <<+{logo.whtml     share all}
-  <<+{keyboard.whtml share all}
-  <<+{menu.whtml     share all}
+  <<+{bricks/logo.whtml     share all}
+  <<+{bricks/keyboard.whtml share all}
+  <<+{bricks/menu.whtml     share all}
 
   <img id="partition" src="/images/partitions/birdland.gif"/>
 

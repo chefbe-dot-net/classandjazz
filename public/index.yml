@@ -18,147 +18,147 @@ keywords:
     - music
 menu:
   nl:
-  - label: Home
-    url: /
-  - label: Contact
-    url: /contact/
-  - label: News !
-    url: /news/
-  - label: Filosofie
-    url: /philosophy/
-  - label: Pedagogie
-    url: /pedagogy/
-  - label: Instrumenten
-    url: /instruments/
-    menu:
-    - label: Piano & Keyboards
-      url: /instruments/piano/
-    - label: Gitaar, Elektrische Gitaar & Basgitaar
-      url: /instruments/guitar_and_bass/
-    - label: Zang
-      url: /instruments/singing/
-    - label: Contrabas
-      url: /instruments/other-instruments/
-    - label: Drums & Percussie
-      url: /instruments/dr_and_perc_Pieter/
-    - label: Viool, Folk Viool & Elektrische Viool
-      url: /instruments/violin/
-    - label: Cello
-      url: /instruments/cello/
-    - label: Houtblazers en Koperblazers
-      url: /instruments/other-instruments/
-    - label: Andere Instrumenten
-      url: /instruments/other-instruments/
-    - label: Andere cursussen
-      url: /instruments/other-courses/
-  - label: Interesse ?
-    url: /interested/
-    menu:
-    - label: Individuele lessen
-      url: /individual/
-    - label: Groepslessen
-      url: /group/
-  - label: Webschool
-    url: https://sites.google.com/site/classandjazzwebschool/home
-  - label: Live Music & More
-    url: /live_music/
-    menu:
-    - label: Zoekertjes
-      url: /live_music/classifieds/
+    - label: Home
+      url: /
+    - label: Contact
+      url: /contact/
+    - label: News !
+      url: /news/
+    - label: Filosofie
+      url: /philosophy/
+    - label: Pedagogie
+      url: /pedagogy/
+    - label: Instrumenten
+      url: /instruments/
+      menu:
+      - label: Piano & Keyboards
+        url: /instruments/piano/
+      - label: Gitaar, Elektrische Gitaar & Basgitaar
+        url: /instruments/guitar_and_bass/
+      - label: Zang
+        url: /instruments/singing/
+      - label: Contrabas
+        url: /instruments/other-instruments/
+      - label: Drums & Percussie
+        url: /instruments/dr_and_perc_Pieter/
+      - label: Viool, Folk Viool & Elektrische Viool
+        url: /instruments/violin/
+      - label: Cello
+        url: /instruments/cello/
+      - label: Houtblazers en Koperblazers
+        url: /instruments/other-instruments/
+      - label: Andere Instrumenten
+        url: /instruments/other-instruments/
+      - label: Andere cursussen
+        url: /instruments/other-courses/
+    - label: Interesse ?
+      url: /interested/
+      menu:
+      - label: Individuele lessen
+        url: /individual/
+      - label: Groepslessen
+        url: /group/
+    - label: Webschool
+      url: https://sites.google.com/site/classandjazzwebschool/home
+    - label: Live Music & More
+      url: /live-music/
+      menu:
+      - label: Zoekertjes
+        url: /live-music/classifieds/
   fr:
-  - label: Home
-    url: /
-  - label: Contact
-    url: /contact/
-  - label: News !
-    url: /news/
-  - label: Philosophy
-    url: /philosophy/
-  - label: Pedagogy
-    url: /pedagogy/
-  - label: Instruments
-    url: /instruments/
-    menu:
-    - label: Piano & Keyboards
-      url: /instruments/piano/
-    - label: Guitar, Electric Guitar & Bass Guitar
-      url: /instruments/guitar_and_bass/
-    - label: Singing
-      url: /instruments/singing/
-    - label: Double Bass
-      url: /instruments/other-instruments/
-    - label: Drums & Percussion
-      url: /instruments/dr_and_perc_Pieter/
-    - label: Violin, Folk Violin & Electric Violin
-      url: /instruments/violin/
-    - label: Cello
-      url: /instruments/cello/
-    - label: Woodwinds and Brass
-      url: /instruments/other-instruments/
-    - label: Other Instruments
-      url: /instruments/other-instruments/
-    - label: Other courses
-      url: /instruments/other-courses/
-  - label: Interested ?
-    url: /interested/
-    menu:
-    - label: Individual lessons
-      url: /individual/
-    - label: Group lessons
-      url: /group/
-  - label: Web School
-    url: https://sites.google.com/site/classandjazzwebschool/home
-  - label: Live Music & More
-    url: /live_music/
-    menu:
-    - label: Classifieds
-      url: /live_music/classifieds/
+    - label: Home
+      url: /
+    - label: Contact
+      url: /contact/
+    - label: News !
+      url: /news/
+    - label: Philosophie
+      url: /philosophy/
+    - label: Pédagogie
+      url: /pedagogy/
+    - label: Instruments
+      url: /instruments/
+      menu:
+      - label: Piano & Claviers
+        url: /instruments/piano/
+      - label: Guitare, Guitare électrique & Guitare basse
+        url: /instruments/guitar_and_bass/
+      - label: Chant
+        url: /instruments/singing/
+      - label: Contrebasse
+        url: /instruments/other-instruments/
+      - label: Batterie & Percussions
+        url: /instruments/dr_and_perc_Pieter/
+      - label: Violon, Violon Folk & Violon électrique
+        url: /instruments/violin/
+      - label: Violoncelle
+        url: /instruments/cello/
+      - label: Instruments à vent Bois et Cuivres
+        url: /instruments/other-instruments/
+      - label: Autres Instruments
+        url: /instruments/other-instruments/
+      - label: Autres cours
+        url: /instruments/other-courses/
+    - label: Interessé ?
+      url: /interested/
+      menu:
+      - label: Cours individuels
+        url: /individual/
+      - label: Cours groupés
+        url: /group/
+    - label: Ecole WEB
+      url: https://sites.google.com/site/classandjazzwebschool/home
+    - label: Live Music & More
+      url: /live-music/
+      menu:
+      - label: Petites Annonces
+        url: /live-music/classifieds/
   en:
-  - label: Home
-    url: /
-  - label: Contact
-    url: /contact/
-  - label: News !
-    url: /news/
-  - label: Philosophy
-    url: /philosophy/
-  - label: Pedagogy
-    url: /pedagogy/
-  - label: Instruments
-    url: /instruments/
-    menu:
-    - label: Piano & Keyboards
-      url: /instruments/piano/
-    - label: Guitar, Electric Guitar & Bass Guitar
-      url: /instruments/guitar_and_bass/
-    - label: Singing
-      url: /instruments/singing/
-    - label: Double Bass
-      url: /instruments/other-instruments/
-    - label: Drums & Percussion
-      url: /instruments/dr_and_perc_Pieter/
-    - label: Violin, Folk Violin & Electric Violin
-      url: /instruments/violin/
-    - label: Cello
-      url: /instruments/cello/
-    - label: Woodwinds and Brass
-      url: /instruments/other-instruments/
-    - label: Other Instruments
-      url: /instruments/other-instruments/
-    - label: Other courses
-      url: /instruments/other-courses/
-  - label: Interested ?
-    url: /interested/
-    menu:
-    - label: Individual lessons
-      url: /individual/
-    - label: Group lessons
-      url: /group/
-  - label: Web School
-    url: https://sites.google.com/site/classandjazzwebschool/home
-  - label: Live Music & More
-    url: /live_music/
-    menu:
-    - label: Classifieds
-      url: /live_music/classifieds/
+    - label: Home
+      url: /
+    - label: Contact
+      url: /contact/
+    - label: News !
+      url: /news/
+    - label: Philosophy
+      url: /philosophy/
+    - label: Pedagogy
+      url: /pedagogy/
+    - label: Instruments
+      url: /instruments/
+      menu:
+      - label: Piano & Keyboards
+        url: /instruments/piano/
+      - label: Guitar, Electric Guitar & Bass Guitar
+        url: /instruments/guitar_and_bass/
+      - label: Singing
+        url: /instruments/singing/
+      - label: Double Bass
+        url: /instruments/other-instruments/
+      - label: Drums & Percussion
+        url: /instruments/dr_and_perc_Pieter/
+      - label: Violin, Folk Violin & Electric Violin
+        url: /instruments/violin/
+      - label: Cello
+        url: /instruments/cello/
+      - label: Woodwinds and Brass
+        url: /instruments/other-instruments/
+      - label: Other Instruments
+        url: /instruments/other-instruments/
+      - label: Other courses
+        url: /instruments/other-courses/
+    - label: Interested ?
+      url: /interested/
+      menu:
+      - label: Individual lessons
+        url: /individual/
+      - label: Group lessons
+        url: /group/
+    - label: Web School
+      url: https://sites.google.com/site/classandjazzwebschool/home
+    - label: Live Music & More
+      url: /live-music/
+      menu:
+      - label: Classifieds
+        url: /live-music/classifieds/
 

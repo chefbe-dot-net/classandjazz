@@ -1,10 +1,10 @@
 <div id="main">
+  <<+{bricks/logo.whtml share all}
+  <<+{bricks/menu.whtml share all}
+
   <div id="photo"></div>
-  <a href="/">
-    <img id="logo" alt="logo" src="/images/class_and_jazz.gif"/>
-  </a>
-  <<+{menu.whtml share all}
   <img id="partition" src="/images/partitions/${partition}.gif"/>
+
   <div id="text">
     <h2>+{title[lang]}</h2>
     ~{text[lang]}

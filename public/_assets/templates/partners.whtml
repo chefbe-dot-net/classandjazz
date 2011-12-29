@@ -1,29 +1,9 @@
-<style type="text/css">
-  p { margin: 3px; }
-  table#partners {
-    position: absolute;
-    top: 170px;
-    left: 45px;
-    border-collapse: separate;
-    border-spacing: 0 20px; }
-  table#partners tr td {
-    padding-right: 10px;
-    vertical-align: top; }
-  table#partners a {
-    text-decoration: none; }
-  a h1 {
-    color: black;
-    margin-top: 0; }
-</style>
-
 <div id="main">
-  <div id="photo"></div>
-  <a href="/">
-    <img id="logo" alt="logo" src="/images/class_and_jazz.gif"/>
-  </a>
-  <<+{keyboard.whtml share all}
-  <<+{menu.whtml share all}
+  <<+{bricks/logo.whtml     share all}
+  <<+{bricks/keyboard.whtml share all}
+  <<+{bricks/menu.whtml     share all}
 
+  <div id="photo"></div>
   <table id="partners">
   *{partners as partner}{
     <tr>
@@ -37,6 +17,24 @@
     </tr>
   }
   </table>
+
+  <style type="text/css">
+    p { margin: 3px; }
+    table#partners {
+      position: absolute;
+      top: 170px;
+      left: 45px;
+      border-collapse: separate;
+      border-spacing: 0 20px; }
+    table#partners tr td {
+      padding-right: 10px;
+      vertical-align: top; }
+    table#partners a {
+      text-decoration: none; }
+    a h1 {
+      color: black;
+      margin-top: 0; }
+  </style>
 </div>
 
 
