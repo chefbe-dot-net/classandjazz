@@ -6,6 +6,7 @@
     <meta name="description" content="${description[lang]}">
     <meta charset="utf-8" />
     <link rel="stylesheet" href="/_assets/css/style.css" />
+    <link rel="stylesheet" href="/_assets/css/menu.css" />
     <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
