@@ -30,6 +30,6 @@
         }
       </style>
     }
-    ?{environment == :production}{<<+{analytics.whtml share all}}
+    ?{environment == :production}{<<+{bricks/analytics.whtml share all}}
   </body>
 </html>
