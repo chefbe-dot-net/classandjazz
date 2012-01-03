@@ -9,7 +9,9 @@ redirect:
 removed:
   - /instruments/sax-and-clarinet/joe/
   - /instruments/guitar-and-bass/peter/
-v1: 
+v1:
+  - old: /contact.html
+    new: /contact/
   - old: /group.html
     new: /group/
   - old: /philosophy.html
