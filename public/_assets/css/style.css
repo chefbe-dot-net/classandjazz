@@ -1,33 +1,34 @@
 html {
 	font-family: Verdana, Lucida, Arial, Sans-serif;
-	font-size: 13px;
+	font-size: 14px;
 	background: white; }
-body {
-  margin: 15px; }
-a img  {
-	border: none; }
+body { margin: 15px; }
+a img  { border: none; }
+
 #main {
-	width: 1000px;
+	width: 990px;
 	height: 619px;
-	border: 1px solid black;
-	background-image: url('../images/degrade.gif');
 	margin: auto;
+  padding: 5px;
+	border: 2px solid black;
 	overflow: hidden;
 	position: relative;
-  background: #CECECE; }
-img#menuetc {
-	position: absolute;
-	top: 20px;
-	left: 450px;
-	cursor: hand; }
-a#attitude_logo {
-    position: absolute;
-    top: 65px;
-    left: 450px; }
+  background: #CECECE;
+  /* background-image: url('images/degrade.gif'); */ }
+
+header {
+  padding: 5px 10px; 
+  margin-bottom: 20px;}
+
+#partition {
+	width: 1000px;
+  background-position: top right;
+  background-repeat: no-repeat; }
+
 a#attitude_logo.home {
-    top: auto;
-    bottom: 10px;
-    left: 10px; }
+  top: auto;
+  bottom: 10px;
+  left: 10px; }
 img#keyboard {
   position: absolute;
   top: 0;
@@ -40,30 +41,45 @@ div#title {
 	font-weight: bold;
 	font-variant: small-caps;
 	font-size: 25px; }
-img#logo {
-	position: absolute;
-	left: 10px;
-	top: 10px; }
+
 div#photo{
 	position: absolute;
-	right: 0;
-	top: 0;
-	width: 350px;
-	height: 210px;
+	right: 5px;
+	top: 5px;
+  border: 2px solid white;
+	width: 315px;
+	height: 190px;
 	background-repeat: no-repeat; }
-div#text {
-  width: 95%;
-	height: 420px;
-  margin-top: 180px;
-	line-height: 20px;
+
+#text {
+  margin-top: 20px;
+  width: 630px;
+	height: 435px;
+	line-height: 18px;
 	color: black;
 	padding: 5px 10px;
-  overflow: auto; }
-img#partition {
-	position: absolute;
-	bottom: -100px;
-	right: 0;
-	opacity: 0.2;
-	filter: alpha(opacity=20);
-	-moz-opacity: 0.2;
-  display: none; }
+  overflow: auto; 
+  background: #CECECE;
+  opacity: 0.85; }
+#text a, #text a:visited {
+  color: #336699;
+  font-weight: bold;
+  text-decoration: underline; }
+#text a:hover {
+  text-decoration: underline; }
+#text p, #text li {
+  padding: 5px;
+  text-align: justify; }
+#text h1 {
+  line-height: 25px;
+  font-size: 24px;
+  font-variant: small-caps; }
+#text h2 {
+  text-align: right; }
+#text h2, #text h3 {
+  font-size: 18px;
+  font-variant: small-caps;
+  border-bottom: 1px dashed black; }
+#text h1 a, #text h2 a, #text h3 a {
+  text-decoration: none; 
+  font-weight: bold;}

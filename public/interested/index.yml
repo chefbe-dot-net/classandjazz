@@ -1,5 +1,5 @@
 template: page
-partition: school
+partition: school.gif
 title:
   nl: Interessen?
   fr: Intéressé par nos cours?
@@ -20,13 +20,13 @@ text:
     willen doorstromen naar het hoger kunstonderwijs, als aan amateurs die recreatief 
     willen bezig zijn met muziek.
     
-    ### @{/individual/}{INDIVIDUELE LESSEN}
+    ## Individuele lessen -- @{/individual/}{meer info}
     
     Geen aparte notenleer – de “allesomvattende” individuele les
     
     De transitie – INDIVIDUELE LES TER VOORBEREIDING VAN HET CONSERVATORIUM
     
-    ### @{/group/}{GROEPSLESSEN}
+    ## Groepslessen -- @{/group/}{meer info}
     
     Samen leren, voor beginners – de “allesomvattende” groepsles
     
@@ -57,13 +57,13 @@ text:
     veulent se préparer aux hautes études musicales, qu’aux élèves amateurs qui 
     désirent aborder la musique d’un point de vue purement récréatif.
     
-    ### @{/individual/}{COURS INDIVIDUELS}
+    ## Cours individuels -- @{/individual/}{en savoir plus}
     
     Pas de solfège séparé – LE COURS INDIVIDUEL « intégré »
     
     La transition – COURS INDIVIDUEL EN PREPARATION DU CONSERVATOIRE
     
-    ### @{/group/}{COURS GROUPES}
+    ## Cours groupés -- @{/group/}{en savoir plus}
     
     Apprendre ensemble, pour débutants – LA LECON DE GROUPE « intégrée »
     
@@ -94,13 +94,13 @@ text:
     to prepare for higher music studies as well as to amateurs who prefer to play 
     music purely as a form of entertainment. 
     
-    ### @{/individual/}{INDIVIDUAL LESSONS}
+    ## Individual lessons -- @{/individual/}{more info}
     
     No separate Music Theory lessons – THE “COMPREHENSIVE” INDIVIDUAL LESSON
     
     The transition – INDIVIDUAL LESSON AS PREPARATION FOR HIGHER MUSIC STUDIES
     
-    ### @{/group/}{GROUP LESSONS}
+    ## Group lessons -- @{/group/}{more info}
     
     Learning together, for beginners – THE “COMPREHENSIVE” GROUP LESSON
     

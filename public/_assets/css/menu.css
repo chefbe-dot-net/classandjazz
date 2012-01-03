@@ -1,13 +1,23 @@
+img#menuetc {
+	position: absolute;
+	top: 20px;
+	left: 465px;
+	cursor: hand; }
+a#attitude_logo {
+  position: absolute;
+  top: 65px;
+  left: 460px; }
+
 #menu {
 	display: none;
 	position: absolute;
 	top: 59px;
-	left: 451px;
-	width: 163px;
+	left: 466px;
+	width: 183px;
 	background: #cecece;
 	z-index: 10; }
 #menu ul {
-	width: 173px;
+	width: 193px;
 	list-style-type:none;
 	margin: 0;
 	border-bottom: 1px solid black; }
@@ -20,7 +30,7 @@
 	display: block;
 	background: #cecece;
 	color: black;
-	width: 163px;
+	width: 183px;
 	padding: 4px; }
 #menu ul li a:hover {
 	background: #32c8f0;

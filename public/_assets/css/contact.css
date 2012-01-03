@@ -1,0 +1,48 @@
+#infos {
+  font-family: tahoma, sans-serif; 
+  font-stretch: ultra-expanded;
+  font-size: 16px;
+  font-weight: bold;
+  word-spacing: 2px;
+  letter-spacing: -0.10em;
+}
+img#partition {
+  position: absolute;
+  bottom: -320px;
+  opacity: 0.5;
+  filter: alpha(opacity=50); 
+  -moz-opacity: 0.5;
+  z-index: 0;
+  left: -100px;
+  display: block;
+}
+div#contact {
+  position: absolute;
+  top: 160px;
+  left: 100px;
+}
+div#addr {
+  position: absolute;
+  top: 160px;
+  left: 360px;
+}
+div#mail {
+  position: absolute;
+  top: 260px;
+  left: 360px;
+} 
+p {
+  margin: 3px;
+}
+div#flash {
+  position: relative;
+  width: 500px;
+  height: 285px;
+  top: 140px;
+  left: 15px;
+  background: white;
+  border: 2px solid #b9004e;
+  padding: 5px;
+  overflow: auto;
+}
+

@@ -1,5 +1,5 @@
 ﻿template:  page
-partition: moak_s_shop
+partition: moak_s_shop.gif
 title:
   nl: Moak's shop
   fr: Moak's shop
@@ -14,7 +14,7 @@ text:
     Je kan het laten publiceren op onze @{/classifieds/}{zoekertjes}. Stuur je 
     aankondiging door naar mailto:info@classandjazz.
 
-    ## LIVE MUZIEK
+    ## Live Muziek
 
     Onze leerkrachten kan je ook live aan het werk horen en zien:
 
@@ -44,13 +44,13 @@ text:
     * <b>KOSTAS CHATZ BAND </b>met Kostas Chatz (gitaar en zang), Mariske 
       Broeckmeyer (zang) en <b>Pieter Dedoncker (drums)</b>
 
-    ## PARTITUREN, MUZIEKSOFTWARE en INSTRUMENTEN verkoop en verhuur
+    ## Verkoop en verhuur<br/> Partituren, Muzieksoftware en Instrumenten
 
     Zoekt u partituren of muzieksoftware te koop? Wilt u een instrument kopen? 
     Kleinhandel in partituren, software en instrumenten is een van de bedrijfstakken 
     van <b>CLASS & JAZZ</b>.
     
-    ## MUZIEKMONTAGES
+    ## Muziekmontages
 
     <b>CLASS & JAZZ</b> maakt uw muziekmontages voor
 
@@ -68,7 +68,7 @@ text:
     musiciens pour ton groupe? Envoie-nous ton annonce à mailto:info@classandjazz 
     et nous la publierons sur notre page de @{/classifieds/}{petites annonces}.
 
-    ## MUSIQUE LIVE
+    ## Musique Live
 
     Vous pouvez entendre et voir nos professeurs à l'oeuvre en concert:
 
@@ -101,13 +101,13 @@ text:
     * <b>KOSTAS CHATZ BAND </b>avec Kostas Chatz (guitare et chant), Mariske 
       Broeckmeyer (chant) et <b>Pieter Dedoncker (batterie)</b>
     
-    ## PARTITIONS, LOGICIELS DE MUSIQUE et INSTRUMENTS vente et location
+    ## Vente et location<br/> Partitions, Logiciels de Musique et Instruments
     
     Vous cherchez à acheter des partitions ou des logiciels de musique? Vous voulez 
     acheter un instrument? La vente en détail de partitions, de logiciels et 
     d’instruments est une des branches d’activités de <b>CLASS & JAZZ</b>.
     
-    ## MONTAGES AUDIO
+    ## Montages audio
 
     <b>CLASS & JAZZ</b> fait vos montages audio pour
 
@@ -125,7 +125,7 @@ text:
     for musicians to join your band? Post a free ad at mailto:info@classandjazz. 
     We'll publish it on our @{/classifieds/}{classifieds} page.
 
-    ## LIVE MUSIC
+    ## Live Music
 
     You can hear and see our teachers playing live in concert:
 
@@ -152,13 +152,13 @@ text:
     * <b>KOSTAS CHATZ BAND </b>with Kostas Chatz (guitar and vocals), Mariske Broeckmeyer 
       (vocals) and <b>Pieter Dedoncker (drums)</b>
     
-    ## SHEET MUSIC and MUSIC SOFTWARE sales <br> INSTRUMENTS sales and rental
+    ## Sales and rental<br/> Sheet music, Music software and Instruments
     
     Are you looking for sheet music or music software? Do you want to buy an instrument?  
     Retail sales of sheet music, software and instruments is one of <br><b>CLASS & JAZZ’s</b>
     services. 
     
-    ## AUDIO EDITING
+    ## Audio Editing
 
     <b>CLASS & JAZZ</b> can edit your audio collages for 
 

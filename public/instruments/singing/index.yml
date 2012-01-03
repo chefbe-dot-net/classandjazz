@@ -1,4 +1,4 @@
-partition: you_taught_my_heart_to_sing
+partition: you_taught_my_heart_to_sing.gif
 title:
   nl: Jazz Zang en Klassieke zang
   fr: Chant Classique et Jazz
@@ -11,7 +11,8 @@ text:
     
     De lessen kunnen gegeven worden in het Nederlands, Engels of Frans.
     
-    Onze leerkrachten:<br>
+    ### Onze leerkrachten
+
     <b>@{/instruments/piano/}{Raph Van Goubergen}</b> - Jazz Zang<br>
     <b>@{/instruments/singing/majorie/}{Majorie Vanhaverbeke}</b> - Klassieke Zang
     
@@ -22,7 +23,8 @@ text:
     
     Les leçons peuvent être données en français, en néerlandais et en anglais.
     
-    Nos professeurs:<br>
+    ### Nos professeurs
+
     <b>@{/instruments/piano/}{Raph Van Goubergen}</b> - Chant Jazz<br>
     <b>@{/instruments/singing/majorie/}{Majorie Vanhaverbeke}</b> - Chant Classique
     
@@ -33,7 +35,8 @@ text:
     
     Lessons can be followed in English, Dutch or French. 
     
-    Our teachers:<br>
+    ### Our teachers
+
     <b>@{/instruments/piano/}{Raph Van Goubergen}</b> - Jazz Singing<br>
     <b>@{/instruments/singing/majorie/}{Majorie Vanhaverbeke}</b> -Classical Singing
     

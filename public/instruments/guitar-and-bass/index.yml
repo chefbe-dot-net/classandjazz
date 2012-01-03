@@ -1,4 +1,4 @@
-partition: while_my_guitar
+partition: while_my_guitar.gif
 title:
   nl: Gitaar, elektrische gitaar & bassgitaar
   fr: Guitare, guitare électrique & basse
@@ -11,9 +11,10 @@ text:
 
     De lessen kunnen gegeven worden in het Nederlands, Frans, Engels of Duits. 
 
-    Onze leerkrachten: <br>
-    <b>@{./michel/}{Michel Kuijken}</b> <br>
-    <b>@{./bart/}{Bart Buls}</b>
+    ### Onze leerkrachten
+
+    * @{/instruments/guitar-and-bass/michel/}{Michel Kuijken}
+    * @{/instruments/guitar-and-bass/bart/}{Bart Buls}
     
   fr: |-
     # Guitare, Guitare électrique & Basse
@@ -23,9 +24,10 @@ text:
     Les leçons peuvent être données en français, en néerlandais, en anglais ou 
     en allemand.
     
-    Nos professeurs:<br>
-    <b>@{./michel/}{Michel Kuijken}</b> <br/>
-    <b>@{./bart/}{Bart Buls}</b>
+    ### Nos professeurs
+
+    * @{/instruments/guitar-and-bass/michel/}{Michel Kuijken}
+    * @{/instruments/guitar-and-bass/bart/}{Bart Buls}
     
   en: |-
     # Guitar, Electric Guitar & Bass Guitar
@@ -34,7 +36,8 @@ text:
     
     Lessons can be followed in English, Dutch, French or German 
     
-    Our teachers:<br>
-    <b>@{./michel/}{Michel Kuijken}</b> <br>
-    <b>@{./bart/}{Bart Buls}</b>
+    ### Our teachers
+
+    * @{/instruments/guitar-and-bass/michel/}{Michel Kuijken}
+    * @{/instruments/guitar-and-bass/bart/}{Bart Buls}
   

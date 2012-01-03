@@ -1,18 +1,11 @@
 <div id="main">
-  <<+{bricks/logo.whtml share all}
-  <<+{bricks/menu.whtml share all}
+  <<+{bricks/header.whtml share all}
 
-  <div id="photo"></div>
-  <img id="partition" src="/_assets/partitions/${partition}.gif"/>
-
-  <div id="text">
-    ~{text[lang]}
+  <div id="partition">
+    <div id="text">
+      ~{text[lang]}
+    </div>
   </div>
 
-  ?{knows?(:picture)}{
-    <style>
-      div#photo { background-image: url('/_assets/photos/${picture}'); }
-    </style>
-  }
 </div>
 

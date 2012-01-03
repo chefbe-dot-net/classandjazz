@@ -1,14 +1,14 @@
 template: page
-partition: all_together_now
+partition: all_together_now.gif
 title:
   nl: Groeplessen
   fr: Cours groupés
   en: Group lessons
 text:
   nl: |
-    # Groeplessen
+    # De "allesomvattende" groepsles
 
-    ## Samen leren, voor beginners - De "allesomvattende" groepsles
+    ## Samen leren, voor beginners 
     
     Naar analogie met de individuele lessen worden hier zowel het instrument als 
     de notenleer samen benaderd (lees: @{/individual/}{de "allesomvattende" 
@@ -19,24 +19,24 @@ text:
     CLASS & JAZZ biedt uitsluitend groepslessen aan studenten die samen, 
     in groep van minimum drie personen, inschrijven.
     
-    ## Samen meer leren over een specifiek onderwerp - De "topic" groepsles
+    # De "topic" groepsles
 
-    ## Samen spelen/zingen in een BAND of ENSEMBLE
+    ## Samen meer leren over een specifiek onderwerp<br/> Samen spelen/zingen in een band of ensemble
     
     Het is ook mogelijk om in te schrijven voor een groepsles die slechts één 
-    onderdeel (topic) van de muziek benadert. Enkele voorbeelden: Band-coaching - 
+    onderdeel (topic) van de muziek benadert. Enkele voorbeelden: band-coaching - 
     Klassiek samenspel - Jazz/Rock/Pop samenspel (Combo) - Improvisatie - Compositie - 
     Arrangement - Jazz-Harmonie - Klassieke Harmonie - Gehoortraining - Klassieke 
     muziekgeschiedenis - Jazz/Rock/Pop muziekgeschiedenis - Pre-Notenleer van 5 
     tot 8 jaar) - Notenleer (vanaf 8 jaar) - Notenleer volwassenen - 
     Muziekinformatica
     
-    ## PRAKTISCH
+    # Praktisch 
     
-    De groepen of BANDS bestaan uit minimum 3 leerlingen (en, naargelang de topic,
-    maximum 5). Een ENSEMBLE bestaat uit minimum 8 leerlingen.
+    De groepen of bandS bestaan uit minimum 3 leerlingen (en, naargelang de topic,
+    maximum 5). Een ensemble bestaat uit minimum 8 leerlingen.
     
-    Groepen en BANDS schrijven in voor, naar keuze
+    Groepen en bandS schrijven in voor, naar keuze
 
     * een <b>FULL</b> abonnement: 30 x 60 minuten (+ 7 <i>gratis lessen</i>) OF 15 x 120 minuten (+ 5 <i>gratis lessen</i>).
     * een <b>LIGHT</b> abonnement: 15 x 60 minuten (+ 3 <i>gratis lessen</i>) OF 8 x 120 minuten (+ 2 <i>gratis lessen</i>). 
@@ -54,9 +54,9 @@ text:
     @{/individual/}{>> INDIVIDUELE LESSEN}
 
   fr: |
-    # Cours groupés
+    # La leçon de groupe "intégrée"
 
-    ## Apprendre ensemble, pour débutants - LA LECON DE GROUPE "intégrée"
+    ## Apprendre ensemble, pour débutants
     
     Comme pour les cours individuels, ces leçons abordent l’instrument ET le solfège 
     (lire: @{/individual/}{le cours individuel "intégré"}). Les cours groupés, étant 
@@ -66,23 +66,23 @@ text:
     Les cours groupés ne sont disponibles qu’aux étudiants qui s’inscrivent ensemble, 
     en groupe de trois minimum. 
     
-    ## Apprendre ensemble à propos d’un sujet spécifié<br/> LA LECON DE GROUPE CIBLEE
-    
-    ## Jouer/chanter ensemble dans un BAND ou ENSEMBLE
+    # La leçon de groupe ciblée
+
+    ## Apprendre ensemble à propos d’un sujet spécifié<br/> Jouer/chanter ensemble dans un band ou ensemble
     
     Il est possible de s’inscrire pour un cours groupé qui n’aborde qu’un sujet 
-    particulier. Quelques exemples: Band-coaching - Ensemble Classique - Ensemble 
+    particulier. Quelques exemples: band-coaching - ensemble Classique - ensemble 
     Jazz/Rock/Pop (combo) - Improvisation - Composition - Arrangement - Harmonie 
     Jazz - Harmonie Classique - Entrainement de l’oreille musicale - Histoire de 
     la musique classique - histoire du Jazz/Rock/Pop - Pré-solfège (de 5 à 8 ans) - 
     Solfège (à partir de 8 ans) - Solfège pour adultes - Informatique musicale
     
-    ## PRATIQUEMENT
+    # Pratiquement
     
-    Les groupes ou BANDS ont un minimum de 3 élèves (et, selon le sujet abordé, 
-    un maximum de 5). Un ENSEMBLE a un minimum de 8 élèves.
+    Les groupes ou bandS ont un minimum de 3 élèves (et, selon le sujet abordé, 
+    un maximum de 5). Un ensemble a un minimum de 8 élèves.
     
-    Les groupes et BANDS s'inscrivent au choix pour
+    Les groupes et bandS s'inscrivent au choix pour
 
     * un abonnement <b>FULL</b>: 30 x 60 minutes (+ 7 <i>leçons gratuites</i>) OU 15 x 120 minutes (+ 5 <i>leçons gratuites</i>).
     * un abonnement <b>LIGHT</b>: 15 x 60 minutes (+ 7 <i>leçons gratuites</i>) OU 8 x 120 minutes (+ 2 <i>leçons gratuites</i>). 
@@ -101,9 +101,9 @@ text:
     @{/individual/}{>> COURS INDIVIDUELS}
 
   en: |
-    # Group lessons
+    # The "comprehensive" group lesson
 
-    ## Learning together, for beginners <br/> THE "COMPREHENSIVE" GROUP LESSON
+    ## Learning together, for beginners
     
     As is the case for individual lessons, these lessons include instrument AND 
     music theory (read about @{/individual/}{the "comprehensive" individual lesson}). 
@@ -112,24 +112,24 @@ text:
     <b>Important remark for group lessons:</b>
     Group lessons are offered only to students that enlist together, in group of 
     three minimum.
-    
-    ## Learning together about a specific topic <br/> THE TOPIC GROUP LESSON
 
-    ## Playing/singing together in a BAND or ENSEMBLE
+    # The topic group lesson
+    
+    ## Learning together about a specific topic<br/> Playing/singing together in a band or ensemble
     
     It is possible to register for group lessons that address only one specific 
-    topic. A few examples: Band-coaching - Classical Ensemble - Jazz/Rock/Pop 
-    Ensemble (combo) - Improvisation - Composition - Arrangement - Jazz Harmony - 
+    topic. A few examples: band-coaching - Classical ensemble - Jazz/Rock/Pop 
+    ensemble (combo) - Improvisation - Composition - Arrangement - Jazz Harmony - 
     Classical Harmony - Ear Training - Classical Music History - Jazz/Rock/Pop 
     History - Music Theory preparation (5 to 8 years old) - Music theory (from 8 
     years old onwards) - Music Theory for adults - Music and Computers
     
-    ## PRACTICALLY
+    ## Practically
     
-    Each group or BAND has a minimum of 3 students (and a maximum of 5 depending 
-    on the topic). An ENSEMBLE has a minimum of 8 students.
+    Each group or band has a minimum of 3 students (and a maximum of 5 depending 
+    on the topic). An ensemble has a minimum of 8 students.
     
-    Groeps and BANDS subcribe at their own choice for
+    Groeps and bandS subcribe at their own choice for
 
     * a <b>FULL</b> subscription: 30 x 60 minutes (+ 7 <i>free lessons</i>) OR 15 x 120 minutes (+ 5 <i>free lessons</i>). 
     * a <b>LIGHT</b> subscription: 15 x 60 minutes (+ 3 <i>free lessons</i>) OR 8 x 120 minutes (+ 2 <i>free lessons</i>).

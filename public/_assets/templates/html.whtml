@@ -7,6 +7,7 @@
     <meta charset="utf-8" />
     <link rel="stylesheet" href="/_assets/css/style.css" />
     <link rel="stylesheet" href="/_assets/css/menu.css" />
+    <link rel="stylesheet" href="/_assets/css/contact.css" />
     <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -15,6 +16,20 @@
  </head>
   <body>
     <<+{${template}.whtml share all}
+    ?{knows?(:partition)}{
+      <style>
+        #partition { 
+          background-image: url('/_assets/partitions/${partition}'); 
+        }
+      </style>
+    }
+    ?{knows?(:picture)}{
+      <style>
+        div#photo { 
+          background-image: url('/_assets/photos/${picture}'); 
+        }
+      </style>
+    }
     ?{environment == :production}{<<+{analytics.whtml share all}}
   </body>
 </html>

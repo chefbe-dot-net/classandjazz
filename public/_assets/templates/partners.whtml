@@ -1,7 +1,6 @@
 <div id="main">
-  <<+{bricks/logo.whtml     share all}
+  <<+{bricks/header.whtml   share all}
   <<+{bricks/keyboard.whtml share all}
-  <<+{bricks/menu.whtml     share all}
 
   <table id="partners">
   *{partners as partner}{
