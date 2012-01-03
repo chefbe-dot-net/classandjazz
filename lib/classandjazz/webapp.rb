@@ -5,6 +5,7 @@ module ClassAndJazz
     # PUBLIC of the web application
     ROOT    = Path.backfind('.[.git]')
     PUBLIC  = ROOT/:public
+    HTML    = PUBLIC/"_assets/templates/html.whtml"
 
     ############################################################## Configuration
     # Serve public pages from public
@@ -54,27 +55,28 @@ module ClassAndJazz
     module Tools
 
       def serve(lang, url)
-        file = PUBLIC/url/"index.yml"
-        if file.exist?
-          ctx = load_ctx(lang, file).merge(:url => "/#{url}")
-          tpl = PUBLIC/"_assets/templates/html.whtml"
-          WLang::file_instantiate(tpl, ctx)
+        if (file = PUBLIC/url/"index.yml").exist?
+          WLang::file_instantiate HTML, load_ctx(lang, file)
         else
           not_found
         end
       end
 
-      def load_ctx(lang, url)
-        ctx = {}
+      def load_ctx(lang, url, ctx = {})
         until (url == PUBLIC.parent/"index.yml")
           if url.exist?
-            ctx = YAML::load(url.read).merge(ctx) 
+            ctx = YAML::load(url.read).merge(ctx)
+            Array(ctx['includes']).each do |inc|
+              path = url.parent/inc
+              ctx = ctx.merge(YAML::load(path.read))
+            end
           end
           url = url.dir.parent/"index.yml"
         end
         {
           :lang => lang, 
-          :environment => settings.environment
+          :environment => settings.environment,
+          :url => "/#{url}"
         }.merge(ctx)
       end
 

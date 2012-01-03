@@ -3,11 +3,6 @@ class LinksTest < WebAppTest
 
   def setup
     super
-    visit('/sitemap.xml')
-    @pages = all("loc").map do |elm|
-      elm.text =~ %r{http://www.classandjazz.be(/.*)}
-      $1
-    end
     @visited = {}
   end
 
@@ -16,23 +11,22 @@ class LinksTest < WebAppTest
   end
 
   def test_links
-    @pages.each do |p|
-#      do_visit(p) do
-#        all("img").each do |elm|
-#          do_visit(elm["src"]) if internal?(elm["src"])
-#        end
-#      end
-      do_visit(p) do
-        all("a").each do |elm|
-          do_visit(elm["href"]) if internal?(elm["href"])
-        end
+    visit('/sitemap.xml')
+    @pages = all("loc").to_a.each do |elm|
+      page = (elm.text.match %r{http://www.classandjazz.be(/.*)})[1]
+      do_visit(page) do 
+        all("a").
+          select{|elm| internal?(elm["href"])}.
+          each do |elm|
+            do_visit(elm["href"])
+          end
       end
     end
   end
 
   def do_visit(url)
-    puts "On #{url}"
     @visited[url] ||= begin
+      puts "Visiting #{url}"
       visit(url)
       assert_equal 200, page.status_code, "#{url} should respond"
       yield if block_given?
