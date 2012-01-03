@@ -3,7 +3,7 @@ redirect:
   - from: /webschool/
     to: https://sites.google.com/site/classandjazzwebschool/home
     status: 303
-  - from: /dokeos/
+  - from: /dokeos/*
     to: /webschool/
     status: 301
 removed:
