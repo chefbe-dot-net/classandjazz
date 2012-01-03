@@ -12,6 +12,8 @@ redirect:
   new: /interested/
 - old: /pedagogy.html
   new: /pedagogy/
+- old: /partners.html
+  new: /partners/
 - old: /news.html
   new: /news/
 - old: /live_music.html
@@ -46,6 +48,11 @@ redirect:
   new: /instruments/other-courses/
 - old: /instruments/other_instruments.html
   new: /instruments/other-instruments/
+- old: /dokeos/
+  new: /webschool/
+alias:
+- from: /webschool/
+  to: https://sites.google.com/site/classandjazzwebschool/home
 removal:
   - /instruments/sax-and-clarinet/joe/
   - /instruments/guitar-and-bass/peter/

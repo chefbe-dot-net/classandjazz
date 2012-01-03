@@ -30,9 +30,15 @@ module ClassAndJazz
       end
     end
 
+    rewriting["alias"].each do |h|
+      from, to = h.values_at("from", "to")
+      get(from) do redirect(to, 303) end
+    end
+
     rewriting["removal"].each do |url|
       get url do
-        [410, {"Content-Type" => "text/plain"}, "This page does no longer exist, sorry"]
+        [410, {"Content-Type" => "text/plain"}, 
+         [ "This page does no longer exist, sorry" ]]
       end
     end
 
