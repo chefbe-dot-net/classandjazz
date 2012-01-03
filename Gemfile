@@ -16,6 +16,7 @@ group :development do
 end
 
 group :production do
+  gem "rack", "= 1.3.5"
   gem "sinatra", "~> 1.3.0"
   gem "wlang", "~> 0.10.2"
   gem "kramdown", "~> 0.13.3"
