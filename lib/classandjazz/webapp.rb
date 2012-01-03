@@ -23,22 +23,23 @@ module ClassAndJazz
 
     rewriting = YAML.load((PUBLIC/"rewriting.yml").read)
 
-    rewriting["redirect"].each do |h|
-      old, new = h.values_at("old", "new")
+    rewriting["v1"].each do |h|
+      old, new, status = h.values_at("old", "new", "status")
       get "/:lang#{old}" do
-        redirect "#{new}?lang=#{params[:lang]}", 301
+        redirect "#{new}?lang=#{params[:lang]}", status || 301
       end
     end
 
-    rewriting["alias"].each do |h|
-      from, to = h.values_at("from", "to")
-      get(from) do redirect(to, 303) end
+    rewriting["redirect"].each do |h|
+      from, to, status = h.values_at("from", "to", "status")
+      get from do 
+        redirect to, status || 301
+      end
     end
 
-    rewriting["removal"].each do |url|
+    rewriting["removed"].each do |url|
       get url do
-        [410, {"Content-Type" => "text/plain"}, 
-         [ "This page does no longer exist, sorry" ]]
+        410
       end
     end
 
