@@ -26,6 +26,12 @@
     </div>
   </div>
 
+  ?{flash.show}{
+    <div id="flash">
+      ~{flash.text[lang]}
+    </div>
+  }
+
   <style>
     #infos {
       font-family: tahoma, sans-serif; 
@@ -37,7 +43,7 @@
     }
     img#partition {
       position: absolute;
-      bottom: -350px;
+      bottom: -320px;
       opacity: 0.5;
       filter: alpha(opacity=50); 
       -moz-opacity: 0.5;
@@ -47,17 +53,17 @@
     }
     div#contact {
       position: absolute;
-      top: 180px;
+      top: 160px;
       left: 100px;
     }
     div#addr {
       position: absolute;
-      top: 180px;
+      top: 160px;
       left: 360px;
     }
     div#mail {
       position: absolute;
-      top: 300px;
+      top: 260px;
       left: 360px;
     } 
     p {

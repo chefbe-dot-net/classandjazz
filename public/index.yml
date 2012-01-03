@@ -18,3 +18,4 @@ keywords:
     - music
 includes:
   - menu.yml
+  - flash.yml

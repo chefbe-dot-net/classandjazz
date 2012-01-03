@@ -15,7 +15,7 @@ def link(link)
 end
 
 dir = File.dirname(File.dirname(__FILE__))
-Dir["#{dir}/**/index.yml"].each do |file|
+Dir["#{dir}/**/*.yml"].each do |file|
   begin
     before = File.read(file)
     before.gsub!(/@\{(.*?)\}\[(.*?)\]/) do |match|
