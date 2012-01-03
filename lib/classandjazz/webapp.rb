@@ -19,7 +19,24 @@ module ClassAndJazz
     # Domain specific configuration
     set :default_lang, "nl"
 
-    ############################################################## Routes
+    ########################################################### Rewriting routes
+
+    rewriting = YAML.load((PUBLIC/"rewriting.yml").read)
+
+    rewriting["redirect"].each do |h|
+      old, new = h.values_at("old", "new")
+      get "/:lang#{old}" do
+        redirect "#{new}?lang=#{params[:lang]}", 301
+      end
+    end
+
+    rewriting["removal"].each do |url|
+      get url do
+        [410, {"Content-Type" => "text/plain"}, "This page does no longer exist, sorry"]
+      end
+    end
+
+    ############################################################## Google routes
 
     get '/sitemap.xml' do
       content_type "application/xml"
@@ -40,6 +57,8 @@ module ClassAndJazz
     get '/google4efc1a3f6ff86289.html' do
       send_file PUBLIC/"_assets/google/google4efc1a3f6ff86289.html"
     end
+
+    ############################################################## Normal routes
 
     get '/' do
       lang = params["lang"] || settings.default_lang
