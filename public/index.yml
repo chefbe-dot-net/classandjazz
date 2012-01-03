@@ -1,21 +1,21 @@
 template: index
 google:
   tracker: UA-3061364-4
-title:
-  nl: Class & Jazz
-  fr: Class & Jazz
-  en: Class & Jazz
+title: 
+  nl: Class & Jazz - Muziekschool Kampenhout
+  fr: Class & Jazz - Ecole de Musique Kampenhout
+  en: Class & Jazz - Music School Kampenhout
 description:
-  nl: ClassAndJazz
-  fr: ClassAndJazz
-  en: ClassAndJazz
+  nl: Class & Jazz - Muziekschool Kampenhout
+  fr: Class & Jazz - Ecole de Musique Kampenhout
+  en: Class & Jazz - Music School Kampenhout
 keywords:
   nl: 
-    - muziek
+    - muziekschool Kampenhout, Muziek, Jazz, musiek lessen
   fr:
-    - musique
+    - école de musique Kampenhout, musique, jazz, cours de musique
   en:
-    - music
+    - music school Kampenhout, music, jazz, music lessons
 includes:
   - menu.yml
   - flash.yml
