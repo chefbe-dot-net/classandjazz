@@ -6,10 +6,13 @@ title:
   en: Instruments
 text:
   nl: |-
-    # Instrumenten
+    # Onze cursussen
 
-    CLASS & JAZZ biedt opleidingen aan voor kinderen en volwassenen
+    CLASS & JAZZ biedt opleidingen aan voor kinderen en volwassenen. Voor tarieven, 
+    gelieve @{mailto:info@classandjazz.be}{contact} op te nemen.
     
+    ## Instrumenten
+
     * Vanaf 4 jaar: 
       @{/instruments/cello/}{cello}
     * Vanaf 5 jaar: 
@@ -28,7 +31,7 @@ text:
       @{/instruments/other-instruments/}{houtblazers & koperblazers} -
       @{/instruments/other-instruments/}{andere instrumenten}
     
-    ### Andere cursussen (meer info op @{/instruments/other-instruments/}{deze pagina})
+    ## Andere cursussen (@{/instruments/other-instruments/}{meer info})
 
     Band-coaching - Klassieke samenspel - Jazz/Rock/Pop samenspel (Combo) - Improvisatie - 
     Compositie - Arrangement - Jazz-Harmonie - Klassieke Harmonie - Gehoortraining - 
@@ -41,13 +44,16 @@ text:
     
     Zie ook @{/individual/}{individuele lessen} en @{/group/}{groepslessen}.
     
-    Voor tarieven, gelieve @{mailto:info@classandjazz.be}{contact} op te nemen.
+    
     
   fr: |-
-    # Instruments
+    # Nos cours
 
-    CLASS & JAZZ offre des cours pour enfants et adultes 
-    
+    CLASS & JAZZ offre des cours pour enfants et adultes. Pour les tarifs, n’hésitez 
+    pas à @{mailto:info@classandjazz.be}{nous contacter}.
+
+    ## Les cours d'instrument
+
     * A partir de 4 ans: 
       @{/instruments/cello/}{violoncelle}
     * A partir de 5 ans: 
@@ -66,7 +72,7 @@ text:
       @{/instruments/other-instruments/}{instruments à vent bois et cuivres} -
       @{/instruments/other-instruments/}{autres instruments}
         
-    ### Autres cours (plus d’informations sur @{/instruments/other-instruments/}{cette page})
+    ## Autres cours (@{/instruments/other-instruments/}{plus d’informations})
 
     Band-coaching - Ensemble Classique - Ensemble Jazz/Rock/Pop (combo) - Improvisation - 
     Composition - Arrangement - Harmonie Jazz - Harmonie Classique - Entraînement de 
@@ -78,15 +84,16 @@ text:
     Les cours groupés ne sont disponibles qu’aux étudiants qui s’inscrivent ensemble, 
     en groupe de trois minimum.  
     
-    Voir aussi @{/individual/}{cours individuels} et @{/group/}{cours groupés}.
-    
-    Pour les tarifs, n’hésitez pas à @{mailto:info@classandjazz.be}{nous contacter}. 
+    Voir aussi @{/individual/}{cours individuels} et @{/group/}{cours groupés}. 
     
   en: |-
-    # Instruments
+    # Our courses 
 
-    CLASS & JAZZ offers courses for children and adults
+    CLASS & JAZZ offers courses for children and adults. For prices, please 
+    @{mailto:info@classandjazz.be}{contact us}.
     
+    ## Instruments
+
     * From the age of 4 years old: 
       @{/instruments/cello/}{cello}
     * From the age of 5 years old: 
@@ -105,7 +112,7 @@ text:
       @{/instruments/other-instruments/}{woodwind and brass} -
       @{/instruments/other-instruments/}{other instruments} 
     
-    ### Other courses (more information on @{/instruments/other-instruments/}{this page})
+    ## Other courses (@{/instruments/other-instruments/}{more information})
 
     Band-coaching - Classical Ensemble - Jazz/Rock/Pop Ensemble (combo) - Improvisation - 
     Composition - Arrangement - Jazz Harmony - Classical Harmony - Ear Training -
@@ -116,5 +123,3 @@ text:
     Group lessons are offered only to students that enlist together, in group of three minimum.
     
     Please read also about @{/individual/}{individual lessons} and @{/group/}{group lessons}.
-    
-    For prices, please @{mailto:info@classandjazz.be}{contact us}.
