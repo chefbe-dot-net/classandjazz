@@ -44,5 +44,6 @@ div#flash {
   border: 2px solid #b9004e;
   padding: 5px;
   overflow: auto;
+  text-align: justify;
 }
 
