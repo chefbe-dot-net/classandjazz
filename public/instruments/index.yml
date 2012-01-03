@@ -1,11 +1,13 @@
 template:  page
 partition: guide_to_the_orchestra
 title:
-  nl: INSTRUMENTEN
-  fr: INSTRUMENTS
-  en: INSTRUMENTS
+  nl: Instrumenten
+  fr: Instruments
+  en: Instruments
 text:
   nl: |-
+    # Instrumenten
+
     CLASS & JAZZ biedt opleidingen aan voor kinderen en volwassenen
     
     * Vanaf 4 jaar: 
@@ -42,6 +44,8 @@ text:
     Voor tarieven, gelieve @{mailto:info@classandjazz.be}{contact} op te nemen.
     
   fr: |-
+    # Instruments
+
     CLASS & JAZZ offre des cours pour enfants et adultes 
     
     * A partir de 4 ans: 
@@ -79,6 +83,8 @@ text:
     Pour les tarifs, n’hésitez pas à @{mailto:info@classandjazz.be}{nous contacter}. 
     
   en: |-
+    # Instruments
+
     CLASS & JAZZ offers courses for children and adults
     
     * From the age of 4 years old: 

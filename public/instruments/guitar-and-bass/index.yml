@@ -1,35 +1,40 @@
-picture: 
 partition: while_my_guitar
 title:
-  nl: GITAAR, ELEKTRISCHE GITAAR & BASGITAAR
-  fr: GUITARE, GUITARE ELECTRIQUE & BASSE
-  en: GUITAR, ELECTRIC GUITAR & BASS GUITAR
+  nl: Gitaar, elektrische gitaar & bassgitaar
+  fr: Guitare, guitare électrique & basse
+  en: Guitar, electric Guitar & Bass guitar
 text:
   nl: |-
+    # Gitaar, Elektrische gitaar & Bassgitaar
+
     <b>Een opleiding gitaar</b> is mogelijk vanaf 8 jaar.
 
     De lessen kunnen gegeven worden in het Nederlands, Frans, Engels of Duits. 
 
     Onze leerkrachten: <br>
-    <b>@{/instruments/guitar-and-bass/michel/}{Michel Kuijken}</b> <br>
-    <b>@{/instruments/guitar-and-bass/bart/}{Bart Buls}</b>
+    <b>@{./michel/}{Michel Kuijken}</b> <br>
+    <b>@{./bart/}{Bart Buls}</b>
     
   fr: |-
+    # Guitare, Guitare électrique & Basse
+
     <b>Les cours de guitare</b> sont possibles à partir de 8 ans.
     
     Les leçons peuvent être données en français, en néerlandais, en anglais ou 
     en allemand.
     
     Nos professeurs:<br>
-    <b>@{/instruments/guitar-and-bass/michel/}{Michel Kuijken}</b> <br/>
-    <b>@{/instruments/guitar-and-bass/bart/}{Bart Buls}</b>
+    <b>@{./michel/}{Michel Kuijken}</b> <br/>
+    <b>@{./bart/}{Bart Buls}</b>
     
   en: |-
+    # Guitar, Electric Guitar & Bass Guitar
+
     <b>Guitar lessons</b> are possible from the age of 8 years old. 
     
     Lessons can be followed in English, Dutch, French or German 
     
     Our teachers:<br>
-    <b>@{/instruments/guitar-and-bass/michel/}{Michel Kuijken}</b> <br>
-    <b>@{/instruments/guitar-and-bass/bart/}{Bart Buls}</b>
+    <b>@{./michel/}{Michel Kuijken}</b> <br>
+    <b>@{./bart/}{Bart Buls}</b>
   

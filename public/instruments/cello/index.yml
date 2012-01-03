@@ -1,10 +1,14 @@
 partition: cello_suite
 title:
-  nl: MAAIKE ORGANE (Leuven °1979) <br> cello 
-  fr: MAAIKE ORGANE (Leuven °1979) <br> violoncelle 
-  en: MAAIKE ORGANE (Leuven °1979) <br> cello 
+  nl: Cello - Maaike Organe
+  fr: Violoncelle - Maaike Organe
+  en: Cello - Maaike Organe
 text:
   nl: |-
+    # Cello
+
+    ## Maaike Organe (Leuven °1979) 
+
     <b>Een opleiding cello</b> is mogelijk vanaf 4 jaar.
     
     De lessen kunnen gegeven worden in het Nederlands, Engels of Frans.
@@ -36,6 +40,10 @@ text:
 
     
   fr: |-
+    # Violoncelle
+
+    ## Maaike Organe (Leuven °1979) 
+
     <b>Les cours de violoncelle</b> sont possibles à partir de 4 ans.
     
     Les leçons peuvent être données en français, en néerlandais, ou en anglais.
@@ -69,6 +77,10 @@ text:
    
 
   en: |-
+    # Cello 
+
+    ## Maaike Organe (Leuven °1979)
+
     <b>Cello lessons</b> are possible from the age of 4 years old.
 
     Lessons can be followed in English, Dutch or French. 

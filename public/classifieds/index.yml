@@ -1,28 +1,34 @@
 ﻿template:  page
 partition: moak_s_shop
 title:
-  nl: ZOEKERTJES
-  fr: PETITES ANNONCES
-  en: CLASSIFIEDS
+  nl: Zoekertjes
+  fr: Petites annonces
+  en: Classifieds
 text:
   nl: |-
-    ### TE KOOP 
+    # Zoekertjes
 
-    YAMAHA vleugelpiano type G2 (170 cm lang)<br>
-    bouwjaar 1982 - perfect onderhouden<br>
-    Contact via [mail](mailto:info@classandjazz.be)
+    ## TE KOOP 
+
+    * YAMAHA vleugelpiano type G2 (170 cm lang)<br> 
+      bouwjaar 1982 - perfect onderhouden<br>
+      Contact via [mail](mailto:info@classandjazz.be)
 
   fr: |-
-    ### A VENDRE 
+    # Petites annonces
 
-    Piano a queue YAMAHA type G2 (longueur 170 cm)<br>
-    année de construction 1982 - parfaitement entretenu <br>
-    Contact via [mail](mailto:info@classandjazz.be)
+    ## A VENDRE 
+
+    * Piano a queue YAMAHA type G2 (longueur 170 cm)<br>
+      année de construction 1982 - parfaitement entretenu <br>
+      Contact via [mail](mailto:info@classandjazz.be)
 
   en: |-
-    ### FOR SALE 
+    # Classifieds
 
-    Grand piano YAMAHA type G2 (length 170 cm)<br>
-    build in 1982 - perfectly maintained<br>
-    Contact via [mail](mailto:info@classandjazz.be)
+    ## FOR SALE 
+
+    *  Grand piano YAMAHA type G2 (length 170 cm)<br>
+       build in 1982 - perfectly maintained<br>
+       Contact via [mail](mailto:info@classandjazz.be)
 

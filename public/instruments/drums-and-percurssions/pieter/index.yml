@@ -1,11 +1,15 @@
 picture: pieter.jpg
 partition: i_got_rhythm
 title:
-  nl: PIETER DEDONCKER (Dendermonde °1984) <br/> drums en percussie
-  fr: PIETER DEDONCKER (Termonde °1984) <br/> batterie et percussions
-  en: PIETER DEDONCKER (Dendermonde °1984) <br/> drums and percussions
+  nl: Drums en percussie - Pieter Dedoncker
+  fr: Batterie et percussions - Pieter Dedoncker
+  en: Drums and percussions - Pieter Dedoncker
 text:
   nl: |-
+    # Drums en percussie 
+
+    ## Pieter Dedoncker (Dendermonde °1984)
+
     <b>Een opleiding drums</b> is mogelijk vanaf 8 jaar.
     
     De lessen kunnen gegeven worden in het Nederlands, Engels en Frans.
@@ -40,6 +44,10 @@ text:
     en het drummen - te bundelen.    
     
   fr: |-
+    # Batterie et percussions
+
+    ## Pieter Dedoncker (Termonde °1984)
+
     <b>Les cours de batterie</b> sont possibles à partir de 8 ans. 
     
     Les leçons peuvent être données en français, en néerlandais ou en anglais. 
@@ -69,6 +77,10 @@ text:
     et la batterie.
     
   en: |-
+    # Drums en percussions
+
+    ## Pieter Dedoncker (Dendermonde °1984)
+
     <b>Drum lessons</b> are possible from the age of 8 years old.
     
     Lessons can be followed in English, Dutch or French.

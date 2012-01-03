@@ -1,16 +1,18 @@
 template: page
 partition: good_evening_mr_and_mrs_america
 title:
-  nl: NEWS !
-  fr: NEWS !
-  en: NEWS !
+  nl: Class & Jazz - News
+  fr: Class & Jazz - News
+  en: Class & Jazz - News
 text:
   nl: |-
-    ### INFODAG
+    # News!
+
+    ## INFODAG
 
     Zondag 15 januari 2012 van 10u tot 16u.
     
-    ### 1 JULI 2009
+    ## 1 JULI 2009
 
     Wij zijn bijzonder fier met de geboorte van dit nieuwe pedagogisch muziekproject. 
     Bij <b>CLASS & JAZZ</b> kan iedereen, van beginners tot gevorderden, terecht 
@@ -24,11 +26,13 @@ text:
     te nemen: mailto:info@classandjazz.be. 
     
   fr: |-
-    ### JOURNEE INFO
+    # Des nouvelles de Class & Jazz
+
+    ## JOURNEE INFO
 
     Dimanche 15 janvier 2012 de 10h à 16h.
     
-    ### 1 JUILLET 2009
+    ## 1 JUILLET 2009
 
     Nous sommes particulièrement fiers de vous annoncer la naissance de ce nouveau 
     projet de pédagogie musicale. <b>CLASS & JAZZ</b> offre des cours sur mesure à 
@@ -44,11 +48,13 @@ text:
 
     
   en: |-
-    ### INFO DAY 
+    # Class & Jazz News
+
+    ## INFO DAY 
 
     Sunday the 15th of January 2012 from 10am to 4pm.
     
-    ### 1st of JULY 2009
+    ## 1st of JULY 2009
 
     We are proud to announce the birth of a new project in the art of teaching 
     music. <b>CLASS & JAZZ</b> offers tailor-made musical education to anyone at 

@@ -1,4 +1,8 @@
 template: partners
+title:
+  nl: Onze partners
+  fr: Nos partenaires
+  en: Our partners
 partners:
   - title: Ballet Attitude
     picture: attitude.gif

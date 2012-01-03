@@ -1,11 +1,13 @@
 ﻿template:  page
 partition: moak_s_shop
 title:
-  nl: MOAK'S SHOP
-  fr: MOAK'S SHOP
-  en: MOAK'S SHOP
+  nl: Moak's shop
+  fr: Moak's shop
+  en: Moak's shop
 text:
   nl: |-
+    # Moak's shop
+
     Zoek je iets te koop? Verkoop je zelf iets? Zoek je medemuzikanten voor je 
     groep?
 
@@ -60,6 +62,8 @@ text:
     * ...
     
   fr: |-
+    # Moak's shop
+
     Cherches-tu à acheter quelque chose? Vends-tu quelque chose? Cherches-tu des 
     musiciens pour ton groupe? Envoie-nous ton annonce à mailto:info@classandjazz 
     et nous la publierons sur notre page de @{/classifieds/}{petites annonces}.
@@ -115,6 +119,8 @@ text:
     * ...
 
   en: |-
+    # Moak's shop
+
     Are you looking for something to buy? Do you sell something? Are you looking 
     for musicians to join your band? Post a free ad at mailto:info@classandjazz. 
     We'll publish it on our @{/classifieds/}{classifieds} page.

@@ -1,11 +1,15 @@
 picture: peter.jpg
 partition: while_my_guitar
 title:
-  nl: PETER VERBRAKEN (Kassel, Duitsland °1956) <br/> gitaren, basgitaar en contrabas
-  fr: PETER VERBRAKEN (Kassel, Allemagne °1956) <br/> guitares, basse et contrebasse 
-  en: PETER VERBRAKEN (Kassel, Germany °1956) <br/> guitars, bass guitar and double bass
+  nl: Gitaren, basgitaar en contrabas - Peter Verbraken
+  fr: Guitares, basse et contrebasse - Peter Verbraken
+  en: Guitars, bass guitar and double bass - Peter Verbraken
 text:
   nl: |-
+    # Guitares, basse et contrebasse
+
+    ## Peter Verbraken (Kassel, Duitsland °1956)
+
     <b>Een opleiding gitaar</b> is mogelijk vanaf 8 jaar.
 
     De lessen kunnen gegeven worden in het Nederlands, Frans, Engels of Duits. 
@@ -59,6 +63,10 @@ text:
     Hij heeft ook een eigen opnamestudio voor het componeren en producen van songs voor diverse artiesten. 
     
   fr: |-
+    # Guitares, basse et contrebasse
+
+    ## Peter Verbraken (Kassel, Allemagne °1956)
+
     <b>Les cours de guitare</b> sont possibles à partir de 8 ans.
     
     Les leçons peuvent être données en français, néerlandais, anglais ou allemand.
@@ -112,6 +120,10 @@ text:
     Peter possède également son propre studio d’enregistrement pour la composition et la production.
     
   en: |-
+    # Guitars, bass guitar and double bass
+
+    ## Peter Verbraken (Kassel, Germany °1956)
+
     <b>Guitar lessons</b> are possible from the age of 8 years old. 
     
     Lessons can be followed in English, Dutch, French or German. 

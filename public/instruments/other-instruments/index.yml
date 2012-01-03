@@ -1,11 +1,11 @@
 partition: sax_a_gogo
 title:
-  nl: JAZZ/ROCK/POP COMPING en IMPROVISATIE
-  fr: JAZZ/ROCK/POP COMPING et IMPROVISATION
-  en: JAZZ/ROCK/POP COMPING and IMPROVISATION
+  nl: Andere instrumenten - jazz/rok/pop comping en improvisatie
+  fr: Autres instruments - jazz/rok/pop comping et improvisation
+  en: Other instruments - jazz/rok/pop comping and improvisation
 text:
   nl: |-
-    <b>Houtblazers en Koperblazers – Andere Instrumenten</b>
+    # Houtblazers, Koperblazers en andere instrumenten
     
     CLASS & JAZZ krijgt regelmatig vragen naar opleidingen <b>contrabas, sax, trompet, 
     dwarsfluit, klarinet, hobo, accordeon … </b>. Bij gebrek aan voldoende leerlingen 
@@ -22,13 +22,13 @@ text:
     om ook deze “andere instrumentisten” alle knepen van het vak aan te leren.
 
   fr: |-
-    <b>Instruments à vent Bois et Cuivres – Autres Instruments</b>
+    # Instruments à vent, Bois, Cuivres et autre instruments
     
     CLASS & JAZZ reçoit régulièrement la demande pour des cours <b>de contrebasse, 
-    de sax, de trompette, de flûte traversière, de clarinette, de hautbois, d’accordéon, … </b>. 
+    de sax, de trompette, de flûte traversière, de clarinette, de hautbois, d’accordéon, ...
     Si le nombre d’élèves pour un instrument particulier est trop petit, il ne nous 
     est pas possible d’attirer un professeur pour cet instrument.
-    
+
     Mais, pour les élèves qui ont déjà eu une formation de base à leur instrument, 
     CLASS & JAZZ offre la possibilité de suivre des cours d’IMPROVISATION JAZZ/ROCK/POP 
     (apprendre à jouer des solos sur des morceaux Jazz/Rock/Pop) et des cours de COMPING 
@@ -40,7 +40,7 @@ text:
     toutes les ficelles du métier.
   
   en: |-
-    <b>Woodwind and Brass – Other Instruments</b>
+    # Woodwind, Brass and other instruments
     
     CLASS & JAZZ is often asked for lessons for <b>double bass, saxophone, trumpet, flute, 
     clarinet, oboe, accordion … </b>If the number of students for a specific instrument is 

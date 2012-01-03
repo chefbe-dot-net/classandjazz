@@ -1,10 +1,12 @@
 partition: you_taught_my_heart_to_sing
 title:
-  nl: JAZZ ZANG en KLASSIEKE ZANG
-  fr: CHANT CLASSIQUE et JAZZ
-  en: JAZZ and CLASSICAL SINGING
+  nl: Jazz Zang en Klassieke zang
+  fr: Chant Classique et Jazz
+  en: Jazz and Classical Singing
 text:
   nl: |-
+    # Jazz Zang en Klassieke zang
+
     <b>Een opleiding zang</b> is mogelijk vanaf 8 jaar.
     
     De lessen kunnen gegeven worden in het Nederlands, Engels of Frans.
@@ -14,6 +16,8 @@ text:
     <b>@{/instruments/singing/majorie/}{Majorie Vanhaverbeke}</b> - Klassieke Zang
     
   fr: |-
+    # Chant Classique et Jazz
+
     <b>Les cours de chant</b> sont possibles à partir de 8 ans.
     
     Les leçons peuvent être données en français, en néerlandais et en anglais.
@@ -23,6 +27,8 @@ text:
     <b>@{/instruments/singing/majorie/}{Majorie Vanhaverbeke}</b> - Chant Classique
     
   en: |-
+    # Jazz and Classical Singing
+
     <b>Singing lessons</b> are possible from the age of 8 years old.
     
     Lessons can be followed in English, Dutch or French. 

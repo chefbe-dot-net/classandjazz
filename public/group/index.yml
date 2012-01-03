@@ -1,12 +1,14 @@
 template: page
 partition: all_together_now
 title:
-  nl: GROEPSLESSEN
-  fr: COURS GROUPES
-  en: GROUP LESSONS
+  nl: Groeplessen
+  fr: Cours groupés
+  en: Group lessons
 text:
   nl: |
-    ### Samen leren, voor beginners - De "allesomvattende" groepsles
+    # Groeplessen
+
+    ## Samen leren, voor beginners - De "allesomvattende" groepsles
     
     Naar analogie met de individuele lessen worden hier zowel het instrument als 
     de notenleer samen benaderd (lees: @{/individual/}{de "allesomvattende" 
@@ -17,9 +19,9 @@ text:
     CLASS & JAZZ biedt uitsluitend groepslessen aan studenten die samen, 
     in groep van minimum drie personen, inschrijven.
     
-    ### Samen meer leren over een specifiek onderwerp - De "topic" groepsles
+    ## Samen meer leren over een specifiek onderwerp - De "topic" groepsles
 
-    ### Samen spelen/zingen in een BAND of ENSEMBLE
+    ## Samen spelen/zingen in een BAND of ENSEMBLE
     
     Het is ook mogelijk om in te schrijven voor een groepsles die slechts één 
     onderdeel (topic) van de muziek benadert. Enkele voorbeelden: Band-coaching - 
@@ -29,7 +31,7 @@ text:
     tot 8 jaar) - Notenleer (vanaf 8 jaar) - Notenleer volwassenen - 
     Muziekinformatica
     
-    ### PRAKTISCH
+    ## PRAKTISCH
     
     De groepen of BANDS bestaan uit minimum 3 leerlingen (en, naargelang de topic,
     maximum 5). Een ENSEMBLE bestaat uit minimum 8 leerlingen.
@@ -52,7 +54,9 @@ text:
     @{/individual/}{>> INDIVIDUELE LESSEN}
 
   fr: |
-    ### Apprendre ensemble, pour débutants - LA LECON DE GROUPE "intégrée"
+    # Cours groupés
+
+    ## Apprendre ensemble, pour débutants - LA LECON DE GROUPE "intégrée"
     
     Comme pour les cours individuels, ces leçons abordent l’instrument ET le solfège 
     (lire: @{/individual/}{le cours individuel "intégré"}). Les cours groupés, étant 
@@ -62,9 +66,9 @@ text:
     Les cours groupés ne sont disponibles qu’aux étudiants qui s’inscrivent ensemble, 
     en groupe de trois minimum. 
     
-    ### Apprendre ensemble à propos d’un sujet spécifié<br/> LA LECON DE GROUPE CIBLEE
+    ## Apprendre ensemble à propos d’un sujet spécifié<br/> LA LECON DE GROUPE CIBLEE
     
-    ### Jouer/chanter ensemble dans un BAND ou ENSEMBLE
+    ## Jouer/chanter ensemble dans un BAND ou ENSEMBLE
     
     Il est possible de s’inscrire pour un cours groupé qui n’aborde qu’un sujet 
     particulier. Quelques exemples: Band-coaching - Ensemble Classique - Ensemble 
@@ -73,7 +77,7 @@ text:
     la musique classique - histoire du Jazz/Rock/Pop - Pré-solfège (de 5 à 8 ans) - 
     Solfège (à partir de 8 ans) - Solfège pour adultes - Informatique musicale
     
-    ### PRATIQUEMENT
+    ## PRATIQUEMENT
     
     Les groupes ou BANDS ont un minimum de 3 élèves (et, selon le sujet abordé, 
     un maximum de 5). Un ENSEMBLE a un minimum de 8 élèves.
@@ -97,7 +101,9 @@ text:
     @{/individual/}{>> COURS INDIVIDUELS}
 
   en: |
-    ### Learning together, for beginners <br/> THE "COMPREHENSIVE" GROUP LESSON
+    # Group lessons
+
+    ## Learning together, for beginners <br/> THE "COMPREHENSIVE" GROUP LESSON
     
     As is the case for individual lessons, these lessons include instrument AND 
     music theory (read about @{/individual/}{the "comprehensive" individual lesson}). 
@@ -107,9 +113,9 @@ text:
     Group lessons are offered only to students that enlist together, in group of 
     three minimum.
     
-    ### Learning together about a specific topic <br/> THE TOPIC GROUP LESSON
+    ## Learning together about a specific topic <br/> THE TOPIC GROUP LESSON
 
-    ### Playing/singing together in a BAND or ENSEMBLE
+    ## Playing/singing together in a BAND or ENSEMBLE
     
     It is possible to register for group lessons that address only one specific 
     topic. A few examples: Band-coaching - Classical Ensemble - Jazz/Rock/Pop 
@@ -118,7 +124,7 @@ text:
     History - Music Theory preparation (5 to 8 years old) - Music theory (from 8 
     years old onwards) - Music Theory for adults - Music and Computers
     
-    ### PRACTICALLY
+    ## PRACTICALLY
     
     Each group or BAND has a minimum of 3 students (and a maximum of 5 depending 
     on the topic). An ENSEMBLE has a minimum of 8 students.

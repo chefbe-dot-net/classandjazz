@@ -1,10 +1,14 @@
 partition: sax_a_gogo
 title:
-  nl: SAX & KLARINET <br/> Joe Higham (Boston, Verenigd Koninkrijk °1960)
-  fr: SAX & CLARINETTE <br/> Joe Higham (Boston, Royaume Uni °1960)
-  en: SAX & CLARINET <br/> Joe Higham (Boston, UK °1960)
+  nl: Sax & klarinet - Joe Higham
+  fr: Sax & clarinette - Joe Higham
+  en: Sax & clarinet - Joe Higham
 text:
   nl: |-
+    # Sax & klarinet
+
+    ## Joe Higham (Boston, Verenigd Koninkrijk °1960)
+
     <b>Een opleiding sax of klarinet</b> is mogelijk vanaf 8 jaar.
     
     De lessen kunnen gegeven worden in het Engels of het Frans.
@@ -52,6 +56,10 @@ text:
     om de discipline van het dagelijkse oefenen hoog op te houden.
 
   fr: |-
+    # Sax & clarinette
+
+    ## Joe Higham (Boston, Royaume Uni °1960)
+
     <b>Les cours de sax et de clarinette</b> sont possibles à partir de 8 ans.
     
     Les leçons peuvent être données en français ou en anglais.
@@ -101,6 +109,10 @@ text:
     certaine discipline pour la pratique et l’étude quotidienne.
     
   en: |-
+    # Sax & clarinet
+
+    ## Joe Higham (Boston, UK °1960)
+
     <b>Sax and clarinet lessons</b> are possible from the age of 8 years old. 
     
     Lessons can be followed in English or French. 

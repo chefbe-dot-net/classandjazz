@@ -1,11 +1,13 @@
 template: page
 partition: f_moll
 title:
-  nl: PEDAGOGIE
-  fr: PEDAGOGIE
-  en: PEDAGOGY
+  nl: Pedagogie
+  fr: Pédagogie
+  en: Pedagogy
 text:
   nl: |-
+    # Pedagogie
+
     CLASS & JAZZ wil zich distantiëren van het eeuwige verdelen in hokjes. Muziek 
     is muziek! De basisopleiding maakt dan ook geen onderscheid tussen Klassiek, 
     enerzijds en Pop/Rock/Jazz, anderzijds. Van het begin af opteren we voor een 
@@ -29,6 +31,8 @@ text:
     Al onze leerkrachten bieden beide benaderingen aan.
     
   fr: |-
+    # Pédagogie
+
     CLASS & JAZZ veut se distancer des éternelles étiquettes qui cherchent à opposer 
     les musiques comme autant de styles différents. La musique, c’est de la musique! 
     L’éducation de base ne fait donc pas la différence entre le Classique d’une part 
@@ -54,6 +58,8 @@ text:
     Tous nos professeurs pratiquent les deux approches. 
     
   en: |-
+    # Pedagogy
+
     CLASS & JAZZ aims to avoid dividing music with too many labels and into too many 
     styles. Music is music! The foundation of the programme does not oppose classical 
     music to jazz/rock/pop. From the very start we opt for a global approach that 

@@ -6,7 +6,6 @@
   <img id="partition" src="/_assets/partitions/${partition}.gif"/>
 
   <div id="text">
-    <h2>+{title[lang]}</h2>
     ~{text[lang]}
   </div>
 

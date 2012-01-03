@@ -53,18 +53,12 @@ div#photo{
 	background-repeat: no-repeat; }
 div#text {
   width: 95%;
-	height: 450px;
-  margin-top: 140px;
+	height: 420px;
+  margin-top: 180px;
 	line-height: 20px;
 	color: black;
 	padding: 5px 10px;
   overflow: auto; }
-div#text h1 {
-	margin-top: 0;
-	padding-top: 0px;
-	font-size: 14px;
-	font-style: bold;
-	font-variant: small-caps; }
 img#partition {
 	position: absolute;
 	bottom: -100px;

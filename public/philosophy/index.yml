@@ -1,14 +1,16 @@
 template: page
 partition: body_and_soul
 title:
-  nl: FILOSOFIE
-  fr: PHILOSOPHIE
-  en: PHILOSOPHY
+  nl: Filosofie
+  fr: Philosophie
+  en: Philosophy
 text:
   nl: |-
+    # Filosofie
+
     CLASS & JAZZ is een merknaam die een aantal idealen wil hoog houden.
     
-    ### De holistische pedagogie – lichaam, geest en ziel
+    ## De holistische pedagogie – lichaam, geest en ziel
     
     Bij CLASS & JAZZ wordt de nadruk gelegd op het ontwikkelen van alle menselijke 
     aspecten die aangesproken worden bij het musiceren: lichaam, geest en ziel. 
@@ -30,7 +32,7 @@ text:
     Alle leerkrachten verbinden zich ertoe om deze idealen tot doelstelling te 
     houden.
     
-    ### Teamwork – kruisbestuiving 
+    ## Teamwork – kruisbestuiving 
     
     CLASS & JAZZ is een team van leerkrachten die elkaar tot verdere ontplooiing 
     willen brengen. Een muzikant, en een pedagoog, moet steeds bijleren. De 
@@ -44,46 +46,12 @@ text:
     
     Raph Van Goubergen
 
-  en: |-
-    We are dedicated to the ideals exemplified by CLASS & JAZZ. 
-    
-    ### The holistic experience – body, spirit and soul
-    
-    CLASS & JAZZ pays attention towards all the aspects that make up a musical 
-    performance: the body, the spirit and the soul. According to Beethoven “Music 
-    is a higher revelation than all wisdom and philosophy.” There is infinitely 
-    more to music than playing notes and rhythms. That’s why CLASS & JAZZ aims 
-    to work directly with the student's personality, in all aspects of daily life, 
-    and to instil the discipline that is needed for the permanent learning and 
-    performance of music. 
-    
-    Children who are in regular contact with music develop cognitive, motorial and 
-    social abilities that open up their personality. Modern studies have demonstrated 
-    that such children are better disposed to the learning of languages and mathematics, 
-    have better developed spatial perceptions and are more likely to have positive 
-    self-confidence: all qualities that allow them to feel more socially integrated. 
-    Moreover, we are convinced that music and the arts have a deeper purpose as the 
-    foundation of a peaceful society, because art is the language of the human soul. 
-    
-    All our teachers are committed to these ideals. 
-    
-    ### Teamwork – cross-pollination
-    
-    The teachers at CLASS & JAZZ work to develop and progress within the team. 
-    Musicians and teachers alike need to be constantly learning. Our teachers work 
-    together to learn from one another, and to combine all their respective knowledge 
-    of music and tuition, so as to be able to address every possible question and 
-    challenge posed by students. 
-    
-    As far as practically possible, teachers will arrange cross-over lessons (the 
-    exchange of students), master classes, ensemble lessons, concerts...
-    
-    Raph Van Goubergen
-
   fr: |-
+    # Philosophie
+
     CLASS & JAZZ est un nom qui poursuit certains idéaux.
     
-    ### La pédagogie holistique – corps, esprit et âme
+    ## La pédagogie holistique – corps, esprit et âme
     
     Chez CLASS & JAZZ nous accordons une attention toute particulière au développement 
     de tous les aspects humains qui sont mis à contribution lors de l’exécution 
@@ -106,7 +74,7 @@ text:
     
     Tous les professeurs s’engagent à maintenir comme but tous ces idéaux.
     
-    ### Travail d’équipe – pollinisation mutuelle 
+    ## Travail d’équipe – pollinisation mutuelle 
     
     CLASS & JAZZ est une équipe de professeurs qui cherchent à s’épanouir mutuellement. 
     Un musicien, et un pédagogue, se doit d’apprendre en permanence. Les professeurs 
@@ -118,3 +86,41 @@ text:
     (échanges d’élèves), des master classes, des cours d’ensembles, des concerts, ...
     
     Raph Van Goubergen 
+
+  en: |-
+    # Philosophy
+
+    We are dedicated to the ideals exemplified by CLASS & JAZZ. 
+    
+    ## The holistic experience – body, spirit and soul
+    
+    CLASS & JAZZ pays attention towards all the aspects that make up a musical 
+    performance: the body, the spirit and the soul. According to Beethoven “Music 
+    is a higher revelation than all wisdom and philosophy.” There is infinitely 
+    more to music than playing notes and rhythms. That’s why CLASS & JAZZ aims 
+    to work directly with the student's personality, in all aspects of daily life, 
+    and to instil the discipline that is needed for the permanent learning and 
+    performance of music. 
+    
+    Children who are in regular contact with music develop cognitive, motorial and 
+    social abilities that open up their personality. Modern studies have demonstrated 
+    that such children are better disposed to the learning of languages and mathematics, 
+    have better developed spatial perceptions and are more likely to have positive 
+    self-confidence: all qualities that allow them to feel more socially integrated. 
+    Moreover, we are convinced that music and the arts have a deeper purpose as the 
+    foundation of a peaceful society, because art is the language of the human soul. 
+    
+    All our teachers are committed to these ideals. 
+    
+    ## Teamwork – cross-pollination
+    
+    The teachers at CLASS & JAZZ work to develop and progress within the team. 
+    Musicians and teachers alike need to be constantly learning. Our teachers work 
+    together to learn from one another, and to combine all their respective knowledge 
+    of music and tuition, so as to be able to address every possible question and 
+    challenge posed by students. 
+    
+    As far as practically possible, teachers will arrange cross-over lessons (the 
+    exchange of students), master classes, ensemble lessons, concerts...
+    
+    Raph Van Goubergen

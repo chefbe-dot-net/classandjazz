@@ -1,11 +1,13 @@
 template: page
 partition: school
 title:
-  nl: IN EEN NOTENDOP
-  fr: EN QUELQUES NOTES
-  en: IN A FEW NOTES
+  nl: Interessen?
+  fr: Intéressé par nos cours?
+  en: Interrested by our lessons?
 text:
   nl: |-
+    # In een notendop
+
     Class & Jazz is geen officiële school en is bijgevolg niet gebonden aan schoolse 
     regels: geen verplichte lessen, geen verplichte examens, geen vaste programma’s, 
     geen vaste kalender, ...
@@ -42,6 +44,8 @@ text:
     Zie ook @{/instruments/}{instrumenten} en @{/instruments/other-instruments/}{andere cursussen}.
     
   fr: |-
+    # En quelques notes
+
     CLASS & JAZZ n’étant pas une école officielle, nos programmes ne sont pas liés 
     aux obligations scolaires: pas de leçons ni examens ni programmes fixes, pas de 
     calendrier scolaire, ...
@@ -77,6 +81,8 @@ text:
     Voir aussi @{/instruments/}{instruments} et @{/instruments/other-instruments/}{autres cours}.
     
   en: |-
+    # In a few notes
+
     CLASS & JAZZ is not an official school and is therefore not bound to school 
     rules: no compulsory lessons, no compulsory exams, no fixed program, no fixed 
     school calendar ...
