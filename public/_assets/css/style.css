@@ -4,6 +4,8 @@ html {
 	background: white; }
 body { margin: 15px; }
 a img  { border: none; }
+a, a:visited { text-decoration: none; color: #336699; }
+a:hover { text-decoration: underline; }
 
 #main {
 	width: 990px;
@@ -62,9 +64,8 @@ div#photo{
   background: #CECECE;
   opacity: 0.85; }
 #text a, #text a:visited {
-  color: #336699;
-  font-weight: bold;
-  text-decoration: underline; }
+  font-weight: bold; 
+  text-decoration: none; }
 #text a:hover {
   text-decoration: underline; }
 #text p, #text li {
