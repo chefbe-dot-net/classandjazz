@@ -37,6 +37,9 @@ ul.dropdown-vertical li{float:none;}
 #main .contact #info #mail{position:absolute;top:100px;left:360px;}
 #main .contact #flash{position:absolute;width:520px;height:290px;bottom:5px;left:50px;background:white;border:2px solid #b9004e;padding:0px 10px;overflow:auto;text-align:justify;z-index:99;}#main .contact #flash h1{font-size:18px;margin:0px;margin-top:15px;margin-bottom:3px;padding:0px;}
 #main .contact #flash p{margin:0px;padding:5px 0px;padding-left:10px;}
-table#partners{position:absolute;top:150px;left:45px;border-collapse:separate;border-spacing:0 20px;}table#partners p{margin:3px;}
-table#partners tr td{padding-right:10px;vertical-align:top;}
-table#partners a{text-decoration:none;}table#partners a h1{color:black;margin-top:0;}
+#main ul#partners{list-style:none;margin:0px;padding:0px;}
+#main ul#partners>li{margin-top:5px;clear:both;}#main ul#partners>li div{float:left;padding:5px;}
+#main ul#partners>li div.logo{width:140px;text-align:center;}
+#main ul#partners>li h1{font-size:20px;}
+#main ul#partners>li p{padding:0px;padding-top:5px;}
+#main ul#partners>li ul li{padding:4px;}
