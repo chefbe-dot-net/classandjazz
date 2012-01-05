@@ -1,7 +1,7 @@
 <<+{bricks/header.whtml   share all}
 <<+{bricks/keyboard.whtml share all}
 
-<div id="partition">
+<div id="partition" class="partners">
   <div id="text">
     <ul id="partners">
     *{partners as partner}{
