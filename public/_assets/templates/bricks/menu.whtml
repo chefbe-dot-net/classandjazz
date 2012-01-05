@@ -10,7 +10,6 @@
 <nav id="menu" 
      onmouseover="$('#menu').show()"  
      onmouseout="$('#menu').hide()">
-
   <ul class="dropdown dropdown-vertical">
     *{menu[lang] as entry}{
       <li ?{entry["menu"]}{class="dir"}>
@@ -27,7 +26,6 @@
       </li>
     }
   </ul>
-
 </nav>
 
 <script>
