@@ -1,10 +1,10 @@
 <div id="main">
   <<+{bricks/header.whtml   share all}
   <<+{bricks/keyboard.whtml share all}
-  <div id="partition">
+  <div id="partition" class="contact">
     <div id="text">
 
-      <div class="info" itemscope itemtype="http://data-vocabulary.org/Organization">
+      <div id="info" itemscope itemtype="http://data-vocabulary.org/Organization">
         <div id="contact">
           <img src="/_assets/images/contact.gif"/>
           <p itemprop="name">Class &amp; Jazz &mdash; Raph Van Goubergen</p>
