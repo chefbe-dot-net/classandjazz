@@ -35,7 +35,7 @@ ul.dropdown-vertical li{float:none;}
 #main .contact #info #contact{position:absolute;left:50px;}
 #main .contact #info #addr{position:absolute;left:360px;}
 #main .contact #info #mail{position:absolute;top:100px;left:360px;}
-#main .contact #flash{position:absolute;width:520px;height:290px;bottom:5px;left:50px;background:white;border:2px solid #b9004e;padding:0px 10px;overflow:auto;text-align:justify;z-index:99;}#main .contact #flash h1{font-size:18px;margin:0px;margin-top:15px;margin-bottom:3px;padding:0px;}
+#main .contact #flash{position:absolute;width:530px;height:290px;bottom:5px;left:50px;background:white;border:2px solid #b9004e;padding:0px 10px;overflow:auto;text-align:justify;z-index:99;}#main .contact #flash h1{font-size:18px;margin:0px;margin-top:15px;margin-bottom:3px;padding:0px;}
 #main .contact #flash p{margin:0px;padding:5px 0px;padding-left:10px;}
 #main ul#partners{list-style:none;margin:0px;padding:0px;}
 #main ul#partners>li{margin-top:5px;clear:both;}#main ul#partners>li div{float:left;padding:5px;}

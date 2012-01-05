@@ -29,9 +29,9 @@
       </div>
 
       ?{flash.show}{
-        <div id="flash">
+        <article id="flash">
           ~{flash.text[lang]}
-        </div>
+        </article>
       }
     </div>
   </div>
