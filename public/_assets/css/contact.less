@@ -1,37 +1,46 @@
-#infos {
+#main .info {
   font-family: tahoma, sans-serif; 
-  font-stretch: ultra-expanded;
+  font-stretch: expanded;
   font-size: 16px;
   font-weight: bold;
   word-spacing: 2px;
   letter-spacing: -0.10em;
+  p {
+    margin: 3px; 
+    padding: 0px; }
+  #contact {
+    position: absolute;
+    left: 50px; }
+  #addr {
+    position: absolute;
+    left: 360px; }
+  #mail {
+    position: absolute;
+    top: 100px;
+    left: 360px; } 
 }
-div#contact {
+
+#flash {
   position: absolute;
-  top: 160px;
-  left: 50px; }
-div#addr {
-  position: absolute;
-  top: 160px;
-  left: 360px; }
-div#mail {
-  position: absolute;
-  top: 260px;
-  left: 360px; } 
-p {
-  margin: 3px;
-}
-div#flash {
-  position: relative;
-  width: 550px;
-  height: 290px;
-  top: 140px;
-  left: 15px;
+  width: 520px;
+  height: 280px;
+  bottom: 15px;
+  left: 50px;
   background: white;
   border: 2px solid #b9004e;
-  padding: 5px;
-  padding-top: 0px;
+  padding: 0px 10px;
   overflow: auto;
   text-align: justify;
+  z-index: 99;
+  h1 {
+    font-size: 18px; 
+    margin: 0px;
+    margin-top: 15px; 
+    margin-bottom: 3px;
+    padding: 0px; }
+  p {
+    margin: 0px;
+    padding: 5px 0px;
+    padding-left: 10px; }
 }
 

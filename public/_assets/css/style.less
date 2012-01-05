@@ -12,10 +12,11 @@
 
 header {
   padding: 5px 10px; 
-  margin-bottom: 20px; }
+  height: @header-height; }
 
 #partition {
-	width: @width -  2*@border-width - 2*@main-padding;
+  position: relative;
+	height: @article-height;
   background-position: top right;
   background-repeat: no-repeat; }
 
@@ -26,9 +27,10 @@ a#attitude_logo.home {
 img#keyboard {
   position: absolute;
   top: 0;
-  right: 0; }
+  right: 0; 
+  z-index: 10;}
 
-div#photo{
+div#photo {
 	position: absolute;
 	right: 5px;
 	top: 5px;
@@ -38,27 +40,26 @@ div#photo{
 	background-repeat: no-repeat; }
 
 #text {
-  margin-top: 20px;
   width: 620px;
-	height: 435px;
+	height: @article-height - 10;
 	line-height: 18px;
 	color: black;
 	padding: 5px 10px;
   overflow: auto; 
   background: @grey;
-  opacity: 0.85; 
-
+  opacity: 0.88;
   p, li {
     padding: 5px;
     text-align: justify; }
   h1 {
     line-height: 25px;
-    font-size: 24px;
+    font-size: 26px;
+    margin-top: 0px;
     font-variant: small-caps; }
   h2 {
     text-align: right; }
   h2, h3 {
-    font-size: 18px;
+    font-size: 20px;
     font-variant: small-caps;
     border-bottom: 1px dashed black; }
   h1 a, h2 a, h3 a {

@@ -1,6 +1,0 @@
-?{flash.show}{
-  <div id="flash">
-    ~{flash.text[lang]}
-  </div>
-}
-

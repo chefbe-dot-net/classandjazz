@@ -4,15 +4,15 @@ a img{border:none;}
 a,a:visited{font-weight:bold;text-decoration:none;color:#336699;}
 a:hover{text-decoration:underline;}
 #main{width:966px;height:606px;margin:auto;padding:5px;border:2px solid black;overflow:hidden;position:relative;background:#cecece;}
-header{padding:5px 10px;margin-bottom:20px;}
-#partition{width:966px;background-position:top right;background-repeat:no-repeat;}
+header{padding:5px 10px;height:150px;}
+#partition{position:relative;height:441px;background-position:top right;background-repeat:no-repeat;}
 a#attitude_logo.home{top:auto;bottom:10px;left:10px;}
-img#keyboard{position:absolute;top:0;right:0;}
+img#keyboard{position:absolute;top:0;right:0;z-index:10;}
 div#photo{position:absolute;right:5px;top:5px;border:2px solid white;width:315px;height:190px;background-repeat:no-repeat;}
-#text{margin-top:20px;width:620px;height:435px;line-height:18px;color:black;padding:5px 10px;overflow:auto;background:#cecece;opacity:0.85;}#text p,#text li{padding:5px;text-align:justify;}
-#text h1{line-height:25px;font-size:24px;font-variant:small-caps;}
+#text{width:620px;height:431px;line-height:18px;color:black;padding:5px 10px;overflow:auto;background:#cecece;opacity:0.88;}#text p,#text li{padding:5px;text-align:justify;}
+#text h1{line-height:25px;font-size:26px;margin-top:0px;font-variant:small-caps;}
 #text h2{text-align:right;}
-#text h2,#text h3{font-size:18px;font-variant:small-caps;border-bottom:1px dashed black;}
+#text h2,#text h3{font-size:20px;font-variant:small-caps;border-bottom:1px dashed black;}
 #text h1 a,#text h2 a,#text h3 a{text-decoration:none;font-weight:bold;}
 img#menuetc{position:absolute;top:20px;left:446px;cursor:hand;}
 a#attitude_logo{position:absolute;top:65px;left:446px;}
@@ -32,12 +32,12 @@ ul.dropdown li.rtl ul{top:100%;right:0;left:auto;}
 ul.dropdown li.rtl ul ul{top:1px;right:99%;left:auto;}
 ul.dropdown-vertical ul{top:1px;left:99%;}
 ul.dropdown-vertical li{float:none;}
-#infos{font-family:tahoma,sans-serif;font-stretch:ultra-expanded;font-size:16px;font-weight:bold;word-spacing:2px;letter-spacing:-0.1em;}
-div#contact{position:absolute;top:160px;left:50px;}
-div#addr{position:absolute;top:160px;left:360px;}
-div#mail{position:absolute;top:260px;left:360px;}
-p{margin:3px;}
-div#flash{position:relative;width:550px;height:290px;top:140px;left:15px;background:white;border:2px solid #b9004e;padding:5px;padding-top:0px;overflow:auto;text-align:justify;}
+#main .info{font-family:tahoma,sans-serif;font-stretch:expanded;font-size:16px;font-weight:bold;word-spacing:2px;letter-spacing:-0.1em;}#main .info p{margin:3px;padding:0px;}
+#main .info #contact{position:absolute;left:50px;}
+#main .info #addr{position:absolute;left:360px;}
+#main .info #mail{position:absolute;top:100px;left:360px;}
+#flash{position:absolute;width:520px;height:280px;bottom:15px;left:50px;background:white;border:2px solid #b9004e;padding:0px 10px;overflow:auto;text-align:justify;z-index:99;}#flash h1{font-size:18px;margin:0px;margin-top:15px;margin-bottom:3px;padding:0px;}
+#flash p{margin:0px;padding:5px 0px;padding-left:10px;}
 table#partners{position:absolute;top:150px;left:45px;border-collapse:separate;border-spacing:0 20px;}table#partners p{margin:3px;}
 table#partners tr td{padding-right:10px;vertical-align:top;}
 table#partners a{text-decoration:none;}table#partners a h1{color:black;margin-top:0;}
