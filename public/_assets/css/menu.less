@@ -1,45 +1,45 @@
 @menu-left: 446px;
 @menu-width: 183px;
 
-img#menuetc {
-	position: absolute;
-	top: 20px;
-	left: @menu-left;
-	cursor: hand; }
-a#attitude_logo {
-  position: absolute;
-  top: 65px;
-  left: @menu-left; }
-
 #menu {
-	display: none;
-	position: absolute;
-	top: 59px;
-	left: @menu-left;
-	width: @menu-width;
-	background: @grey;
-	z-index: 99; 
-
-  a, a:visited {
-    font-weight: normal; }
-  ul {
-	  width: @menu-width + 10px;
-	  list-style-type:none;
-	  margin: 0;
-	  border-bottom: 1px solid black; 
-    li {
-	    border: 1px solid black;
-      border-bottom: none; } 
-    li a {
-	    text-decoration: none;
-	    display: block;
-	    background: #cecece;
-	    color: black;
-	    width: @menu-width;
-	    padding: 4px; }
-    li a:hover {
-	    background: #32c8f0;
-	    color: #b9004e; }
+  .button {
+	  position: absolute;
+	  top: 20px;
+	  left: @menu-left;
+	  cursor: hand; }
+  .attitude {
+    position: absolute;
+    top: 65px;
+    left: @menu-left; }
+  nav {
+	  display: none;
+	  position: absolute;
+	  top: 59px;
+	  left: @menu-left;
+	  width: @menu-width;
+	  background: @grey;
+	  z-index: 99; 
+    a, a:visited {
+      font-weight: normal; }
+    ul {
+	    width: @menu-width + 10px;
+	    list-style-type:none;
+	    margin: 0;
+	    border-bottom: 1px solid black; 
+      li {
+	      border: 1px solid black;
+        border-bottom: none; } 
+      li a {
+	      text-decoration: none;
+	      display: block;
+	      background: #cecece;
+	      color: black;
+	      width: @menu-width;
+	      padding: 4px; }
+      li a:hover {
+	      background: #32c8f0;
+	      color: #b9004e; }
+    }
   }
 }
 

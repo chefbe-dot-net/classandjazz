@@ -1,47 +1,42 @@
-<img id="menuetc" src="/_assets/images/menu.gif"
-     onmouseover="$('#menu').show()" 
-     onmouseout="$('#menu').hide()" />
-
-<a id="attitude_logo" target="_blank" 
-   href="http://www.balletschoolattitude.be" 
-   title="Balletschool Attitude">
-  <img src="/_assets/images/attitude_logo.gif" alt="Balletschool Attitude"/></a>
-
-<nav id="menu" 
-     onmouseover="$('#menu').show()"  
-     onmouseout="$('#menu').hide()">
-  <ul class="dropdown dropdown-vertical">
-    *{menu[lang] as entry}{
-      <li ?{entry["menu"]}{class="dir"}>
-        <a href="@{${entry.url}}">${entry.label}</a>
-        ?{entry["menu"]}{
-          <ul>
-          *{entry["menu"] as entry}{
-            <li>
-              <a href="@{${entry.url}}">${entry.label}</a>
-            </li>
+<div id="menu">
+  <img class="button" src="/_assets/images/menu.gif" onmouseover="$('#menu nav').show()" 
+                                                     onmouseout="$('#menu nav').hide()" />
+  <a class="attitude" target="_blank" 
+     href="http://www.balletschoolattitude.be" title="Balletschool Attitude">
+    <img src="/_assets/images/attitude_logo.gif" alt="Balletschool Attitude"/></a>
+  <nav onmouseover="$('#menu nav').show()"  
+       onmouseout="$('#menu nav').hide()">
+    <ul class="dropdown dropdown-vertical">
+      *{menu[lang] as entry}{
+        <li ?{entry["menu"]}{class="dir"}>
+          <a href="@{${entry.url}}">${entry.label}</a>
+          ?{entry["menu"]}{
+            <ul>
+            *{entry["menu"] as entry}{
+              <li>
+                <a href="@{${entry.url}}">${entry.label}</a>
+              </li>
+            }
+            </ul>
           }
-          </ul>
-        }
-      </li>
-    }
-  </ul>
-</nav>
-
-<script>
-  $(document).ready(function(){
-    $("ul.dropdown li").dropdown();
-  });
-  $.fn.dropdown = function() {
-    $(this).hover(function(){
-	    $(this).addClass("hover");
-	    $('> .dir',this).addClass("open");
-	    $('ul:first',this).css('visibility', 'visible');
-    },function(){
-	    $(this).removeClass("hover");
-	    $('.open',this).removeClass("open");
-	    $('ul:first',this).css('visibility', 'hidden');
+        </li>
+      }
+    </ul>
+  </nav>
+  <script>
+    $(document).ready(function(){
+      $("ul.dropdown li").dropdown();
     });
-  }  
-</script>
-
+    $.fn.dropdown = function() {
+      $(this).hover(function(){
+	      $(this).addClass("hover");
+	      $('> .dir',this).addClass("open");
+	      $('ul:first',this).css('visibility', 'visible');
+      },function(){
+	      $(this).removeClass("hover");
+	      $('.open',this).removeClass("open");
+	      $('ul:first',this).css('visibility', 'hidden');
+      });
+    }  
+  </script>
+</div>

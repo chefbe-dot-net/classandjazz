@@ -15,12 +15,12 @@ div#photo{position:absolute;right:5px;top:5px;border:2px solid white;width:300px
 #text h2{text-align:right;}
 #text h2,#text h3{font-size:20px;font-variant:small-caps;border-bottom:1px dashed black;}
 #text h1 a,#text h2 a,#text h3 a{text-decoration:none;font-weight:bold;}
-img#menuetc{position:absolute;top:20px;left:446px;cursor:hand;}
-a#attitude_logo{position:absolute;top:65px;left:446px;}
-#menu{display:none;position:absolute;top:59px;left:446px;width:183px;background:#cecece;z-index:99;}#menu a,#menu a:visited{font-weight:normal;}
-#menu ul{width:193px;list-style-type:none;margin:0;border-bottom:1px solid black;}#menu ul li{border:1px solid black;border-bottom:none;}
-#menu ul li a{text-decoration:none;display:block;background:#cecece;color:black;width:183px;padding:4px;}
-#menu ul li a:hover{background:#32c8f0;color:#b9004e;}
+#menu .button{position:absolute;top:20px;left:446px;cursor:hand;}
+#menu .attitude{position:absolute;top:65px;left:446px;}
+#menu nav{display:none;position:absolute;top:59px;left:446px;width:183px;background:#cecece;z-index:99;}#menu nav a,#menu nav a:visited{font-weight:normal;}
+#menu nav ul{width:193px;list-style-type:none;margin:0;border-bottom:1px solid black;}#menu nav ul li{border:1px solid black;border-bottom:none;}
+#menu nav ul li a{text-decoration:none;display:block;background:#cecece;color:black;width:183px;padding:4px;}
+#menu nav ul li a:hover{background:#32c8f0;color:#b9004e;}
 ul.dropdown,ul.dropdown li,ul.dropdown ul{list-style:none;margin:0;padding:0;}
 ul.dropdown{position:relative;z-index:597;float:left;}
 ul.dropdown li{float:left;line-height:1.3em;vertical-align:middle;zoom:1;}
