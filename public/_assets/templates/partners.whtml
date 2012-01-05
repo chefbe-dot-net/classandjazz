@@ -1,22 +1,21 @@
-<div id="main">
-  <<+{bricks/header.whtml   share all}
-  <<+{bricks/keyboard.whtml share all}
-  <div id="partition">
-    <div id="text">
-      <ul id="partners">
-      *{partners as partner}{
-        <li>
-          <div class="logo">
-            <img src="${partner.picture}"/>
-          </div>
-          <div>
-            <h1>${partner.title}</h1>
-            ~{partner.text[lang]}
-          </div>
-        </li>
-      }
-      </ul>
-    </div>
+<<+{bricks/header.whtml   share all}
+<<+{bricks/keyboard.whtml share all}
+
+<div id="partition">
+  <div id="text">
+    <ul id="partners">
+    *{partners as partner}{
+      <li>
+        <div class="logo">
+          <img src="${partner.picture}"/>
+        </div>
+        <div>
+          <h1>${partner.title}</h1>
+          ~{partner.text[lang]}
+        </div>
+      </li>
+    }
+    </ul>
   </div>
 </div>
 

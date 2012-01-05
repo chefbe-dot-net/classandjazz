@@ -1,38 +1,37 @@
-<div id="main">
-  <<+{bricks/header.whtml   share all}
-  <<+{bricks/keyboard.whtml share all}
-  <div id="partition" class="contact">
-    <div id="text">
+<<+{bricks/header.whtml   share all}
+<<+{bricks/keyboard.whtml share all}
 
-      <div id="info" itemscope itemtype="http://data-vocabulary.org/Organization">
-        <div id="contact">
-          <img src="/_assets/images/contact.gif"/>
-          <p itemprop="name">Class &amp; Jazz &mdash; Raph Van Goubergen</p>
-          <p itemprop="tel">016 65 11 79 / 0486 11 95 66</p>
-          <p itemprop="url">www.classandjazz.be</p>
-        </div>
-        <div id="addr" itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address">
-          <img src="/_assets/images/address_${lang}.gif"/>
-          <p>Studio Birdland Belgium</p>
-          <p>
-            <a target="_blank" 
-               href="http://maps.google.fr/maps?f=q&source=s_q&hl=${lang}&geocode=&q=langestraat+78+Kampenhout+Belgique&sll=46.845164,1.73584&sspn=13.289173,33.815918&ie=UTF8&ll=50.962779,4.560056&spn=0.011947,0.033023&z=16&iwloc=A">
-              <span itemprop="street-address">Langestraat 78</span>
-              <span itemprop="locality">1910 Kampenhout</span>
-            </a>
-          </p>
-        </div>
-        <div id="mail">
-          <img src="/_assets/images/mail.gif"/> 
-          <a href="mailto:info@classandjazz.be">info@classandjazz.be</a>
-        </div>
+<div id="partition" class="contact">
+  <div id="text">
+
+    <div id="info" itemscope itemtype="http://data-vocabulary.org/Organization">
+      <div id="contact">
+        <img src="/_assets/images/contact.gif"/>
+        <p itemprop="name">Class &amp; Jazz &mdash; Raph Van Goubergen</p>
+        <p itemprop="tel">016 65 11 79 / 0486 11 95 66</p>
+        <p itemprop="url">www.classandjazz.be</p>
       </div>
-
-      ?{flash.show}{
-        <article id="flash">
-          ~{flash.text[lang]}
-        </article>
-      }
+      <div id="addr" itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address">
+        <img src="/_assets/images/address_${lang}.gif"/>
+        <p>Studio Birdland Belgium</p>
+        <p>
+          <a target="_blank" 
+             href="http://maps.google.fr/maps?f=q&source=s_q&hl=${lang}&geocode=&q=langestraat+78+Kampenhout+Belgique&sll=46.845164,1.73584&sspn=13.289173,33.815918&ie=UTF8&ll=50.962779,4.560056&spn=0.011947,0.033023&z=16&iwloc=A">
+            <span itemprop="street-address">Langestraat 78</span>
+            <span itemprop="locality">1910 Kampenhout</span>
+          </a>
+        </p>
+      </div>
+      <div id="mail">
+        <img src="/_assets/images/mail.gif"/> 
+        <a href="mailto:info@classandjazz.be">info@classandjazz.be</a>
+      </div>
     </div>
+
+    ?{flash.show}{
+      <article id="flash">
+        ~{flash.text[lang]}
+      </article>
+    }
   </div>
 </div>

@@ -1,9 +1,7 @@
-<div id="main">
-  <<+{bricks/header.whtml share all}
-  <div id="partition">
-    <div id="text">
-      ~{text[lang]}
-    </div>
+<<+{bricks/header.whtml share all}
+
+<div id="partition">
+  <div id="text">
+    ~{text[lang]}
   </div>
 </div>
-

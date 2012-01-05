@@ -13,7 +13,9 @@
     <script src="/_assets/js/websync-tools-0.0.1.js"></script>
  </head>
   <body>
-    <<+{${template}.whtml share all}
+    <div id="main">
+      <<+{${template}.whtml share all}
+    </div>
     <style>
       ?{knows?(:partition)}{
         #partition { background-image: url('/_assets/partitions/${partition}'); }
