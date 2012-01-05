@@ -3,13 +3,14 @@ body{margin:15px;}
 a img{border:none;}
 a,a:visited{font-weight:bold;text-decoration:none;color:#336699;}
 a:hover{text-decoration:underline;}
+p{margin:0px;padding:0px;}
 #main{width:966px;height:606px;margin:auto;padding:5px;border:2px solid black;overflow:hidden;position:relative;background:#cecece;}
 header{padding:5px 10px;height:150px;}
 #partition{position:relative;height:441px;background-position:top right;background-repeat:no-repeat;}
 a#attitude_logo.home{top:auto;bottom:10px;left:10px;}
 img#keyboard{position:absolute;top:0;right:0;z-index:10;}
 div#photo{position:absolute;right:5px;top:5px;border:2px solid white;width:315px;height:190px;background-repeat:no-repeat;}
-#text{width:620px;height:431px;line-height:18px;color:black;padding:5px 10px;overflow:auto;background:#cecece;opacity:0.88;}#text p,#text li{padding:5px;text-align:justify;}
+#text{width:620px;height:431px;line-height:18px;color:black;padding:5px 10px;overflow:auto;background:#cecece;opacity:0.88;}#text p,#text li{margin:0px;padding:5px;text-align:justify;}
 #text h1{line-height:25px;font-size:26px;margin-top:0px;font-variant:small-caps;}
 #text h2{text-align:right;}
 #text h2,#text h3{font-size:20px;font-variant:small-caps;border-bottom:1px dashed black;}
