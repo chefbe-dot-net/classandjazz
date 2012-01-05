@@ -38,3 +38,6 @@ div#addr{position:absolute;top:160px;left:360px;}
 div#mail{position:absolute;top:260px;left:360px;}
 p{margin:3px;}
 div#flash{position:relative;width:550px;height:290px;top:140px;left:15px;background:white;border:2px solid #b9004e;padding:5px;padding-top:0px;overflow:auto;text-align:justify;}
+table#partners{position:absolute;top:150px;left:45px;border-collapse:separate;border-spacing:0 20px;}table#partners p{margin:3px;}
+table#partners tr td{padding-right:10px;vertical-align:top;}
+table#partners a{text-decoration:none;}table#partners a h1{color:black;margin-top:0;}

@@ -15,24 +15,6 @@
     </tr>
   }
   </table>
-
-  <style type="text/css">
-    p { margin: 3px; }
-    table#partners {
-      position: absolute;
-      top: 170px;
-      left: 45px;
-      border-collapse: separate;
-      border-spacing: 0 20px; }
-    table#partners tr td {
-      padding-right: 10px;
-      vertical-align: top; }
-    table#partners a {
-      text-decoration: none; }
-    a h1 {
-      color: black;
-      margin-top: 0; }
-  </style>
 </div>
 
 

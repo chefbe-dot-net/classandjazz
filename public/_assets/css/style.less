@@ -1,0 +1,71 @@
+@import "globals.less";
+
+#main {
+	width: @width -  2*@border-width - 2*@main-padding;
+	height: @height - 2*@border-width - 2*@main-padding;
+	margin: auto;
+  padding: 5px;
+	border: 2px solid black;
+	overflow: hidden;
+	position: relative;
+  background: @grey; }
+
+header {
+  padding: 5px 10px; 
+  margin-bottom: 20px; }
+
+#partition {
+	width: @width -  2*@border-width - 2*@main-padding;
+  background-position: top right;
+  background-repeat: no-repeat; }
+
+a#attitude_logo.home {
+  top: auto;
+  bottom: 10px;
+  left: 10px; }
+img#keyboard {
+  position: absolute;
+  top: 0;
+  right: 0; }
+
+div#photo{
+	position: absolute;
+	right: 5px;
+	top: 5px;
+  border: 2px solid white;
+	width: 315px;
+	height: 190px;
+	background-repeat: no-repeat; }
+
+#text {
+  margin-top: 20px;
+  width: 620px;
+	height: 435px;
+	line-height: 18px;
+	color: black;
+	padding: 5px 10px;
+  overflow: auto; 
+  background: @grey;
+  opacity: 0.85; 
+
+  p, li {
+    padding: 5px;
+    text-align: justify; }
+  h1 {
+    line-height: 25px;
+    font-size: 24px;
+    font-variant: small-caps; }
+  h2 {
+    text-align: right; }
+  h2, h3 {
+    font-size: 18px;
+    font-variant: small-caps;
+    border-bottom: 1px dashed black; }
+  h1 a, h2 a, h3 a {
+    text-decoration: none; 
+    font-weight: bold; }
+}
+
+@import "menu.less";
+@import "contact.less";
+@import "partners.less";
