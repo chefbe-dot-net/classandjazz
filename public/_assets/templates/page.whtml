@@ -2,6 +2,6 @@
 
 <div id="partition">
   <div id="text">
-    ~{text[lang]}
+    <article>~{text[lang]}</article>
   </div>
 </div>
