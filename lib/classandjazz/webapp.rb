@@ -23,21 +23,21 @@ module ClassAndJazz
 
     rewriting = YAML.load((PUBLIC/"rewriting.yml").read)
 
-    rewriting["v1"].each do |h|
+    Array(rewriting["v1"]).each do |h|
       old, new, status = h.values_at("old", "new", "status")
       get "/:lang#{old}" do
         redirect "#{new}?lang=#{params[:lang]}", status || 301
       end
     end
 
-    rewriting["redirect"].each do |h|
+    Array(rewriting["redirect"]).each do |h|
       from, to, status = h.values_at("from", "to", "status")
       get from do 
         redirect to, status || 301
       end
     end
 
-    rewriting["removed"].each do |url|
+    Array(rewriting["removed"]).each do |url|
       get url do
         410
       end
