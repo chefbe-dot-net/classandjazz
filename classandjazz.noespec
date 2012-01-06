@@ -1,0 +1,13 @@
+# See 'noe help prepare' and 'noe help show-spec' for more information.
+template-info:
+  name: websync
+  version: 1.0.0
+  summary: |
+    A Ruby/Sinatra/HTML5/less.css boilerplate for mostly static websites.
+variables:
+  lower:
+    classandjazz
+  upper:
+    ClassAndJazz
+  www:
+    www.classandjazz.be
