@@ -18,6 +18,7 @@ module ClassAndJazz
 
     # Domain specific configuration
     set :default_lang, "nl"
+    set :default_context, { }
 
     ########################################################### Rewriting routes
 
@@ -92,7 +93,7 @@ module ClassAndJazz
         end
       end
 
-      def load_ctx(lang, url, ctx = {})
+      def load_ctx(lang, url, ctx = settings.default_context)
         until (url == PUBLIC.parent/"index.yml")
           if url.exist?
             ctx = ctx_merge(YAML::load(url.read), ctx)
