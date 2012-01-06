@@ -99,19 +99,35 @@ module ClassAndJazz
       def load_ctx(lang, url, ctx = {})
         until (url == PUBLIC.parent/"index.yml")
           if url.exist?
-            ctx = YAML::load(url.read).merge(ctx)
+            ctx = ctx_merge(YAML::load(url.read), ctx)
             Array(ctx['includes']).each do |inc|
               path = url.parent/inc
-              ctx = ctx.merge(YAML::load(path.read))
+              ctx = ctx_merge(YAML::load(path.read), ctx)
             end
           end
           url = url.dir.parent/"index.yml"
         end
-        {
+        ctx_merge({
           :lang => lang, 
           :environment => settings.environment,
           :url => "/#{url}"
-        }.merge(ctx)
+        },ctx)
+      end
+      
+      def ctx_merge(left, right)
+        unless left.class == right.class        
+          raise "Unexpected #{left.class} vs. #{right.class}"
+        end
+        case left
+        when Array
+          (right | left).uniq
+        when Hash
+          left.merge(right){|k,l,r|
+            ctx_merge(l,r)
+          }
+        else
+          right
+        end
       end
 
     end
