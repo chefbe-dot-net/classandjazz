@@ -1,4 +1,7 @@
 --- 
+removed:
+  - /instruments/sax-and-clarinet/joe/
+  - /instruments/guitar-and-bass/peter/
 redirect:
   - from: /webschool/
     to: https://sites.google.com/site/classandjazzwebschool/home
@@ -6,9 +9,6 @@ redirect:
   - from: /dokeos/*
     to: /webschool/
     status: 301
-removed:
-  - /instruments/sax-and-clarinet/joe/
-  - /instruments/guitar-and-bass/peter/
 v1:
   - old: /contact.html
     new: /contact/
