@@ -13,6 +13,9 @@ group :development do
   gem "http", "~> 0.0.1"
   gem "launchy", "~> 2.0.5"
   gem "rake", "~> 0.9.2"
+end
+
+group :test do
   gem "capybara", "~> 1.1.0"
 end
 
