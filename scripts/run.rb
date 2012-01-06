@@ -19,6 +19,9 @@ Dir.chdir(File.expand_path('../..', __FILE__)) do
   require 'bundler'
   Bundler.setup(:development)
 
+  puts "Synchronizing the repository"
+  Process.wait spawn("git remote update")
+
   # Launch thin on #{mode}.ru
   puts "Starting the web server..."
   thinpid = spawn("thin -R config/#{mode}.ru start")
