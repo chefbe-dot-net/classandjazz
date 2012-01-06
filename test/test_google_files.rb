@@ -11,12 +11,12 @@ class GoogleFilesTest < WebAppTest
     assert_equal 200, page.status_code
   end
 
-  def test_verification_fie
+  def test_verification_file
     visit('/googleec799723efa513b7.html')
     assert_equal 200, page.status_code
   end
 
-  def test_verification_fie
+  def test_verification_file_2
     visit('/google4efc1a3f6ff86289.html')
     assert_equal 200, page.status_code
   end

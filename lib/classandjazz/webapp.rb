@@ -57,12 +57,8 @@ module ClassAndJazz
       WLang::file_instantiate(tpl, ctx)
     end
 
-    get '/googleec799723efa513b7.html' do
-      send_file PUBLIC/"_assets/google/googleec799723efa513b7.html"
-    end
-
-    get '/google4efc1a3f6ff86289.html' do
-      send_file PUBLIC/"_assets/google/google4efc1a3f6ff86289.html"
+    get %r{/(google.*?.html)} do |url|
+      send_file PUBLIC/"_assets/google"/url
     end
 
     ############################################################## Normal routes
