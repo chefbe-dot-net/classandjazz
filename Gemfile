@@ -1,4 +1,4 @@
-#source :rubygems
+source :rubygems
 
 group :development do
   gem "eventmachine", "~> 1.0.0.beta.4.1", :platform => [:mswin, :mingw]
