@@ -31,6 +31,7 @@ GIT
       grit (~> 2.4.1)
 
 GEM
+  remote: http://rubygems.org/
   specs:
     addressable (2.2.6)
     capybara (1.1.2)
