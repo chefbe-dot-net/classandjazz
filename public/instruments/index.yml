@@ -31,7 +31,7 @@ text:
       @{/instruments/other-instruments/}{houtblazers & koperblazers} -
       @{/instruments/other-instruments/}{andere instrumenten}
     
-    ## Andere cursussen (@{/instruments/other-instruments/}{meer info})
+    ## Andere cursussen (@{/instruments/other-courses/}{meer info})
 
     Band-coaching - Klassieke samenspel - Jazz/Rock/Pop samenspel (Combo) - Improvisatie - 
     Compositie - Arrangement - Jazz-Harmonie - Klassieke Harmonie - Gehoortraining - 
@@ -72,7 +72,7 @@ text:
       @{/instruments/other-instruments/}{instruments à vent bois et cuivres} -
       @{/instruments/other-instruments/}{autres instruments}
         
-    ## Autres cours (@{/instruments/other-instruments/}{plus d’informations})
+    ## Autres cours (@{/instruments/other-courses/}{plus d’informations})
 
     Band-coaching - Ensemble Classique - Ensemble Jazz/Rock/Pop (combo) - Improvisation - 
     Composition - Arrangement - Harmonie Jazz - Harmonie Classique - Entraînement de 
@@ -112,7 +112,7 @@ text:
       @{/instruments/other-instruments/}{woodwind and brass} -
       @{/instruments/other-instruments/}{other instruments} 
     
-    ## Other courses (@{/instruments/other-instruments/}{more information})
+    ## Other courses (@{/instruments/other-courses/}{more information})
 
     Band-coaching - Classical Ensemble - Jazz/Rock/Pop Ensemble (combo) - Improvisation - 
     Composition - Arrangement - Jazz Harmony - Classical Harmony - Ear Training -
