@@ -1,7 +1,7 @@
 source :rubygems
 
 group :development do
-  gem "eventmachine", "~> 1.0.0.beta"
+  gem "eventmachine", "= 1.0.0.beta.3"
   gem "thin", "~> 1.2.11"
   gem "sinatra", "~> 1.3.0"
   gem "wlang", "~> 0.10.2"
