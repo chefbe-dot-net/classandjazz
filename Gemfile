@@ -1,7 +1,7 @@
 source :rubygems
 
 group :development do
-  gem "eventmachine", "~> 1.0.0.beta.4.1", :platform => [:mswin, :mingw]
+  gem "eventmachine", "~> 1.0.0.beta"
   gem "thin", "~> 1.2.11"
   gem "sinatra", "~> 1.3.0"
   gem "wlang", "~> 0.10.2"
@@ -9,7 +9,6 @@ group :development do
   gem "epath", "~> 0.0.1"
   gem "grit", :git => "git://github.com/blambeau/grit.git"
   gem "websync", :git => "git://github.com/blambeau/websync.git"
-  #gem "websync", :path => "../../websync"
   gem "http", "~> 0.0.1"
   gem "launchy", "~> 2.0.5"
   gem "rake", "~> 0.9.2"
@@ -27,5 +26,4 @@ group :production do
   gem "epath", "~> 0.0.1"
   gem "grit", :git => "git://github.com/blambeau/grit.git"
   gem "websync", :git => "git://github.com/blambeau/websync.git"
-  #gem "websync", :path => "../../websync"
 end
