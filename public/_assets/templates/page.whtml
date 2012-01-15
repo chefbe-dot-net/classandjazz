@@ -1,5 +1,3 @@
-<<+{bricks/header.whtml share all}
-
 <div id="partition">
   <div id="text">
     <article>~{text[lang]}</article>

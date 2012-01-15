@@ -1,5 +1,3 @@
-<<+{bricks/header.whtml share all}
-
 <div id="partition">
   <div id="text">
     <<+{bricks/contact.whtml share all}
