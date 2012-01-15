@@ -10,11 +10,18 @@ nav#menu {
   background-color: white;
   border: 1px solid black;
   padding: 5px 10px;
+  color: @pink;
+  h1 {
+    font-size: 16px; 
+    margin: 0px;
+    padding: 7px 0px 3px 5px; }
   ul {
+    list-style: square;
     margin: 0px;
     padding: 0px; 
-    padding-left: 15px; }
-  ul li { padding: 1px; }
+    padding-left: 35px; }
+  ul ul { padding-left: 25px; }
+  ul li { padding-bottom: 1px; }
   opacity: @opacity;
   a, a:hover, a:visited { color: @pink; }
   a.current { text-decoration: underline; }

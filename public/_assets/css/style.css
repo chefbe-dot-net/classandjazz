@@ -20,8 +20,10 @@ header #photo{display:block;position:absolute;right:5px;top:5px;border:2px solid
 #text h2{text-align:right;}
 #text h2,#text h3{font-size:20px;font-variant:small-caps;border-bottom:1px dashed black;}
 #text h1 a,#text h2 a,#text h3 a{text-decoration:none;font-weight:bold;}
-nav#menu{width:290px;height:439px;overflow:auto;position:absolute;right:0px;background-color:white;border:1px solid black;padding:5px 10px;opacity:0.9;}nav#menu ul{margin:0px;padding:0px;padding-left:15px;}
-nav#menu ul li{padding:1px;}
+nav#menu{width:290px;height:439px;overflow:auto;position:absolute;right:0px;background-color:white;border:1px solid black;padding:5px 10px;color:#9a003d;opacity:0.9;}nav#menu h1{font-size:16px;margin:0px;padding:7px 0px 3px 5px;}
+nav#menu ul{list-style:square;margin:0px;padding:0px;padding-left:35px;}
+nav#menu ul ul{padding-left:25px;}
+nav#menu ul li{padding-bottom:1px;}
 nav#menu a,nav#menu a:hover,nav#menu a:visited{color:#9a003d;}
 nav#menu a.current{text-decoration:underline;}
 #contact{margin:10px 0px;}#contact h1{margin:0px;padding:0px;}
