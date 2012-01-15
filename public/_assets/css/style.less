@@ -1,54 +1,48 @@
 @import "globals.less";
 
 #main {
-	width: @width -  2*@border-width - 2*@main-padding;
-	height: @height - 2*@border-width - 2*@main-padding;
-	margin: auto;
+  width: @width -  2*@border-width - 2*@main-padding;
+  height: @height - 2*@border-width - 2*@main-padding;
+  margin: auto;
   padding: 5px;
-	border: 2px solid black;
-	overflow: hidden;
-	position: relative;
+  border: 2px solid black;
+  overflow: hidden;
+  position: relative;
   background: @grey; }
 
 header {
   padding: 5px 10px; 
-  height: @header-height; }
+  height: @header-height; 
+  a { 
+    display: block; 
+    float: left; 
+    padding: 5px; }
+  #photo {
+    display: block;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    border: 2px solid white;
+    height: @header-height - 2*2px;
+    background-repeat: no-repeat; }
+}
 
 #partition {
   position: relative;
-	height: @article-height;
-  background-position: top right;
+  height: @article-height;
+  background-position: top left;
   background-repeat: no-repeat; }
-
-a#attitude_logo.home {
-  top: auto;
-  bottom: 10px;
-  left: 10px; }
-img#keyboard {
-  position: absolute;
-  top: 0;
-  right: 0; 
-  z-index: 10;}
-
-div#photo {
-	position: absolute;
-	right: 5px;
-	top: 5px;
-  border: 2px solid white;
-	width: 290px;
-	height: 175px;
-	background-repeat: no-repeat; }
 
 #text {
   width: 600px;
-	height: @article-height - 10;
-	line-height: 18px;
-	color: black;
-	padding: 5px 10px;
+  height: @article-height - 10;
+  line-height: 18px;
+  color: black;
+  padding: 5px 10px;
   overflow: auto; 
   background: white;
   border: 1px solid black;
-  opacity: 0.90;
+  opacity: @opacity;
   p, li {
     margin: 0px;
     padding: 5px;

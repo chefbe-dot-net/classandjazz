@@ -1,5 +1,9 @@
 <header>
   <a href="@{/}"><img id="logo" src="/_assets/images/class_and_jazz.gif"/></a>
-  <<+{menu.whtml share all}
-  ?{knows?(:picture)}{<div id="photo"></div>}
+  <a target="_blank" 
+   href="http://www.balletschoolattitude.be" title="Balletschool Attitude">
+  <img src="/_assets/images/attitude_logo.gif" alt="Balletschool Attitude"/></a>
+  ?{knows?(:picture)}{
+    <img id="photo" src="/_assets/photos/${picture}">
+  }
 </header>

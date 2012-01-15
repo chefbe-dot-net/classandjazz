@@ -1,93 +1,19 @@
-@menu-left: 446px;
-@menu-width: 183px;
+@menu-width:  290px;
+@menu-height: @article-height - 10px;
 
-#menu {
-  .button {
-	  position: absolute;
-	  top: 20px;
-	  left: @menu-left;
-	  cursor: hand; }
-  .attitude {
-    position: absolute;
-    top: 65px;
-    left: @menu-left; }
-  nav {
-	  display: none;
-	  position: absolute;
-	  top: 59px;
-	  left: @menu-left;
-	  width: @menu-width;
-	  background: @grey;
-	  z-index: 99; 
-    a, a:visited {
-      font-weight: normal; }
-    ul {
-	    width: @menu-width + 10px;
-	    list-style-type:none;
-	    margin: 0;
-	    border-bottom: 1px solid black; 
-      li {
-	      border: 1px solid black;
-        border-bottom: none; } 
-      li a {
-	      text-decoration: none;
-	      display: block;
-	      background: @grey;
-	      color: black;
-	      width: @menu-width;
-	      padding: 4px; }
-      li a:hover {
-	      background: #32c8f0;
-	      color: #b9004e; }
-    }
-  }
-
-}
-
-ul.dropdown,
-ul.dropdown li,
-ul.dropdown ul {
-  list-style: none;
-  margin: 0;
-  padding: 0; }
-ul.dropdown {
-  position: relative;
-  z-index: 597;
-  float: left; 
-  li {
-    float: left;
-    line-height: 1.3em;
-    vertical-align: middle;
-    zoom: 1; }
-  li.hover, li:hover {
-    position: relative;
-    z-index: 599;
-    cursor: default; }
+nav#menu {
+  width:  @menu-width;
+  height: @menu-height;
+  position: absolute;
+  right: 0px;
+  background-color: white;
+  border: 1px solid black;
+  padding: 5px 10px;
   ul {
-    visibility: hidden;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    z-index: 598;
-    width: 100%; 
-    li { float: none; }
-    ul { top: 1px; left: 99%; }
-  }
-  li:hover > ul {
-    visibility: visible; }
-  li.rtl ul {
-    top: 100%;
-    right: 0;
-    left: auto; 
-    ul {
-      top: 1px;
-      right: 99%;
-      left: auto; }  
-  }
+    margin: 0px;
+    padding: 0px; 
+    padding-left: 15px; }
+  ul li { padding: 1px; }
+  opacity: @opacity;
 }
-ul.dropdown-vertical ul {
-  top: 1px;
-  left: 99%; }
-ul.dropdown-vertical li {
-  float: none; }  
 

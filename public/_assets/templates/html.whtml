@@ -21,9 +21,6 @@
     ?{knows?(:partition)}{
       #partition { background-image: url('/_assets/partitions/${partition}'); }
     }
-    ?{knows?(:picture)}{
-      div#photo { background-image: url('/_assets/photos/${picture}'); }
-    }
   </style>
     ?{environment == :production}{<<+{bricks/analytics.whtml share all}}
   </body>

@@ -1,4 +1,5 @@
 <div id="partition" class="partners">
+  <<+{bricks/menu.whtml share all}
   <div id="text">
     <ul id="partners">
     *{partners as partner}{
