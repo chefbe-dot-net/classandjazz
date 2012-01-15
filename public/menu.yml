@@ -2,8 +2,6 @@ menu:
   nl:
     - label: Home
       url: /
-    - label: Contact
-      url: /contact/
     - label: News !
       url: /news/
     - label: Filosofie
@@ -50,8 +48,6 @@ menu:
   fr:
     - label: Home
       url: /
-    - label: Contact
-      url: /contact/
     - label: News !
       url: /news/
     - label: Philosophie
@@ -98,8 +94,6 @@ menu:
   en:
     - label: Home
       url: /
-    - label: Contact
-      url: /contact/
     - label: News !
       url: /news/
     - label: Philosophy

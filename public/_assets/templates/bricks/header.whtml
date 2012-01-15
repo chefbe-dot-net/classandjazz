@@ -1,5 +1,5 @@
 <header>
-  <a href="@{/contact}"><img id="logo" src="/_assets/images/class_and_jazz.gif"/></a>
+  <a href="@{/}"><img id="logo" src="/_assets/images/class_and_jazz.gif"/></a>
   <<+{menu.whtml share all}
   ?{knows?(:picture)}{<div id="photo"></div>}
 </header>

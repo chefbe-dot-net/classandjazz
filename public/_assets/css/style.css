@@ -10,7 +10,7 @@ header{padding:5px 10px;height:150px;}
 a#attitude_logo.home{top:auto;bottom:10px;left:10px;}
 img#keyboard{position:absolute;top:0;right:0;z-index:10;}
 div#photo{position:absolute;right:5px;top:5px;border:2px solid white;width:290px;height:175px;background-repeat:no-repeat;}
-#text{width:620px;height:431px;line-height:18px;color:black;padding:5px 10px;overflow:auto;background:white;border:1px solid black;opacity:0.90;}#text p,#text li{margin:0px;padding:5px;text-align:justify;}
+#text{width:600px;height:431px;line-height:18px;color:black;padding:5px 10px;overflow:auto;background:white;border:1px solid black;opacity:0.90;}#text p,#text li{margin:0px;padding:5px;text-align:justify;}
 #text h1{line-height:25px;font-size:26px;margin-top:5px;font-variant:small-caps;}
 #text h2{text-align:right;}
 #text h2,#text h3{font-size:20px;font-variant:small-caps;border-bottom:1px dashed black;}
@@ -30,13 +30,9 @@ ul.dropdown li:hover>ul{visibility:visible;}
 ul.dropdown li.rtl ul{top:100%;right:0;left:auto;}ul.dropdown li.rtl ul ul{top:1px;right:99%;left:auto;}
 ul.dropdown-vertical ul{top:1px;left:99%;}
 ul.dropdown-vertical li{float:none;}
-#main .contact #text{background:#cecece;border:none;}
-#main .contact #info{font-family:tahoma,sans-serif;font-stretch:expanded;font-size:16px;font-weight:bold;word-spacing:2px;letter-spacing:-0.1em;}#main .contact #info p{margin:3px;padding:0px;}
-#main .contact #info #contact{position:absolute;left:35px;}
-#main .contact #info #addr{position:absolute;left:360px;}
-#main .contact #info #mail{position:absolute;top:100px;left:360px;}
-#main .contact #flash{position:absolute;width:530px;height:290px;bottom:5px;left:35px;background:white;border:2px solid #b9004e;padding:0px 10px;overflow:auto;text-align:justify;z-index:99;}#main .contact #flash h1{font-size:18px;margin:0px;margin-top:15px;margin-bottom:3px;padding:0px;}
-#main .contact #flash p{margin:0px;padding:5px 0px;padding-left:10px;}
+#contact{margin:10px 0px;}#contact h1{margin:0px;padding:0px;}
+#contact ul{list-style:none;margin:0px;}
+#contact ul li{padding:0px;}
 #main .partners #text{width:600px;}
 #main .partners ul#partners{list-style:none;margin:0px;padding:0px;}
 #main .partners ul#partners>li{margin-top:5px;clear:both;}#main .partners ul#partners>li div{float:left;padding:5px;}

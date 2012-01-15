@@ -1,6 +1,4 @@
 template: index
-google:
-  tracker: UA-3061364-4
 title: 
   nl: Class & Jazz - Muziekschool Kampenhout
   fr: Class & Jazz - Ecole de Musique Kampenhout
@@ -13,6 +11,21 @@ keywords:
   nl: [muziekschool Kampenhout, Muziek, Jazz, muziek lessen]
   fr: [école de musique Kampenhout, musique, jazz, cours de musique]
   en: [music school Kampenhout, music, jazz, music lessons]
+contact:
+  name:           Class & Jazz -- Raph Van Goubergen
+  phone:          016 65 11 79 / 0486 11 95 66
+  website:        www.classandjazz.be
+  mail:           info@classandjazz.be
+  adress:      
+    organization: Studio Birdland Belgium 
+    street:       Langestraat 78
+    postalcode:   1910
+    locality:     Kampenhout
+    country:      Belgium
+    googlemap:    http://maps.google.be/maps?f=q&source=s_q&hl=${lang}&geocode=&q=langestraat+78+Kampenhout+Belgique&sll=46.845164,1.73584&sspn=13.289173,33.815918&ie=UTF8&ll=50.962779,4.560056&spn=0.011947,0.033023&z=16&iwloc=A
+google:
+  tracker: UA-3061364-4
 includes:
   - menu.yml
   - flash.yml
+

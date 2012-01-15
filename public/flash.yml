@@ -1,85 +1,83 @@
-flash:
-  show: true
-  text:
-    nl: |-
-      # INFODAG: zondag 15 januari 2012 van 10u tot 16u
+text:
+  nl: |-
+    # INFODAG: zondag 15 januari 2012 van 10u tot 16u
 
-      <b>Het CLASS & JAZZ team</b>, 
-      @{/instruments/guitar-and-bass/michel/}{Michel}, 
-      @{/instruments/guitar-and-bass/bart/}{Bart}, 
-      @{/instruments/violin/}{Andries}, 
-      @{/instruments/drums-and-percussions/pieter/}{Pieter}, 
-      @{/instruments/cello/}{Maaike}, 
-      @{/instruments/singing/majorie/}{Majorie} en 
-      @{/instruments/piano/}{Raph} ontvangen u professioneel voor lessen 
-      gitaar, elektrische gitaar, folk gitaar, basgitaar, contrabas, 
-      viool, elektrische viool, folk viool, 
-      drums en percussie, 
-      cello, 
-      klassieke zang en jazz zang,
-      piano en keyboards, 
-      improvisatie (alle instrumenten), band coaching, muziektheorie, jazz 
-      harmonie, en veel meer...
+    <b>Het CLASS & JAZZ team</b>, 
+    @{/instruments/guitar-and-bass/michel/}{Michel}, 
+    @{/instruments/guitar-and-bass/bart/}{Bart}, 
+    @{/instruments/violin/}{Andries}, 
+    @{/instruments/drums-and-percussions/pieter/}{Pieter}, 
+    @{/instruments/cello/}{Maaike}, 
+    @{/instruments/singing/majorie/}{Majorie} en 
+    @{/instruments/piano/}{Raph} ontvangen u professioneel voor lessen 
+    gitaar, elektrische gitaar, folk gitaar, basgitaar, contrabas, 
+    viool, elektrische viool, folk viool, 
+    drums en percussie, 
+    cello, 
+    klassieke zang en jazz zang,
+    piano en keyboards, 
+    improvisatie (alle instrumenten), band coaching, muziektheorie, jazz 
+    harmonie, en veel meer...
 
-      Inschrijven kan op elk moment in het jaar. Neem vrijblijvend contact op 
-      info@classandjazz.be voor meer info. 
+    Inschrijven kan op elk moment in het jaar. Neem vrijblijvend contact op 
+    info@classandjazz.be voor meer info. 
 
-      # Dans met @{http://www.balletschoolattitude.be}{Attitude}
+    # Dans met @{http://www.balletschoolattitude.be}{Attitude}
 
-      Klassiek Ballet (vanaf 4 jaar) - Jazz Ballet - Modern Ballet - Conditiejazz
+    Klassiek Ballet (vanaf 4 jaar) - Jazz Ballet - Modern Ballet - Conditiejazz
 
-    fr: |-
-      # JOURNEE INFO: dimanche 15 janvier 2012 de 10h à 16h
+  fr: |-
+    # JOURNEE INFO: dimanche 15 janvier 2012 de 10h à 16h
 
-      <b>L'équipe CLASS & JAZZ </b>
-      @{/instruments/guitar-and-bass/michel/}{Michel}, 
-      @{/instruments/guitar-and-bass/bart/}{Bart}, 
-      @{/instruments/violin/}{Andries}, 
-      @{/instruments/drums-and-percussions/pieter/}{Pieter}, 
-      @{/instruments/cello/}{Maaike}, 
-      @{/instruments/singing/majorie/}{Majorie} en 
-      @{/instruments/piano/}{Raph} vous reçoivent professionnellement pour des cours 
-      de guitare, guitare électrique, guitare folk, guitare basse, contrebasse, 
-      violon, violon électrique, violon folk,
-      batterie et percussions,
-      violoncelle,
-      chant classique et chant jazz,
-      piano et claviers,
-      improvisation (tous instruments), band coaching, théorie musicale, harmonie 
-      jazz, et bien plus encore ...
+    <b>L'équipe CLASS & JAZZ </b>
+    @{/instruments/guitar-and-bass/michel/}{Michel}, 
+    @{/instruments/guitar-and-bass/bart/}{Bart}, 
+    @{/instruments/violin/}{Andries}, 
+    @{/instruments/drums-and-percussions/pieter/}{Pieter}, 
+    @{/instruments/cello/}{Maaike}, 
+    @{/instruments/singing/majorie/}{Majorie} en 
+    @{/instruments/piano/}{Raph} vous reçoivent professionnellement pour des cours 
+    de guitare, guitare électrique, guitare folk, guitare basse, contrebasse, 
+    violon, violon électrique, violon folk,
+    batterie et percussions,
+    violoncelle,
+    chant classique et chant jazz,
+    piano et claviers,
+    improvisation (tous instruments), band coaching, théorie musicale, harmonie 
+    jazz, et bien plus encore ...
 
-      Les inscriptions sont possibles à tout moment de l'année. Contactez-nous 
-      à info@classandjazz.be pour plus d'informations. 
+    Les inscriptions sont possibles à tout moment de l'année. Contactez-nous 
+    à info@classandjazz.be pour plus d'informations. 
 
-      # Dansez avec @{http://www.balletschoolattitude.be}{Attitude}
+    # Dansez avec @{http://www.balletschoolattitude.be}{Attitude}
 
-      Danse Classique (à partir de 4 ans) - Danse Jazz - Danse Moderne - Danse 
-      de mise en condition
+    Danse Classique (à partir de 4 ans) - Danse Jazz - Danse Moderne - Danse 
+    de mise en condition
 
-    en: |-
-      # INFO DAY: Sunday 15th of Jan. 2012 from 10am to 4pm
+  en: |-
+    # INFO DAY: Sunday 15th of Jan. 2012 from 10am to 4pm
 
-      <b>The CLASS & JAZZ team</b>
-      @{/instruments/guitar-and-bass/michel/}{Michel}, 
-      @{/instruments/guitar-and-bass/bart/}{Bart}, 
-      @{/instruments/violin/}{Andries}, 
-      @{/instruments/drums-and-percussions/pieter/}{Pieter}, 
-      @{/instruments/cello/}{Maaike}, 
-      @{/instruments/singing/majorie/}{Majorie} en 
-      @{/instruments/piano/}{Raph} will receive you professionally for lessons
-      guitar, electric guitar, folk guitar, bass guitar, double bass, 
-      violin, electric violin, folk violin,
-      drums and percussion,
-      cello,
-      classical and jazz singing,
-      piano and keyboards,
-      improvisation (all instruments), band coaching, music theory, jazz harmony, 
-      and much more ...
+    <b>The CLASS & JAZZ team</b>
+    @{/instruments/guitar-and-bass/michel/}{Michel}, 
+    @{/instruments/guitar-and-bass/bart/}{Bart}, 
+    @{/instruments/violin/}{Andries}, 
+    @{/instruments/drums-and-percussions/pieter/}{Pieter}, 
+    @{/instruments/cello/}{Maaike}, 
+    @{/instruments/singing/majorie/}{Majorie} en 
+    @{/instruments/piano/}{Raph} will receive you professionally for lessons
+    guitar, electric guitar, folk guitar, bass guitar, double bass, 
+    violin, electric violin, folk violin,
+    drums and percussion,
+    cello,
+    classical and jazz singing,
+    piano and keyboards,
+    improvisation (all instruments), band coaching, music theory, jazz harmony, 
+    and much more ...
 
-      Subscriptions are possible at any time of the year. Please contact us for 
-      more information at info@classandjazz.be. 
+    Subscriptions are possible at any time of the year. Please contact us for 
+    more information at info@classandjazz.be. 
 
-      # Dance with @{http://www.balletschoolattitude.be}{Attitude}
- 
-      Classical Ballet (from the age of 4 years old) - Jazz Ballet - Modern 
-      Ballet - Jazz Work-out
+    # Dance with @{http://www.balletschoolattitude.be}{Attitude}
+
+    Classical Ballet (from the age of 4 years old) - Jazz Ballet - Modern 
+    Ballet - Jazz Work-out
