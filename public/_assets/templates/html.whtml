@@ -30,6 +30,18 @@
           #partition { background-image: url('/_assets/partitions/${partition}'); }
         }
       </style>
+      <footer id="copyright">
+        <div class="left">
+          &copy; ${contact.since} &mdash; 
+          ${contact.name}      &mdash;
+          ${contact.phone}     &mdash;
+          <a href="mailto:${contact.mail}">${contact.mail}</a>
+        </div>
+        <div class="right">
+          &copy; <a href="http://www.chefbe.net" target="_blank">chefbe.net</a>
+        </div>
+        <div class="clear"></div>
+      </footer>
     </div>
     ?{environment == :production}{<<+{bricks/analytics.whtml share all}}
   </body>
