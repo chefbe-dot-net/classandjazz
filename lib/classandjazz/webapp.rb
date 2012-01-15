@@ -48,7 +48,7 @@ module ClassAndJazz
 
     get '/sitemap.xml' do
       content_type "application/xml"
-      tpl = PUBLIC/"sitemap.whtml"
+      tpl = PUBLIC/"_assets/templates/sitemap.whtml"
       ctx = {:files => PUBLIC.glob("**/index.yml").map{|f|
         def f.to_url
           parent.to_s[(PUBLIC.to_s.length+1)..-1]
