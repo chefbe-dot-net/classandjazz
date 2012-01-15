@@ -2,12 +2,12 @@
   <ul>
     *{menu[lang] as entry}{
       <li ?{entry["menu"]}{class="dir"}>
-        <a href="@{${entry.url}}">${entry.label}</a>
+        <a href="@{${entry.url}}" ?{url == entry.url}{class="current"}>${entry.label}</a>
         ?{entry["menu"]}{
           <ul>
           *{entry["menu"] as entry}{
             <li>
-              <a href="@{${entry.url}}">${entry.label}</a>
+              <a ?{url == entry.url}{class="current"} href="@{${entry.url}}">${entry.label}</a>
             </li>
           }
           </ul>
