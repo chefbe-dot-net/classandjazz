@@ -1,9 +1,18 @@
 @import "globals.less";
 
+.container{
+  width: @width;
+  height: @height;
+  margin: auto; }
+
+#langs {
+  text-align: right; 
+  a { font-weight: normal; }
+  a.current { font-weight: bold; }
+  padding: 5px 10px;
+}
+
 #main {
-  width: @width -  2*@border-width - 2*@main-padding;
-  height: @height - 2*@border-width - 2*@main-padding;
-  margin: auto;
   padding: 5px;
   border: 2px solid black;
   overflow: hidden;
@@ -35,7 +44,7 @@ header {
 
 #text {
   width: 600px;
-  height: @article-height - 10;
+  height: @article-height - 12px;
   line-height: 18px;
   color: black;
   padding: 5px 10px;

@@ -13,15 +13,24 @@
     <script src="/_assets/js/websync-tools-0.0.1.js"></script>
  </head>
   <body>
-  <div id="main">
-    <<+{bricks/header.whtml share all}
-    <<+{${template}.whtml   share all}
-  </div>
-  <style>
-    ?{knows?(:partition)}{
-      #partition { background-image: url('/_assets/partitions/${partition}'); }
-    }
-  </style>
+    <div class="container">
+      <nav id="langs">
+        <a ?{lang == 'nl'}{class="current"} href="${url}?lang=nl">nederlands</a>
+        <span>&mdash;</span>
+        <a ?{lang == 'fr'}{class="current"} href="${url}?lang=fr">français</a>
+        <span>&mdash;</span>
+        <a ?{lang == 'en'}{class="current"} href="${url}?lang=en">english</a>
+      </nav>
+      <div id="main">
+        <<+{bricks/header.whtml share all}
+        <<+{${template}.whtml   share all}
+      </div>
+      <style>
+        ?{knows?(:partition)}{
+          #partition { background-image: url('/_assets/partitions/${partition}'); }
+        }
+      </style>
+    </div>
     ?{environment == :production}{<<+{bricks/analytics.whtml share all}}
   </body>
 </html>
