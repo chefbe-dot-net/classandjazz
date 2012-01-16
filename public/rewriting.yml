@@ -12,6 +12,9 @@ redirect:
   - from: /contact/
     to: /
     status: 301
+  - from: /contact
+    to: /
+    status: 301
 v1:
   - old: /contact.html
     new: /contact/
