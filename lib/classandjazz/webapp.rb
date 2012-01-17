@@ -55,7 +55,7 @@ module ClassAndJazz
         end
         def f.to_priority
           size = (to_url || "").split('/').size
-          (1.0 - 0.2*size).round(1)
+          (1.0 - 0.2*size)
         end
         f
       }.sort{|f1,f2| f1.to_url.to_s <=> f2.to_url.to_s}}
