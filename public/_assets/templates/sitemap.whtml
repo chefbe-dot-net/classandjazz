@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  *{['fr', 'nl', 'en'] as lang}{
-    *{files as f}{
+  *{files as f}{
+    *{['fr', 'nl', 'en'] as lang}{
     <url>
       <loc>http://www.classandjazz.be/@{!{f.to_url}}</loc>
       <lastmod>${f.mtime.strftime("%Y-%m-%d")}</lastmod>
       <changefreq>monthly</changefreq>
+      <priority>${f.to_priority}</priority>
     </url>
     }
   }
