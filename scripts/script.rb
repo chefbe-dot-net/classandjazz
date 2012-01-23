@@ -41,7 +41,7 @@ class Script
   
   def log(message, severity)
     puts message
-    logger.send(severity, message)
+    logger.send(severity, message.strip)
     yield if block_given?
   end
   def debug(message, &block); log(message, :debug, &block); end
