@@ -19,7 +19,7 @@ WLang::dialect('whtml', '.whtml') do
     href = "#{href}?lang=#{parser.evaluate('lang')}" unless href =~ /^[a-z]+:/
     if parser.has_block?(offset)
       label, offset = parser.parse_block(offset)
-      ["<a href='#{href}'>#{label}</a>", offset]
+      [ClassAndJazz.makelink(href, label), offset]
     else 
       [href, offset]
     end
@@ -46,7 +46,7 @@ WLang::dialect("active-markdown") do
     href = "#{href}?lang=#{parser.evaluate('lang')}" unless href =~ /^[a-z]+:/
     if parser.has_block?(offset)
       label, offset = parser.parse_block(offset)
-      ["<a href='#{href}'>#{label}</a>", offset]
+      [ClassAndJazz.makelink(href, label), offset]
     else 
       [href, offset]
     end
