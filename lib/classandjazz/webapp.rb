@@ -13,7 +13,7 @@ module ClassAndJazz
 
     # A few configuration options for logging and errors
     set :logging, true
-    set :raise_errors, true
+    set :raise_errors, false
     set :show_exceptions, false
 
     # Domain specific configuration
@@ -83,7 +83,9 @@ module ClassAndJazz
 
     # error handling
     error do
-      'Sorry, an error occurred'
+      content_type "text/plain"
+      msg = env['sinatra.error'].message rescue "Unknown error"
+      "Sorry, an error occurred\n\t#{msg}"
     end
 
     ############################################################## Helpers
@@ -101,10 +103,10 @@ module ClassAndJazz
       def load_ctx(lang, url, ctx = settings.default_context)
         until (url == PUBLIC.parent/"index.yml")
           if url.exist?
-            ctx = ctx_merge(YAML::load(url.read), ctx)
+            ctx = ctx_merge(load_yaml(url), ctx)
             Array(ctx['includes']).each do |inc|
               path = url.parent/inc
-              ctx = ctx_merge(YAML::load(path.read), ctx)
+              ctx = ctx_merge(load_yaml(path), ctx)
             end
           end
           url = url.dir.parent/"index.yml"
@@ -131,6 +133,12 @@ module ClassAndJazz
         end
       end
 
+      def load_yaml(path)
+        YAML::load(path.read)
+      rescue Exception => ex
+        raise "YAML file #{path} corrupted\n\t#{ex.message}"
+      end
+      
     end
     include Tools
     
