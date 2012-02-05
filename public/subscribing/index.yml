@@ -1,0 +1,188 @@
+template: page
+partition: school.gif
+title:
+  nl: Inschrijven
+  fr: S'Inscrire
+  en: Subscribing
+text:
+  nl: |-
+    Inschrijven kan op elk moment in het jaar. <br>
+    Neem vrijblijvend contact op voor info: @{mailto:info@classandjazz.be}{klik hier}. 
+
+    De eerste kennismakingsles van een half uur is GRATIS. 
+    Deze laat ons toe om samen met u te bekijken welk project het beste bij u past.
+
+    ## Individuele Lessen
+
+    Bij CLASS & JAZZ stelt u uw lessenpakket zelf samen. U koopt een abonnement naar keuze voor een bepaald aantal uren, 
+    uren die u zelf invult met de lessen die u wenst te volgen. Ons lessenaanbod vindt u @{/instruments/}{hier}.
+
+    Om uw abonnementskeuze te bepalen dient u rekening te houden met <br>
+    <u>De lesduur:</u> Men heeft keuze tussen lessen van een half uur, of lessen van één uur.<br>
+    <u>De lesfrequentie:</u> Men heeft keuze tussen wekelijkse lessen, of om de twee weken.<br>
+    <i>(Een andere lesduur of lesfrequentie is mogelijk bespreekbaar.)</i>
+
+    _De wekelijkse halfuurles_ is de beste optie voor beginners. <br>
+    _De uurles om de 2 weken_ is de minimum optie voor gevorderde leerlingen.<br>
+    _De wekelijks uurles_ is de beste optie voor gevorderden of voor leerlingen die verschillende cursussen combineren.<br>
+    _De halfuurles om de 2 weken_ is een optie voor zeer zelfstandige leerlingen die opvolging van hun thuiswerk wensen.
+
+    * FULL-37 abonnement: 30 x 30 minuten + 7 gratis lessen 
+    * FULL-20 abonnement: 15 x 60 minuten + 5 gratis lessen
+    * LIGHT-18 abonnement: 15 x 30 minuten + 3 gratis lessen 
+    * LIGHT-10 abonnement: 8 x 60 minuten + 2 gratis lessen
+    * Proefsessie-10: 10 x 30 minuten 
+    * Proefsessie-5: 5 x 60 minuten
+
+    Voor tarieven, gelieve contact op te nemen: @{mailto:info@classandjazz.be}{klik hier}.
+
+    Een lessenkalender wordt vooraf in samenspraak vastgelegd. 
+
+    ## Groepslessen
+
+    Groepslessen zijn mogelijk voor studenten die samen, in groep van minimum drie personen, inschrijven. 
+    Er is geen mogelijkheid om bij bestaande groepen aan te sluiten, en zelf stellen we geen groepen samen. 
+
+    <b>Samenspel:</b> Band Coaching, Klassiek Samenspel, Jazz/Rock/Pop Samenspel (Combo), Ensemble, Improvisatie …
+
+    <b>Theoretische lessen voor groepen:</b> Compositie, Arrangement, Jazz-Harmonie, Klassieke Harmonie, Gehoortraining, Klassieke muziekgeschiedenis, 
+    Jazz/Rock/Pop muziekgeschiedenis, Pre-Notenleer (van 5 tot 8 jaar), Notenleer (vanaf 8 jaar), Notenleer volwassenen, Muziekinformatica …
+
+    Onze groepslessen zijn niet bedoeld om samen een instrument aan te leren. Onze ervaring wijst uit dat hiervoor een individuele aanpak veruit veel efficiënter is. 
+
+    Om uw groepsabonnement te bepalen dient u rekening te houden met<br>
+    <u>De lesduur</u> Men heeft keuze tussen lessen van een uur, of lessen van twee uren.<br>
+    <u>De lesfrequentie</u> Men heeft keuze tussen wekelijkse lessen, of om de twee weken.<br>
+    <i>(Een andere lesduur of lesfrequentie is mogelijk bespreekbaar.)</i>
+
+    * FULL-37 abonnement: 30 x 1 uur + 7 gratis lessen 
+    * FULL-20 abonnement: 15 x 2 uren + 5 gratis lessen
+    * LIGHT-18 abonnement: 15 x 1 uur + 3 gratis lessen 
+    * LIGHT-10 abonnement: 8 x 2 uren + 2 gratis lessen. 
+    * Proefsessie-10: 10 x 1 uur
+    * Proefsessie-5: 5 x 2 uren
+
+    Voor tarieven, gelieve contact op te nemen: @{mailto:info@classandjazz.be}{klik hier}.
+
+    Een lessenkalender wordt vooraf in samenspraak vastgelegd. <br>
+    De groepsles vereist een regelmatige aanwezigheid om het ritme van de groepsvooruitgang te kunnen volgen.
+    
+  fr: |-
+    Les inscriptions sont possibles à tout moment de l’année. <br>Contactez-nous pour plus d’informations : @{mailto:info@classandjazz.be}{cliquez ici}. 
+
+    La première leçon d’une demi-heure est GRATUITE. Ce premier contact nous permet de définir, avec vous, le projet qui vous convient le mieux.
+
+    ## Cours Individuels
+
+    Chez CLASS & JAZZ l’élève décide lui-même de son programme de cours. Vous achetez un abonnement donnant lieu à un nombre prédéfini d’heures de cours, heures que vous pouvez remplir comme bon vous semble. Pour en savoir plus sur les cours que nous offrons, @{/instruments/}{ cliquez ici }.
+
+    Afin de déterminer votre choix d’abonnement, il vous faut tenir compte de<br>
+    <u>La durée du cours</u> Vous avez la possibilité de suivre des cours d’une demi-heure, ou d’une heure.<br>
+    <u>La fréquence des cours</u> Vous avez la possibilité de suivre des cours hebdomadaires, ou tous les quinze jours. <br>
+    <i>(Une autre durée ou fréquence de cours peut être convenue.)</i>
+
+    _La demi-heure hebdomadaire_  est la meilleure option pour les élèves débutants. <br>
+    _L’heure tous les 15 jours_  est l’option minimum pour les élèves avancés. <br>
+    _L’heure hebdomadaire_ est la meilleure option pour élèves avancés ou élèves qui cumulent plusieurs formations. <br>
+    _La demi-heure tous les 15 jours_  est une option pour élèves très indépendants qui veulent un suivi de leur travail à domicile. 
+
+    * Abonnement FULL-37: 30 x 30 minutes + 7 leçons gratuites 
+    * Abonnement FULL-20: 15 x 60 minutes + 5 leçons gratuites
+    * Abonnement LIGHT-18: 15 x 30 minutes + 3 leçons gratuites 
+    * Abonnement LIGHT-10: 8 x 60 minutes + 2 leçons gratuites. 
+    * Session d’Essai-10: 10 x 30 minutes 
+    * Session d’Essai-5: 5 x 60 minutes
+
+    Pour obtenir nos tarifs, veuillez nous contacter s.v.p.: @{mailto:info@classandjazz.be}{cliquez ici}.
+
+    Un calendrier de cours sera convenu à l’avance de commun accord. 
+
+    ## Cours Groupés
+
+    Les cours groupés sont possibles pour des élèves qui s’inscrivent ensemble, en groupe de trois personnes minimum. 
+    Il n’est pas possible de se joindre à des groupes existants, et nous ne constituons pas des groupes nous-mêmes. 
+
+    <b>Cours d’ensemble:</b> Band Coaching, Ensemble Classique, Ensemble Jazz/Rock/Pop (combo), Improvisation …
+
+    <b>Cours théoriques pour groupe:</b> Composition, Arrangement, Harmonie Jazz, Harmonie Classique, Entraînement de l’oreille musicale, 
+    Histoire de la Musique Classique, Histoire du Jazz/Rock/Pop, Pré-solfège (de 5 à 8 ans), Solfège (à partir de 8 ans), Solfège pour adultes, Informatique Musicale …
+
+    Nos cours groupés ne sont pas prévus pour apprendre ensemble à jouer d’un instrument. L’expérience démontre que l’approche individuelle est bien plus efficace. 
+
+    Afin de déterminer votre choix d’abonnement de groupe, il vous faut tenir compte de<br>
+    <u>La durée du cours</u> Vous avez la possibilité de suivre des cours d’une heure, ou de deux heures.<br>
+    <u>fréquence des cours</u> Vous avez la possibilité de suivre des cours hebdomadaires, ou tous les quinze jours. <br>
+    <i>(Une autre durée ou fréquence de cours peut être convenue.)</i>
+
+    * Abonnement FULL-37: 30 x 1 heure + 7 leçons gratuites 
+    * Abonnement FULL-20: 15 x 2 heures + 5 leçons gratuites
+    * Abonnement LIGHT-18: 15 x 1 heure + 3 leçons gratuites 
+    * Abonnement LIGHT-10: 8 x 2 heures + 2 leçons gratuites
+    * Session d’Essai-10: 10 x 1 heure
+    * Session d’Essai-5: 5 x 2 heures
+
+    Pour obtenir nos tarifs, veuillez nous contacter s.v.p.: @{mailto:info@classandjazz.be}{cliquez ici}.
+
+    Un calendrier de cours sera convenu à l’avance de commun accord. Il est indispensable d’être présent de façon régulière afin de pouvoir suivre le progrès du groupe.
+    
+  en: |-
+    Subscriptions are possible at any time of the year. <br>Please contact us for more information: 
+    @{mailto:info@classandjazz.be}{clic here}. 
+
+    The first lesson of half an hour is FREE OF CHARGE. This first contact allows us to define, with you, the project that is best fit for you.
+
+    ## Individual Lessons
+
+    At CLASS & JAZZ the student chooses its own curriculum. You buy a subscription for a pre-defined number of hours, hours that you can fill 
+    at your own convenience with the topics that you are interested in. To find out about the courses we offer, please @{/instruments/}{click here}.
+
+    To make the best subscription choice, you have to take the following into account:<br>
+    <u>The duration of the lessons</u> One can choose for half an hour lessons or for full hour lessons.<br>
+    <u>The frequency of the lessons</u> One can choose for weekly lessons or for lessons every other week.<br>
+    <i>(Another lesson duration or frequency can be agreed.) </i>
+
+    _The weekly half an hour lesson_ is the best option for beginners. <br>
+    _The full hour lesson every other week_ is the minimum option for advanced students.<br>
+    _The weekly full hour lesson_ is the best option for advanced students or for students who combine various courses.<br>
+    _The half an hour lesson every other week_ is an option for very independent students who’d like some follow-up of their home work.
+
+    * FULL-37 subscription: 30 x 30 minutes + 7 free lessons 
+    * FULL-20 subscription: 15 x 60 minutes + 5 free lessons
+    * LIGHT-18 subscription: 15 x 30 minutes + 3 free lessons
+    * LIGHT-10 subscription: 8 x 60 minutes + 2 free lessons. 
+    * Try-Out Session-10: 10 x 30 minutes 
+    * Try-Out Session-5: 5 x 60 minutes
+
+    For prices, please contact us: @{mailto:info@classandjazz.be}{click here}.
+
+    A course calendar is agreed in advance by mutual agreement.
+
+    ## Group Lessons
+
+    Group lessons are possible for students that subscribe together in group of three minimum. 
+    It’s not possible to join pre-existing groups, and we don’t put groups together ourselves. 
+
+    <b>Ensemble Lessons:</b> Band Coaching, Classical Ensemble, Jazz/Rock/Pop Ensemble (combo, Improvisation …
+
+    <b>Theory Lessons for Groups:</b> Composition, Arrangement, Jazz Harmony, Classical Harmony, Ear Training, Classical Music History, 
+    Jazz/Rock/Pop History, Music Theory preparation (5 to 8 years old), Music Theory (from 8 years old onwards), Music Theory for adults, Music and Computers …
+
+    Group lessons are not intended to learn how to play an instrument together. This requires an individual approach.
+
+    To make the best group subscription choice, you have to take the following into account:<br>
+    <u>The duration of the lessons</u> One can choose for one hour lessons or for two hours lessons.<br>
+    <u>The frequency of the lessons</u> One can choose for weekly lessons or for lessons every other week.<br>
+    <i>(Another lesson duration or frequency can be agreed.) </i>
+
+    * FULL-37 subscription: 30 x 1 hour + 7 free lessons
+    * FULL-20 subscription: 15 x 2 hours + 5 free lessons
+    * LIGHT-18 subscription: 15 x 1 hour + 3 free lessons
+    * LIGHT-10 subscription: 8 x 2 hours + 2 free lessons. 
+    * Try-Out Session-10: 10 x 1 hour
+    * Try-Out Session-5: 5 x 2 hours
+
+    For prices, please contact us: @{mailto:info@classandjazz.be}{click here}.
+
+    A course calendar is agreed in advance by mutual agreement. <br>
+    It is essential to attend these lessons on a regular basis if one wants to keep up with the progress of the group.
+

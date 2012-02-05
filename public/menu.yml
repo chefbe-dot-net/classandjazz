@@ -2,7 +2,7 @@ menu:
   nl: |-
     # @{/}{Class & Jazz}
 
-    * @{/interested/}{Interesse ?}
+    * @{/subscribing/}{Inschrijven}
       * @{/individual/}{Individuele lessen}
       * @{/group/}{Groepslessen}
     * @{/news/}{News !}
@@ -30,7 +30,7 @@ menu:
   fr: |-
     # @{/}{Class & Jazz}
 
-    * @{/interested/}{Interessé ?}
+    * @{/subscribing/}{S'Inscrire}
       * @{/individual/}{Cours individuels}
       * @{/group/}{Cours groupés}
     * @{/news/}{News !}
@@ -58,7 +58,7 @@ menu:
   en: |-
     # @{/}{Class & Jazz}
 
-    * @{/interested/}{Interested ?}
+    * @{/subscribing/}{Subscribing}
       * @{/individual/}{Individual lessons}
       * @{/group/}{Group lessons}
     * @{/news/}{News !}
