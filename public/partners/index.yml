@@ -11,34 +11,37 @@ partners:
       fr: |-
         * Danse Classique (à partir de 4 ans)
         * Ballet Jazz
+        * Danse Moderne
         * Danse de mise en condition 
 
-        [http://www.balletschoolattitude.be/](http://www.balletschoolattitude.be/)
+        @{http://www.balletschoolattitude.be/}{www.balletschoolattitude.be}
       en: |-
         * Classical Ballet (from the age of 4 years old)
         * Jazz Ballet
+        * Modern Ballet
         * Jazz Work-out 
 
-        [http://www.balletschoolattitude.be/](http://www.balletschoolattitude.be/)
+        @{http://www.balletschoolattitude.be/}{www.balletschoolattitude.be}
       nl: |-
         * Klassiek Ballet (vanaf 4 jaar)
         * Jazz Ballet
+        * Modern Ballet
         * Conditiejazz
 
-        [http://www.balletschoolattitude.be/](http://www.balletschoolattitude.be/)
+        @{http://www.balletschoolattitude.be/}{www.balletschoolattitude.be}
   - title: Someone Els
     picture: someoneels.gif
     website: http://www.someoneels.be
     text:
       fr: |-
         <p>Vocal Harmony – Jazz and more</p>
-        [www.someoneels.be](http://www.someoneels.be)
+        @{http://www.someoneels.be}{www.someoneels.be}
       en: |-
         <p>Vocal Harmony – Jazz and more</p>
-        [www.someoneels.be](http://www.someoneels.be)
+        @{http://www.someoneels.be}{www.someoneels.be}
       nl: |-
         <p>Vocal Harmony – Jazz and more</p>
-        [www.someoneels.be](http://www.someoneels.be)
+        @{http://www.someoneels.be}{www.someoneels.be}
   - title: Brouwerij HAACHT
     picture: primus.gif
     website: http://www.haacht.com
@@ -46,13 +49,16 @@ partners:
       fr: |-
         <p>Brasserie Belge, bien de chez nous!</p>
         <p>Primus – Tongerlo – Keizer Karel − Mystic</p>
-        [www.haacht.com](http://www.haacht.com) [www.primus.be](http://www.primus.be)
+        @{http://www.haacht.com}{www.haacht.com}<br>
+        @{http://www.primus.be}{www.primus.be}
       en: |-
         <p>Real Belgian brewery!</p>
         <p>Primus – Tongerlo – Keizer Karel − Mystic</p>
-        [www.haacht.com](http://www.haacht.com) [www.primus.be](http://www.primus.be)
+        @{http://www.haacht.com}{www.haacht.com}<br>
+        @{http://www.primus.be}{www.primus.be}
       nl: |-
         <p>Belgische brouwerij écht van bij ons!</p>
         <p>Primus – Tongerlo – Keizer Karel − Mystic</p>
-        [www.haacht.com](http://www.haacht.com) [www.primus.be](http://www.primus.be)
+        @{http://www.haacht.com}{www.haacht.com}<br>
+        @{http://www.primus.be}{www.primus.be}
 
