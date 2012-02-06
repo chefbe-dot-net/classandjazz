@@ -2,19 +2,16 @@ menu:
   nl: |-
     # @{/}{Class & Jazz}
 
-    * @{/subscribing/}{Inschrijven}
-      * @{/individual/}{Individuele lessen}
-      * @{/group/}{Groepslessen}
-    * @{/news/}{News !}
     * @{/philosophy/}{Filosofie}
     * @{/pedagogy/}{Pedagogie}
+    * @{/subscribing/}{Inschrijven}
     * @{/live-music/}{Live Music & More}
-      * @{/classifieds/}{Zoekertjes}
     * @{/partners/}{Partners}
+    * @{/news/}{News !}
 
     # @{/instruments/}{Instrumenten}
 
-    * @{/instruments/piano/}{Piano & Keyboards}
+    * @{/instruments/piano/}{Piano}
     * @{/instruments/guitar-and-bass/}{Gitaar}
     * @{/instruments/violin/}{Viool}
     * @{/instruments/drums-and-percussions/pieter/}{Drums & Percussie}
@@ -23,26 +20,23 @@ menu:
     * @{/instruments/other-instruments/}{Contrabas}
     * @{/instruments/other-instruments/}{Houtblazers en Koperblazers}
     * @{/instruments/other-instruments/}{Andere Instrumenten}
-    * @{/instruments/other-courses/}{Bijkomende cursussen}
+    * @{/instruments/other-courses/}{Andere Cursussen}
 
     # @{https://sites.google.com/site/classandjazzwebschool/home}{Webschool}
 
   fr: |-
     # @{/}{Class & Jazz}
 
-    * @{/subscribing/}{S'Inscrire}
-      * @{/individual/}{Cours individuels}
-      * @{/group/}{Cours groupés}
-    * @{/news/}{News !}
     * @{/philosophy/}{Philosophie}
     * @{/pedagogy/}{Pédagogie}
+    * @{/subscribing/}{S'Inscrire}
     * @{/live-music/}{Live Music & More}
-      * @{/classifieds/}{Petites Annonces}
     * @{/partners/}{Partenaires}
+    * @{/news/}{News !}
 
     # @{/instruments/}{Instruments}
 
-    * @{/instruments/piano/}{Piano & Claviers}
+    * @{/instruments/piano/}{Piano}
     * @{/instruments/guitar-and-bass/}{Guitare}
     * @{/instruments/violin/}{Violon}
     * @{/instruments/drums-and-percussions/pieter/}{Batterie & Percussions}
@@ -58,19 +52,16 @@ menu:
   en: |-
     # @{/}{Class & Jazz}
 
-    * @{/subscribing/}{Subscribing}
-      * @{/individual/}{Individual lessons}
-      * @{/group/}{Group lessons}
-    * @{/news/}{News !}
     * @{/philosophy/}{Philosophy}
     * @{/pedagogy/}{Pedagogy}
+    * @{/subscribing/}{Subscribing}
     * @{/live-music/}{Live Music & More}
-      * @{/classifieds/}{Classifieds}
     * @{/partners/}{Partners}
+    * @{/news/}{News !}
 
     # @{/instruments/}{Instruments}
 
-    * @{/instruments/piano/}{Piano & Keyboards}
+    * @{/instruments/piano/}{Piano}
     * @{/instruments/guitar-and-bass/}{Guitar}
     * @{/instruments/violin/}{Violin}
     * @{/instruments/drums-and-percussions/pieter/}{Drums & Percussion}
