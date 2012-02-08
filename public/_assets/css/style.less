@@ -6,7 +6,7 @@
   margin: auto; }
 
 #langs {
-  font-size: 13px;
+  font-size: @fontsize - 1px;
   text-align: right; 
   a         { font-weight: normal; }
   a.current { font-weight: bold; }
@@ -14,7 +14,7 @@
 
 #copyright {
   padding: 5px 10px;
-  font-size: 13px;
+  font-size: @fontsize - 1px;
   color: @blue; 
   .left  { float: left  }
   .right { float: right }
@@ -68,13 +68,13 @@ header {
     text-align: justify; }
   h1 {
     line-height: 25px;
-    font-size: 26px;
+    font-size: 24px;
     margin-top: 5px;
     font-variant: small-caps; }
   h2 {
     text-align: right; }
   h2, h3 {
-    font-size: 20px;
+    font-size: 18px;
     font-variant: small-caps;
     border-bottom: 1px dashed black; }
   h1 a, h2 a, h3 a {
