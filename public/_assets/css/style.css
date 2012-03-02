@@ -15,12 +15,12 @@ p{margin:0px;padding:0px;}
 header{padding:5px 10px;height:140px;}header a{display:block;float:left;padding:5px;}
 header #photo{display:block;position:absolute;right:5px;top:5px;border:2px solid white;height:136px;background-repeat:no-repeat;}
 #partition{position:relative;height:451px;background-position:top left;background-repeat:no-repeat;}
-#text{width:600px;height:439px;line-height:18px;color:black;padding:5px 10px;overflow:auto;background:white;border:1px solid black;opacity:0.9;}#text p,#text li{margin:0px;padding:5px;text-align:justify;}
+#text{width:665px;height:439px;line-height:18px;color:black;padding:5px 10px;overflow:auto;background:white;border:1px solid black;opacity:0.9;}#text p,#text li{margin:0px;padding:5px;text-align:justify;}
 #text h1{line-height:25px;font-size:24px;margin-top:5px;font-variant:small-caps;}
 #text h2{text-align:right;}
 #text h2,#text h3{font-size:18px;font-variant:small-caps;border-bottom:1px dashed black;}
 #text h1 a,#text h2 a,#text h3 a{text-decoration:none;font-weight:bold;}
-nav#menu{width:290px;height:439px;overflow:auto;position:absolute;right:0px;background-color:white;border:1px solid black;padding:5px 10px;color:#9a003d;opacity:0.9;}nav#menu h1{font-size:16px;margin:0px;padding:7px 0px 3px 5px;}
+nav#menu{width:225px;height:439px;overflow:auto;position:absolute;right:0px;background-color:white;border:1px solid black;padding:5px 10px;color:#9a003d;opacity:0.9;}nav#menu h1{font-size:16px;margin:0px;padding:7px 0px 3px 5px;}
 nav#menu ul{list-style:square;margin:0px;padding:0px;padding-left:35px;}
 nav#menu ul ul{padding-left:25px;}
 nav#menu ul li{padding-bottom:1px;}
