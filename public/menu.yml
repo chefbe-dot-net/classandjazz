@@ -14,7 +14,7 @@ menu:
     * @{/instruments/piano/}{Piano}
     * @{/instruments/guitar-and-bass/}{Gitaar}
     * @{/instruments/violin/}{Viool}
-    * @{/instruments/drums-and-percussions/pieter/}{Drums & Percussie}
+    * @{/instruments/drums-and-percussions/}{Drums & Percussie}
     * @{/instruments/cello/}{Cello}
     * @{/instruments/singing/}{Zang}
     * @{/instruments/other-instruments/}{Andere Instrumenten}
@@ -47,7 +47,7 @@ menu:
     * @{/instruments/piano/}{Piano}
     * @{/instruments/guitar-and-bass/}{Guitare}
     * @{/instruments/violin/}{Violon}
-    * @{/instruments/drums-and-percussions/pieter/}{Batterie & Percussions}
+    * @{/instruments/drums-and-percussions/}{Batterie & Percussions}
     * @{/instruments/cello/}{Violoncelle}
     * @{/instruments/singing/}{Chant}
     * @{/instruments/other-instruments/}{Autres Instruments}
@@ -80,7 +80,7 @@ menu:
     * @{/instruments/piano/}{Piano}
     * @{/instruments/guitar-and-bass/}{Guitar}
     * @{/instruments/violin/}{Violin}
-    * @{/instruments/drums-and-percussions/pieter/}{Drums & Percussion}
+    * @{/instruments/drums-and-percussions/}{Drums & Percussion}
     * @{/instruments/cello/}{Cello}
     * @{/instruments/singing/}{Singing}
     * @{/instruments/other-instruments/}{Other Instruments}

@@ -27,7 +27,7 @@ text:
       @{/instruments/violin/}{klassieke viool, folk viool & elektrische viool} - 
       @{/instruments/cello/}{cello} -
       @{/instruments/singing/}{zang} - 
-      @{/instruments/drums-and-percussions/pieter/}{drums & percussie} - 
+      @{/instruments/drums-and-percussions/}{drums & percussie} - 
       @{/instruments/other-instruments/}{houtblazers & koperblazers} -
       @{/instruments/other-instruments/}{andere instrumenten}
 
@@ -79,7 +79,7 @@ text:
       @{/instruments/violin/}{violon classique, violon folk & violon électrique} - 
       @{/instruments/cello/}{violoncelle} - 
       @{/instruments/singing/}{chant} - 
-      @{/instruments/drums-and-percussions/pieter/}{batterie & percussions} - 
+      @{/instruments/drums-and-percussions/}{batterie & percussions} - 
       @{/instruments/other-instruments/}{instruments à vent bois et cuivres} -
       @{/instruments/other-instruments/}{autres instruments}
         
@@ -131,7 +131,7 @@ text:
       @{/instruments/violin/}{classical violin, folk violin & electric violin} - 
       @{/instruments/cello/}{cello} -
       @{/instruments/singing/}{singing} - 
-      @{/instruments/drums-and-percussions/pieter/}{drums & percussion} -
+      @{/instruments/drums-and-percussions/}{drums & percussion} -
       @{/instruments/other-instruments/}{woodwind and brass} -
       @{/instruments/other-instruments/}{other instruments} 
     
