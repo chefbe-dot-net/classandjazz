@@ -1,0 +1,79 @@
+template:  page
+partition: guide_to_the_orchestra.gif
+title:
+  nl: Leraars
+  fr: Professeurs
+  en: Teachers
+text:
+  nl: |-
+    # Onze Leraars
+
+    ### @{/teachers/raph/}{Raphaël Van Goubergen}
+    piano, jazz zang, improvisatie (alle instrumenten), basgitaar & gitaar, muziektheorie, jazz-harmonie, compositie & arrangement, gehoortraining, notenleer, band-coaching, klassiek samenspel, jazz-rock-pop samenspel
+    
+    ### @{/teachers/michel/}{Michel Kuijken}
+    klassieke gitaar, elektrische gitaar, folk gitaar & basgitaar, improvisatie (alle instrumenten), jazz zang, muziekinformatica, muziekproductie, muziektheorie, jazz-harmonie, compositie & arrangement, gehoortraining, notenleer, band-coaching, klassiek samenspel, jazz-rock-pop samenspel
+    
+    ### @{/teachers/andries/}{Andries Baele}
+    klassieke viool, folk viool, jazz viool, elektrische viool, improvisatie (alle instrumenten), piano, muziektheorie, jazz-harmonie, klassieke harmonie, compositie & arrangement, gehoortraining, notenleer, band-coaching, klassiek samenspel, jazz-rock-pop samenspel
+    
+    ### @{/teachers/pieter/}{Pieter Dedoncker}
+    drums & percussie, notenleer, band-coaching, jazz-rock-pop samenspel
+    
+    ### @{/teachers/maaike/}{Maaike Organe}
+    cello, klassieke zang, muziektheorie, gehoortraining, notenleer, klassiek samenspel
+    
+    ### @{/teachers/majorie/}{Majorie Vanhaverbeke}
+    klassieke zang, piano, muziektheorie, gehoortraining, notenleer, klassiek samenspel
+    
+    ### @{/teachers/bart/}{Bart Buls}
+    klassieke gitaar, elektrische gitaar, folk gitaar & basgitaar, jazz zang, improvisatie, compositie & arrangement, band-coaching, jazz-rock-pop samenspel.
+   
+  fr: |-
+    # Nos Professeurs
+
+    ### @{/teachers/raph/}{Raphaël Van Goubergen}
+    piano, chant jazz, improvisation (tous les instruments), guitare basse & guitare, théorie de la musique, harmonie jazz, composition & arrangement, entrainement de l’oreille, solfège, band-coaching, jeu d’ensemble classique, jeu d’ensemble jazz-rock-pop    
+    
+    ### @{/teachers/michel/}{Michel Kuijken}
+    guitare classique, guitare électrique, guitare folk, guitare basse, improvisation (tous les instruments), chant jazz, informatique musicale, production musicale, théorie de la musique, harmonie jazz, composition & arrangement, entrainement de l’oreille, solfège, band-coaching, jeu d’ensemble classique, jeu d’ensemble jazz-rock-pop
+    
+    ### @{/teachers/andries/}{Andries Baele}
+    violon classique, violon folk, violon jazz, violon électrique, improvisation (tous les instruments), piano, théorie de la musique, harmonie jazz, harmonie classique, composition & arrangement, entrainement de l’oreille, solfège, band-coaching, jeu d’ensemble classique, jeu d’ensemble jazz-rock-pop
+    
+    ### @{/teachers/pieter/}{Pieter Dedoncker}
+    batterie & percussions, solfège, band-coaching, jeu d’ensemble jazz-rock-pop
+    
+    ### @{/teachers/maaike/}{Maaike Organe}
+    violoncelle, chant classique, théorie de la musique, entrainement de l’oreille, solfège, jeu d’ensemble classique 
+    
+    ### @{/teachers/majorie/}{Majorie Vanhaverbeke}
+    chant classique, piano, théorie de la musique, entrainement de l’oreille, solfège, jeu d’ensemble classique
+    
+    ### @{/teachers/bart/}{Bart Buls}
+    guitare classique, guitare électrique, guitare folk, guitare basse, improvisation, chant jazz, composition & arrangement, band-coaching, jeu d’ensemble jazz-rock-pop
+    
+  en: |-
+    # Our Teachers
+
+    ### @{/teachers/raph/}{Raphaël Van Goubergen}
+    piano, jazz singing, improvisation (all instruments), bass guitar & guitar, music theory, jazz harmony, composition & arrangement, ear training, solfege, band-coaching, classical ensemble, jazz-rock-pop ensemble
+    
+    ### @{/teachers/michel/}{Michel Kuijken}
+    classical guitar, electric guitar, folk guitar, bass guitar, improvisation (all instruments), jazz singing, music & computers, music production, music theory, jazz harmony, composition & arrangement, ear training, solfege, band-coaching, classical ensemble, jazz-rock-pop ensemble
+    
+    ### @{/teachers/andries/}{Andries Baele}
+    classical violin, folk violin, jazz violin, electric violin, improvisation (all instruments), piano, music theory, jazz harmony, classical harmony, composition & arrangement, ear training, solfege, band-coaching, classical ensemble, jazz-rock-pop ensemble
+    
+    ### @{/teachers/pieter/}{Pieter Dedoncker}
+    drums & percussions, solfege, band-coaching, jazz-rock-pop ensemble
+    
+    ### @{/teachers/maaike/}{Maaike Organe}
+    cello, classical singing, music theory, ear training, solfege, classical ensemble 
+    
+    ### @{/teachers/majorie/}{Majorie Vanhaverbeke}
+    classical singing, piano, music theory, ear training, solfege, classical ensemble
+    
+    ### @{/teachers/bart/}{Bart Buls}
+    classical guitar, electric guitar, folk guitar, bass guitar, improvisation, jazz singing, composition & arrangement, band-coaching, jazz-rock-pop ensemble
+
