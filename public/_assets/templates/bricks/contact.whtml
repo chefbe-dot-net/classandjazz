@@ -7,7 +7,7 @@
     <li itemprop="url"><a href="http://${contact.website}">${contact.website}</a></li>
   </ul>
 
-  <h1>?{lang=='en'}{Address}{Adresse}</h1>
+  <h1>${i18n.address[lang]}</h1>
   <ul itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address">
     <li>${contact.address.organization}</li>
     <li><a href="${contact.address.googlemap}" target="_blank">

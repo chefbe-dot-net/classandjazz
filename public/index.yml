@@ -30,4 +30,5 @@ google:
 includes:
   - menu.yml
   - flash.yml
-
+i18n:
+  address: {fr: 'Adresse', en: 'Address', nl: 'Adres'}
