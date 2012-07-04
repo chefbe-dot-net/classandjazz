@@ -12,7 +12,7 @@ text:
     
     <b>Leraars:</b><br>
     @{/teachers/michel/}{Michel Kuijken} - contact: 0494 17 55 83 – lluna1@numericable.be<br>
-    @{/teachers/bart/}{Bart Buls} - contact: 0475 66 97 04 – tripleb@skynet.be
+    <b>Arthur Maes</b> - contact: 0472 27 59 34 – arthur_maes@linuxmail.org
     
     De lessen kunnen gegeven worden in het Nederlands, Frans of Engels. <br><br>
     
@@ -48,7 +48,7 @@ text:
     
     <b>Professeurs:</b><br>
     @{/teachers/michel/}{Michel Kuijken} - contact : 0494 17 55 83 – lluna1@numericable.be<br>
-    @{/teachers/bart/}{Bart Buls} - contact : 0475 66 97 04 – tripleb@skynet
+    <b>Arthur Maes</b> - contact: 0472 27 59 34 – arthur_maes@linuxmail.org
     
     Les leçons peuvent être données en français, en néerlandais ou en anglais.<br><br>
     
@@ -84,7 +84,7 @@ text:
     
     <b>Teachers</b><br>
     @{/teachers/michel/}{Michel Kuijken} - contact: 0494 17 55 83 – lluna1@numericable.be<br>
-    @{/teachers/bart/}{Bart Buls} - contact: 0475 66 97 04 – tripleb@skynet
+    <b>Arthur Maes</b> - contact: 0472 27 59 34 – arthur_maes@linuxmail.org
     
     Lessons can be followed in English, Dutch or French. <br><br>
     

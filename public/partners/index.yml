@@ -48,17 +48,17 @@ partners:
     text: 
       fr: |-
         <p>Brasserie Belge, bien de chez nous!</p>
-        <p>Primus – Tongerlo – Keizer Karel − Mystic</p>
+        <p>Primus – Ommegang - Tongerlo – Keizer Karel − Mystic</p>
         @{http://www.haacht.com}{www.haacht.com}<br>
         @{http://www.primus.be}{www.primus.be}
       en: |-
         <p>Real Belgian brewery!</p>
-        <p>Primus – Tongerlo – Keizer Karel − Mystic</p>
+        <p>Primus – Ommegang - Tongerlo – Keizer Karel − Mystic</p>
         @{http://www.haacht.com}{www.haacht.com}<br>
         @{http://www.primus.be}{www.primus.be}
       nl: |-
         <p>Belgische brouwerij écht van bij ons!</p>
-        <p>Primus – Tongerlo – Keizer Karel − Mystic</p>
+        <p>Primus – Ommegang - Tongerlo – Keizer Karel − Mystic</p>
         @{http://www.haacht.com}{www.haacht.com}<br>
         @{http://www.primus.be}{www.primus.be}
 
