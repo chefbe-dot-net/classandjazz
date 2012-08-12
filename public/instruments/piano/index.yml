@@ -14,8 +14,10 @@ text:
     
     Een opleiding piano is mogelijk vanaf 5 jaar.
     
-    <b>Leraar:</b> @{/teachers/raph/}{Raph Van Goubergen} <br>
-    contact: 0486 11 95 66 – 016 65 11 79 – @{mailto:raphvangoubergen@telenet.be}{raphvangoubergen@telenet.be}
+    <b>Leraars:</b> <br>
+    @{/teachers/raph/}{Raph Van Goubergen} - contact: 0486 11 95 66 – @{mailto:raphvangoubergen@telenet.be}{raphvangoubergen@telenet.be}<br>
+    @{/teachers/ellen/}{Ellen De Vlam} - contact: 0474 69 16 84 – ellendevlam@hotmail.com<br>
+    @{/teachers/andries/}{Andries Baele} - contact: 0494 13 38 20 – tarzandries@hotmail.com
     
     De lessen kunnen gegeven worden in het Nederlands, Engels of Frans.<br>
     <br>
@@ -28,8 +30,10 @@ text:
     # Piano
     Les cours de piano sont possibles à partir de 5 ans.
     
-    <b>Professeur:</b> @{/teachers/raph/}{Raph Van Goubergen}<br>
-    contact: 0486 11 95 66 – 016 65 11 79 – @{mailto:raphvangoubergen@telenet.be}{raphvangoubergen@telenet.be}
+    <b>Professeurs:</b> <br>
+    @{/teachers/raph/}{Raph Van Goubergen} - contact: 0486 11 95 66 – @{mailto:raphvangoubergen@telenet.be}{raphvangoubergen@telenet.be}<br>
+    @{/teachers/ellen/}{Ellen De Vlam} - contact: 0474 69 16 84 – ellendevlam@hotmail.com<br>
+    @{/teachers/andries/}{Andries Baele} - contact: 0494 13 38 20 – tarzandries@hotmail.com
     
     Les leçons peuvent être données en français, en néerlandais ou en anglais. <br>
     <br>
@@ -43,8 +47,10 @@ text:
     
     Piano lessons are possible from the age of 5 years old.<br>
     
-    <b>Teacher:</b> @{/teachers/raph/}{Raph Van Goubergen}<br>
-    contact: 0486 11 95 66 – 016 65 11 79 – @{mailto:raphvangoubergen@telenet.be}{raphvangoubergen@telenet.be}
+    <b>Teachers:</b> <br>
+    @{/teachers/raph/}{Raph Van Goubergen} - contact: 0486 11 95 66 – @{mailto:raphvangoubergen@telenet.be}{raphvangoubergen@telenet.be}<br>
+    @{/teachers/ellen/}{Ellen De Vlam} - contact: 0474 69 16 84 – ellendevlam@hotmail.com<br>
+    @{/teachers/andries/}{Andries Baele} - contact: 0494 13 38 20 – tarzandries@hotmail.com
     
     Lessons can be followed in English, Dutch or French. <br>
     <br>
