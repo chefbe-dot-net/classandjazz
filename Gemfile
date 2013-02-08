@@ -3,7 +3,6 @@ source :rubygems
 group :development do
   gem "eventmachine", "= 1.0.0.beta.3"
   gem "thin", "~> 1.2.11"
-  gem "sinatra", "~> 1.3.0"
   gem "wlang", "~> 0.10.2"
   gem "kramdown", "~> 0.13.3"
   gem "epath", "~> 0.0.1"
@@ -19,8 +18,8 @@ group :test do
 end
 
 group :production do
-  gem "rack", "= 1.3.5"
-  gem "sinatra", "~> 1.3.0"
+  gem "rack", "= 1.5.2"
+  gem "sinatra", "~> 1.3"
   gem "wlang", "~> 0.10.2"
   gem "kramdown", "~> 0.13.3"
   gem "epath", "~> 0.0.1"
