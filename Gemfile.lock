@@ -8,6 +8,22 @@ GIT
       posix-spawn (~> 0.3.6)
 
 GIT
+  remote: git://github.com/blambeau/grit.git
+  revision: 099fed8c32ffe910836abbabc9a6997de55e5783
+  specs:
+    grit (2.4.1)
+      diff-lcs (~> 1.1)
+      mime-types (~> 1.15)
+      posix-spawn (~> 0.3.6)
+
+GIT
+  remote: git://github.com/blambeau/websync.git
+  revision: 12b5c925e0f7d380415b700f2c715bd3e58eb47d
+  specs:
+    websync (0.0.1)
+      grit (~> 2.4.1)
+
+GIT
   remote: git://github.com/blambeau/websync.git
   revision: 12b5c925e0f7d380415b700f2c715bd3e58eb47d
   specs:
