@@ -52,9 +52,6 @@ text:
     @{/instruments/other-courses/}{Gehoortraining} - 
     @{/instruments/other-courses/}{Klassieke Muziekgeschiedenis} - 
     @{/instruments/other-courses/}{Jazz/Rock/Pop Muziekgeschiedenis} - 
-    @{/instruments/other-courses/}{Pre-Notenleer (van 5 tot 8 jaar)} - 
-    @{/instruments/other-courses/}{Notenleer (vanaf 8 jaar)} - 
-    @{/instruments/other-courses/}{Notenleer volwassenen} - 
     @{/instruments/other-courses/}{Muziekinformatica}
     
   fr: |-
@@ -104,9 +101,6 @@ text:
     @{/instruments/other-courses/}{Entraînement de l’oreille musicale} - 
     @{/instruments/other-courses/}{Histoire de la musique classique} - 
     @{/instruments/other-courses/}{Histoire du Jazz/Rock/Pop} - 
-    @{/instruments/other-courses/}{Pré-solfège (de 5 à 8 ans)} - 
-    @{/instruments/other-courses/}{Solfège (à partir de 8 ans)} - 
-    @{/instruments/other-courses/}{Solfège pour adultes} - 
     @{/instruments/other-courses/}{Informatique musicale} 
     
   en: |-
@@ -155,7 +149,4 @@ text:
     @{/instruments/other-instruments/}{Ear Training} -
     @{/instruments/other-instruments/}{Classical Music History} - 
     @{/instruments/other-instruments/}{Jazz/Rock/Pop History} - 
-    @{/instruments/other-instruments/}{Music Theory preparation (5 to 8 years old)} - 
-    @{/instruments/other-instruments/}{Music Theory (from 8 years old onwards)} - 
-    @{/instruments/other-instruments/}{Music Theory for adults} - 
     @{/instruments/other-instruments/}{Music and Computers}
