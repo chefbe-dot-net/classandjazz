@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="${lang}">
   <head>
-    <title>${title[lang]}</title>
+    ?{title.empty?}{
+      <title>${main_title[lang]}</title>
+    }{
+      <title>${main_title[lang]} - ${title[lang]}</title>
+    }
     <meta name="keywords" content="${keywords[lang].join(', ')}">
     <meta name="description" content="${description[lang]}">
     <meta charset="utf-8" />
