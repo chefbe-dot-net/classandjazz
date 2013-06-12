@@ -1,9 +1,15 @@
 picture: 
 partition: piano_man.gif
 title:
+<<<<<<< HEAD
   nl: Pianolessen
   fr: Cours de piano
   en: Piano lessons
+=======
+  nl: Class and Jazz - Muziekschool Kampenhout - Pianolessen
+  fr: Class and Jazz - Ecole de Musique Kampenhout - Cours de piano
+  en: Class and Jazz - Music School Kampenhout - Piano lessons
+>>>>>>> retiteling of all pages, archiving old pages
 description:
   nl: Een alternatieve muziekschool in Kampenhout
   fr: Une école alternative de musique à Kampenhout

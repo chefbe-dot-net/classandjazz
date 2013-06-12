@@ -1,9 +1,15 @@
 picture: arthur.jpg
 partition: while_my_guitar.gif
 title:
+<<<<<<< HEAD
   nl: Gitaarlessen
   fr: Cours de guitare
   en: Guitar lessons
+=======
+  nl: Class and Jazz - Muziekschool Kampenhout - Gitaarlessen
+  fr: Class and Jazz - Ecole de Musique Kampenhout - Cours de guitare
+  en: Class and Jazz - Music School Kampenhout - Guitar lessons
+>>>>>>> retiteling of all pages, archiving old pages
 description:
   nl: Een alternatieve muziekschool in Kampenhout
   fr: Une école alternative de musique à Kampenhout

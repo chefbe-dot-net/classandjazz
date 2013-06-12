@@ -1,8 +1,8 @@
 template: partners
 title:
-  nl: Onze partners
-  fr: Nos partenaires
-  en: Our partners
+  nl: Class & Jazz - Muziekschool Kampenhout - Onze partners
+  fr: Class & Jazz - Ecole de Musique Kampenhout - Nos partenaires
+  en: Class & Jazz - Music School Kampenhout - Our partners
 partners:
   - title: Ballet Attitude - Ingrid Fonteyne
     picture: attitude.gif

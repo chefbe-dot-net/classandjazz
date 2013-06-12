@@ -1,9 +1,15 @@
 template: page
 partition: good_evening_mr_and_mrs_america.gif
 title:
+<<<<<<< HEAD
   nl: News
   fr: News
   en: News
+=======
+  nl: Class & Jazz - Muziekschool Kampenhout - News
+  fr: Class & Jazz - Ecole de Musique Kampenhout - News
+  en: Class & Jazz - Music School Kampenhout - Class & Jazz - News
+>>>>>>> retiteling of all pages, archiving old pages
 text:
   nl: |-
     ### Class & Jazz OPENDEURDAG

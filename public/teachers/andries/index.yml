@@ -1,9 +1,15 @@
 picture: andries.jpg
 partition: fiddler_on_the_roof.gif
 title:
+<<<<<<< HEAD
   nl: Vioollessen
   fr: Cours de violon
   en: Violin lessons
+=======
+  nl: Class and Jazz - Muziekschool Kampenhout - Vioollessen
+  fr: Class and Jazz - Ecole de Musique Kampenhout - Cours de violon
+  en: Class and Jazz - Music School Kampenhout - Violin lessons
+>>>>>>> retiteling of all pages, archiving old pages
 description:
   nl: Een alternatieve muziekschool in Kampenhout
   fr: Une école alternative de musique à Kampenhout

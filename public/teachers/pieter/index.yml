@@ -1,9 +1,15 @@
 picture: pieter.jpg
 partition: i_got_rhythm.gif
 title:
+<<<<<<< HEAD
   nl: Drumlessen
   fr: Cours de batterie
   en: Drum lessons
+=======
+  nl: Class and Jazz - Muziekschool Kampenhout - Drumlessen
+  fr: Class and Jazz - Ecole de Musique Kampenhout - Cours de batterie
+  en: Class and Jazz - Music School Kampenhout - Drum lessons
+>>>>>>> retiteling of all pages, archiving old pages
 description:
   nl: Een alternatieve muziekschool in Kampenhout
   fr: Une école alternative de musique à Kampenhout

@@ -1,9 +1,15 @@
 picture: raph2.jpg
 partition: piano_man.gif
 title:
+<<<<<<< HEAD
   nl: Pianolessen en Jazz Zanglessen
   fr: Cours de piano et de chant jazz
   en: Piano and jazz singing lessons
+=======
+  nl: Class and Jazz - Muziekschool Kampenhout - Pianolessen en Jazz Zanglessen
+  fr: Class and Jazz - Ecole de Musique Kampenhout - Cours de piano et de chant jazz
+  en: Class and Jazz - Music School Kampenhout - Piano and jazz singing lessons
+>>>>>>> retiteling of all pages, archiving old pages
 description:
   nl: Een alternatieve muziekschool in Kampenhout
   fr: Une école alternative de musique à Kampenhout

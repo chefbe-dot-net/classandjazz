@@ -1,8 +1,14 @@
 partition: cello_suite.gif
 title:
+<<<<<<< HEAD
   nl: Cellolessen
   fr: Cours de violoncelle
   en: Cello lessons
+=======
+  nl: Class and Jazz - Muziekschool Kampenhout - Cellolessen
+  fr: Class and Jazz - Ecole de Musique Kampenhout - Cours de violoncelle
+  en: Class and Jazz - Music School Kampenhout - Cello lessons
+>>>>>>> retiteling of all pages, archiving old pages
 description:
   nl: Een alternatieve muziekschool in Kampenhout
   fr: Une école alternative de musique à Kampenhout
