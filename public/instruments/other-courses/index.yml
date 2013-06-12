@@ -1,8 +1,12 @@
 partition: teach_me_tonight.gif
 title:
-  nl: Andere cursussen en topics voor groepslessen
-  fr: Autres cours et sujets pour cours groupés
-  en: Other courses and topics for group lessons
+  nl: Class & Jazz - Muziekschool Kampenhout - Andere cursussen
+  fr: Class & Jazz - Ecole de Musique Kampenhout - Autres cours
+  en: Class & Jazz - Music School Kampenhout - Other courses
+keywords:
+  nl: [muziekschool, Kampenhout, lessen, improvisatie, samenspel, compositie, jazz harmonie, gehoortraining]
+  fr: [école de musique, Kampenhout, cours, improvisation, ensemble, composition, harmonie jazz, entrainement de l'oreille]
+  en: [music school, Kampenhout, lessons, improvisation, ensemble, composition, jazz harmony, eartraining]
 text:
   nl: |-
     # Andere cursussen en topics voor groepslessen
