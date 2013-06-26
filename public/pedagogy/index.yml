@@ -1,9 +1,9 @@
 template: page
 partition: f_moll.gif
 title:
-  nl: Class & Jazz - Muziekschool Kampenhout - Pedagogie
-  fr: Class & Jazz - Ecole de Musique Kampenhout - Pédagogie
-  en: Class & Jazz - Music School Kampenhout - Pedagogy
+  nl: Pedagogie
+  fr: Pédagogie
+  en: Pedagogy
 text:
   nl: |-
     # Pedagogie

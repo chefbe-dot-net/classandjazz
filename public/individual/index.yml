@@ -1,9 +1,9 @@
 template: page
 partition: just_the_two_of_us.gif
 title:
-  nl: Class & Jazz - Muziekschool Kampenhout - Individuele lessen
-  fr: Class & Jazz - Ecole de Musique Kampenhout - Cours individuels
-  en: Class & Jazz - Music School Kampenhout - Individual lessons
+  nl: Individuele lessen
+  fr: Cours individuels
+  en: Individual lessons
 text:
   nl: |
     # De “allesomvattende” individuele les

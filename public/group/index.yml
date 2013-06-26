@@ -1,9 +1,9 @@
 template: page
 partition: all_together_now.gif
 title:
-  nl: Class & Jazz - Muziekschool Kampenhout - Groeplessen
-  fr: Class & Jazz - Ecole de Musique Kampenhout - Cours groupés
-  en: Class & Jazz - Music School Kampenhout - Group lessons
+  nl: Groeplessen
+  fr: Cours groupés
+  en: Group lessons
 text:
   nl: |
     <b>Belangrijke opmerking voor groepslessen:</b> 
