@@ -15,8 +15,9 @@ text:
     
     <b>Leraar Jazz Zang:</b><br> 
     @{/teachers/raph/}{Raph Van Goubergen} - contact: 0486 11 95 66 – @{mailto:raphvangoubergen@telenet.be}{raphvangoubergen@telenet.be} <br>
-    <b>Leraar Klassieke Zang:</b><br>
-    @{/teachers/majorie/}{Majorie Vanhaverbeke} - contact: 0473 68 15 18 – majorie29@yahoo.com
+    <b>Leraars Klassieke Zang:</b><br>
+    @{/teachers/majorie/}{Majorie Vanhaverbeke} - contact: 0473 68 15 18 – majorie29@yahoo.com<br>
+    @{/teachers/maaike/}{Maaike Organe} - contact: 0472 89 07 56 – maaikeorgane@hotmail.com
     
     De lessen kunnen gegeven worden in het Nederlands, Engels of Frans.<br><br>
     
@@ -32,8 +33,9 @@ text:
     
     <b>Professeur Chant Jazz:</b><br> 
     @{/teachers/raph/}{Raph Van Goubergen} - contact: 0486 11 95 66 – @{mailto:raphvangoubergen@telenet.be}{raphvangoubergen@telenet.be} <br>
-    <b>Professeur Chant Classique:</b><br>
-    @{/teachers/majorie/}{Majorie Vanhaverbeke} - contact: 0473 68 15 18 – majorie29@yahoo.com
+    <b>Professeurs Chant Classique:</b><br>
+    @{/teachers/majorie/}{Majorie Vanhaverbeke} - contact: 0473 68 15 18 – majorie29@yahoo.com<br>
+    @{/teachers/maaike/}{Maaike Organe} - contact: 0472 89 07 56 – maaikeorgane@hotmail.com
     
     Les leçons peuvent être données en français, en néerlandais et en anglais.<br><br>
     
@@ -49,8 +51,9 @@ text:
     
     <b>Teacher Jazz Singing:</b><br> 
     @{/teachers/raph/}{Raph Van Goubergen} - contact: 0486 11 95 66 – @{mailto:raphvangoubergen@telenet.be}{raphvangoubergen@telenet.be} <br>
-    <b>Teacher Classical Singing:</b><br> 
-    @{/teachers/majorie/}{Majorie Vanhaverbeke} - contact: 0473 68 15 18 – majorie29@yahoo.com
+    <b>Teachers Classical Singing:</b><br> 
+    @{/teachers/majorie/}{Majorie Vanhaverbeke} - contact: 0473 68 15 18 – majorie29@yahoo.com<br>
+    @{/teachers/maaike/}{Maaike Organe} - contact: 0472 89 07 56 – maaikeorgane@hotmail.com
     
     Lessons can be followed in English, Dutch or French. <br><br>
     

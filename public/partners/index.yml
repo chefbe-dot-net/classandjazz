@@ -29,19 +29,22 @@ partners:
         * Conditiejazz
 
         @{http://www.balletschoolattitude.be/}{www.balletschoolattitude.be}
-  - title: Someone Els
-    picture: someoneels.gif
-    website: http://www.someoneels.be
+  - title: Piano's Van Innis
+    picture: vaninnis.gif
+    website: http://www.vaninnis.be
     text:
       fr: |-
-        <p>Vocal Harmony – Jazz and more</p>
-        @{http://www.someoneels.be}{www.someoneels.be}
+        <p>Where Art meets Skill</p>
+        <p>Pianos acoustiques et digitaux</p>
+        @{http://www.vaninnis.be}{www.vaninnis.be}
       en: |-
-        <p>Vocal Harmony – Jazz and more</p>
-        @{http://www.someoneels.be}{www.someoneels.be}
+        <p>Where Art meets Skill</p>
+        <p>Acoustic and digital piano's</p>
+        @{http://www.vaninnis.be}{www.vaninnis.be}
       nl: |-
-        <p>Vocal Harmony – Jazz and more</p>
-        @{http://www.someoneels.be}{www.someoneels.be}
+        <p>Where Art meets Skill</p>
+        <p>Akoestische en digitale piano's</p>
+        @{http://www.vaninnis.be}{www.vaninnis.be}
   - title: Brouwerij HAACHT
     picture: primus.gif
     website: http://www.haacht.com
@@ -61,4 +64,17 @@ partners:
         <p>Primus – Ommegang - Tongerlo – Keizer Karel − Mystic</p>
         @{http://www.haacht.com}{www.haacht.com}<br>
         @{http://www.primus.be}{www.primus.be}
+  - title: Someone Els
+    picture: someoneels.gif
+    website: http://www.someoneels.be
+    text:
+      fr: |-
+        <p>Vocal Harmony – Jazz and more</p>
+        @{http://www.someoneels.be}{www.someoneels.be}
+      en: |-
+        <p>Vocal Harmony – Jazz and more</p>
+        @{http://www.someoneels.be}{www.someoneels.be}
+      nl: |-
+        <p>Vocal Harmony – Jazz and more</p>
+        @{http://www.someoneels.be}{www.someoneels.be}
 
