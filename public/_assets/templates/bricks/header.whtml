@@ -1,9 +1,25 @@
 <header>
-  <a href="@{/}"><img id="logo" src="/_assets/images/class_and_jazz.gif"/></a>
-  <a target="_blank" 
-   href="http://www.balletschoolattitude.be" title="Balletschool Attitude">
-  <img src="/_assets/images/attitude.gif" width=220px alt="Balletschool Attitude"/></a>
-  ?{knows?(:picture)}{
-    <img id="photo" src="/_assets/photos/${picture}">
-  }
+  <table>
+    <tr>
+      <td>
+        <a href="@{/}"><img id="logo" style="margin-right: 40px" src="/_assets/images/class_and_jazz.gif"/></a>
+      </td>
+      <td style="width: 220px">
+        <a target="_blank"
+           href="http://www.balletschoolattitude.be" title="Balletschool Attitude">
+         <img src="/_assets/images/attitude.gif" width="200px" alt="Balletschool Attitude"/>
+        </a>
+        <br/>
+        <a target="_blank"
+            href="https://www.facebook.com/pages/CLASS-JAZZ/93805403066?fref=ts" title="Follow us on Facebook">
+          <img src="/_assets/images/follow-facebook.jpg" width="200px" alt="Follow us on Facebook"/>
+        </a>
+      </td>
+      ?{knows?(:picture)}{
+        <td>
+          <img id="photo" src="/_assets/photos/${picture}">
+        </td>
+      }
+    </tr>
+  </table>
 </header>
