@@ -29,6 +29,22 @@ partners:
         * Conditiejazz
 
         @{http://www.balletschoolattitude.be/}{www.balletschoolattitude.be}
+  - title: Masala
+    picture: masala.gif
+    website: http://www.masalamusic.be/
+    text:
+      fr: |-
+        Spicy music. Taste the sound!<br>
+        @{http://www.masalamusic.be/}{www.masalamusic.be}
+    
+      en: |-
+        Spicy music. Taste the sound!<br>
+        @{http://www.masalamusic.be/}{www.masalamusic.be}
+    
+      nl: |-
+        Spicy music. Taste the sound!<br>    
+        @{http://www.masalamusic.be/}{www.masalamusic.be}
+    
   - title: Piano's Van Innis
     picture: vaninnis.gif
     website: http://www.vaninnis.be
