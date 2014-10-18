@@ -8,6 +8,7 @@
     }
     <meta name="keywords" content="${keywords[lang].join(', ')}">
     <meta name="description" content="${description[lang]}">
+    <meta name="google-site-verification" content="EchS_WAM-Q8BXCRBMlc7hLI0QNoRHGjOQla2ohiuPfY" />
     <meta charset="utf-8" />
     <link rel="stylesheet" href="/_assets/css/style.css" />
     <!--[if lt IE 9]>
