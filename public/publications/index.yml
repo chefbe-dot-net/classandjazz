@@ -1,0 +1,99 @@
+template: page
+partition: moak_s_shop.gif
+title:
+  nl: Publicaties
+  fr: Publications
+  en: Publications
+text:
+  nl: |-
+    # CLASS & JAZZ Productions
+    
+    CLASS & JAZZ lanceerde zich in 2015 als Indie platenlabel. 
+    Fier op de status “kleinste platenlabel ter wereld” bracht CLASS & JAZZ haar eerste productie 
+    op de markt op 29 maart 2015: <b>@{http://www.masalamusic.be/}{MASALA} – 
+    @{http://www.masalamusic.be/march-of-the-masalians-out-now/}{March of the Masalians}</b><br><br>
+    ![](/_assets/photos/cdcover.jpg)<br>
+    <b>Piet Haven</b> (vocals and bass), <b>Andries Baele</b> (vocals and violin),  
+    <b>Pieter Dedoncker</b> (vocals and drums), <b>Raph Van Goubergen</b> (vocals and piano).<br><br>
+    De CD kan besteld worden via @{mailto:info@classandjazz.be}{info@classandjazz.be} of online worden gekocht bij 
+    @{https://itunes.apple.com/us/album/march-of-the-masalians/id978284547}{iTunes}, 
+    @{http://www.amazon.com/March-Masalians-Masala/dp/B00UVVOU90/ref=sr_1_1?ie=UTF8&qid=1427914297&sr=8-1&keywords=march+of+the+masalians }{Amazon}, 
+    @{https://play.google.com/store/music/album/MASALA_March_Of_The_Masalians?id=Bjarbx55zddyv3e2anggdujwu6q}{Google Play}, 
+    @{http://www.deezer.com/artist/500114}{Deezer}, 
+    @{https://wimp.dk/wweb/album/43954812}{WiMP}, 
+    @{http://listen.tidalhifi.com/search/masala%20march%20of%20the%20masalians}{TIDAL}, 
+    @{http://www.qobuz.com/nl-nl/album/march-of-the-masalians-masala/8718857043034}{Qobuz} en 
+    @{http://www.emusic.com/album/masala/march-of-the-masalians/15768445/}{eMusic}.<br><br>
+    In de marge van het album March of the Masalians werd ook een videoclip opgenomen van de 
+    1ste track van de CD, <b>Everlasting Love / Bop It On</b> die te bezichtigen is op 
+    @{https://www.youtube.com/watch?v=q05ShuCOpz0&list=FLonB0GMOaDksMUlesdvSLoQ}{Youtube}.<br><br>
+    
+    # CLASS & JAZZ Publications
+    Hopelijk nog in 2015 zal CLASS & JAZZ ook een boek uitgeven:<br><br>
+    <b>PARENT SCALES and CHORD SCALES</b> (door Raphaël Van Goubergen) 
+    is een Engelstalig boek die alle geheimen van de muziekanalyse 
+    (toonaarden, akkoorden en modi) blootlegt ten behoeve van jonge Jazz, Klassieke en Pop muzikanten 
+    die willen componeren en improviseren.<br><br>
+    Het boekje <b>AKKOORDENBEGELEIDINGEN VARIEREN</b> (eveneens door Raphaël Van Goubergen) is nu reeds 
+    gratis verkrijgbaar, enkel voor studenten van CLASS & JAZZ.
+
+    
+  fr: |-
+    # CLASS & JAZZ Productions
+    
+    CLASS & JAZZ s’est lancé en 2015 comme label discographique Indie. Fier de son statut “plus petit label au monde” 
+    CLASS & JAZZ a lancé sa première production le 29 mars 2015: <b>@{http://www.masalamusic.be/}{MASALA} – 
+    @{http://www.masalamusic.be/march-of-the-masalians-out-now/}{March of the Masalians}</b><br><br>
+    ![](/_assets/photos/cdcover.jpg)<br>
+    <b>Piet Haven</b> (vocals and bass), <b>Andries Baele</b> (vocals and violin),  
+    <b>Pieter Dedoncker</b> (vocals and drums), <b>Raph Van Goubergen</b> (vocals and piano).<br><br>
+    Le CD peut être commandé via @{mailto:info@classandjazz.be}{info@classandjazz.be} ou acheté en ligne chez 
+    @{https://itunes.apple.com/us/album/march-of-the-masalians/id978284547}{iTunes}, 
+    @{http://www.amazon.com/March-Masalians-Masala/dp/B00UVVOU90/ref=sr_1_1?ie=UTF8&qid=1427914297&sr=8-1&keywords=march+of+the+masalians }{Amazon}, 
+    @{https://play.google.com/store/music/album/MASALA_March_Of_The_Masalians?id=Bjarbx55zddyv3e2anggdujwu6q}{Google Play}, 
+    @{http://www.deezer.com/artist/500114}{Deezer}, 
+    @{https://wimp.dk/wweb/album/43954812}{WiMP}, 
+    @{http://listen.tidalhifi.com/search/masala%20march%20of%20the%20masalians}{TIDAL}, 
+    @{http://www.qobuz.com/nl-nl/album/march-of-the-masalians-masala/8718857043034}{Qobuz} et 
+    @{http://www.emusic.com/album/masala/march-of-the-masalians/15768445/}{eMusic}.<br><br>
+    En marge de l’album March of the Masalians, un clip vidéo du 1er morceau du CD a également été enregistré. 
+    Vous pouvez voir <b>Everlasting Love / Bop It On</b> sur 
+    @{https://www.youtube.com/watch?v=q05ShuCOpz0&list=FLonB0GMOaDksMUlesdvSLoQ}{Youtube}.<br><br>
+    
+    # CLASS & JAZZ Publications
+    CLASS & JAZZ espère éditer encore en 2015 le livre 
+    <b>PARENT SCALES and CHORD SCALES</b> (de Raphaël Van Goubergen), 
+    un livre en anglais qui dévoile tous les secrets de l’analyse musicale (tonalités, accords et modes) 
+    à l’usage des jeunes musiciens Jazz, Classiques et Pop qui veulent composer et improviser.<br><br>
+    Le petit livret (en néerlandais) <b>AKKOORDENBEGELEIDINGEN VARIEREN</b> (également de Raphaël Van Goubergen) 
+    est déjà disponible, gratuitement, uniquement pour les étudiants de CLASS & JAZZ.
+
+
+  en: |-
+    # CLASS & JAZZ Productions
+    
+    CLASS & JAZZ has started its own Indie record label in 2015. Proud to be “the smallest label on Earth”, 
+    CLASS & JAZZ released its first production on the 29th of March 2015: <br><b>@{http://www.masalamusic.be/}{MASALA} – 
+    @{http://www.masalamusic.be/march-of-the-masalians-out-now/}{March of the Masalians}</b><br><br>
+    ![](/_assets/photos/cdcover.jpg)<br>
+    <b>Piet Haven</b> (vocals and bass), <b>Andries Baele</b> (vocals and violin),  
+    <b>Pieter Dedoncker</b> (vocals and drums), <b>Raph Van Goubergen</b> (vocals and piano).<br><br>
+    The CD can be ordered via @{mailto:info@classandjazz.be}{info@classandjazz.be} or bought online at 
+    @{https://itunes.apple.com/us/album/march-of-the-masalians/id978284547}{iTunes}, 
+    @{http://www.amazon.com/March-Masalians-Masala/dp/B00UVVOU90/ref=sr_1_1?ie=UTF8&qid=1427914297&sr=8-1&keywords=march+of+the+masalians }{Amazon}, 
+    @{https://play.google.com/store/music/album/MASALA_March_Of_The_Masalians?id=Bjarbx55zddyv3e2anggdujwu6q}{Google Play}, 
+    @{http://www.deezer.com/artist/500114}{Deezer}, 
+    @{https://wimp.dk/wweb/album/43954812}{WiMP}, 
+    @{http://listen.tidalhifi.com/search/masala%20march%20of%20the%20masalians}{TIDAL}, 
+    @{http://www.qobuz.com/nl-nl/album/march-of-the-masalians-masala/8718857043034}{Qobuz} and 
+    @{http://www.emusic.com/album/masala/march-of-the-masalians/15768445/}{eMusic}.<br><br>
+    Next to the album March of the Masalians, a video clip was recorded of the 1st track of the CD. 
+    The clip <b>Everlasting Love / Bop It On</b> is available on @{https://www.youtube.com/watch?v=q05ShuCOpz0&list=FLonB0GMOaDksMUlesdvSLoQ}{Youtube}.<br><br>
+    
+    # CLASS & JAZZ Publications
+    CLASS & JAZZ hopes to publish, still in 2015, the book <b>PARENT SCALES and CHORD SCALES</b> (by Raphaël Van Goubergen). 
+    This book written in English reveals all the secrets of music analysis (tonality, chords and modes) 
+    at behalf of young Jazz, Classical and Pop musicians who want to compose and improvise.<br><br>
+    The small booklet (in Dutch) <b>AKKOORDENBEGELEIDINGEN VARIEREN</b> (also by Raphaël Van Goubergen) 
+    is already available, for free, only for the CLASS & JAZZ students.
+
