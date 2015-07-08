@@ -1,7 +1,6 @@
 <div id="partition">
   <<+{bricks/menu.whtml share all}
   <div id="text">
-    <<+{bricks/contact.whtml share all}
     <article>~{text[lang]}</article>
   </div>
 </div>

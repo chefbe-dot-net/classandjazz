@@ -36,14 +36,12 @@
         }
       </style>
       <footer id="copyright">
-        <div class="left">
+        <div class="left" itemscope itemtype="http://data-vocabulary.org/Organization">
           &copy; ${contact.since} &mdash; 
-          ${contact.name}      &mdash;
-          ${contact.phone}     &mdash;
-          <a href="mailto:${contact.mail}">${contact.mail}</a>
-        </div>
-        <div class="right">
-          &copy; <a href="http://www.chefbe.net" target="_blank">chefbe.net</a>
+          <span itemprop="name">${contact.name}</span> &mdash;
+          <span itemprop="tel">${contact.phone}</span> &mdash;
+          <a href="mailto:${contact.mail}">${contact.mail}</a> &mdash;
+          <span itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address">${contact.address.street} ${contact.address.postalcode} ${contact.address.locality}</span>
         </div>
         <div class="clear"></div>
       </footer>
