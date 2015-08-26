@@ -1,0 +1,44 @@
+partition: trumpet_voluntary.gif
+title:
+  nl: Trompet
+  fr: Trompette
+  en: Trumpet
+keywords:
+  nl: [muziekschool, Kampenhout, trompetlessen, trompet, lessen]
+  fr: [école de musique, Kampenhout, cours de trompette]
+  en: [music school, Kampenhout, trumpet lessons]
+text:
+  nl: |-
+    # Trompet (blazers)
+    
+    Een opleiding trompet is mogelijk vanaf 8 jaar.
+    
+    <b>Leraar:</b> @{/teachers/jerome/}{Jérôme Hoppe} - contact: jeromehoppe@gmail.com
+    
+    De lessen kunnen gegeven worden in het Nederlands, Engels of Frans.<br><br>
+    
+    (pagina in opmaak)
+    
+  fr: |-
+    # Trompette (souffleurs)
+    
+    Les cours de trompette sont possibles à partir de 8 ans.
+    
+    <b>Professeur:</b> @{/teachers/jerome/}{Jérôme Hoppe} - contact: jeromehoppe@gmail.com
+    
+    Les leçons peuvent être données en français, en néerlandais, ou en anglais.<br><br>
+    
+    (page sous construction)
+   
+
+  en: |-
+    # Trumpet (horns)
+    
+    Trumpet lessons are possible from the age of 8 years old.
+    
+    <b>Teacher:</b> @{/teachers/jerome/}{Jérôme Hoppe} - contact: jeromehoppe@gmail.com
+    
+    Lessons can be followed in English, Dutch or French. <br><br>
+    
+    (page under construction)
+ 
