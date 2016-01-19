@@ -30,7 +30,6 @@ text:
       @{/instruments/other-instruments/}{contrabas} -
       @{/instruments/violin/}{klassieke viool, folk viool & elektrische viool} - 
       @{/instruments/cello/}{cello} -
-      @{/instruments/trumpet/}{trompet (blazers)} -
       @{/instruments/drums-and-percussions/}{drums & percussie}
     * Vanaf 10 jaar: 
       @{/instruments/singing/}{jazz zang}
@@ -86,7 +85,6 @@ text:
       @{/instruments/other-instruments/}{contrebasse} -
       @{/instruments/violin/}{violon classique, violon folk & violon électrique} - 
       @{/instruments/cello/}{violoncelle} - 
-      @{/instruments/trumpet/}{trompette (souffleurs)} -
       @{/instruments/drums-and-percussions/}{batterie & percussions}
     * A partir de 10 ans: 
       @{/instruments/singing/}{chant jazz}
@@ -142,7 +140,6 @@ text:
       @{/instruments/other-instruments/}{double bass} -
       @{/instruments/violin/}{classical violin, folk violin & electric violin} - 
       @{/instruments/cello/}{cello} -
-      @{/instruments/trumpet/}{trumpet (horns)} -
       @{/instruments/drums-and-percussions/}{drums & percussion}
     * From the age of 10 years old: 
       @{/instruments/singing/}{jazz singing}
