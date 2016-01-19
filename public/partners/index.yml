@@ -60,7 +60,22 @@ partners:
       nl: |-
         Spicy music. Taste the sound!<br>    
         @{http://www.masalamusic.be/}{www.masalamusic.be}
+
+  - title: Home Theater De Jonghe
+    picture: hometheater.gif
+    website: http://http://www.theaterdejonghe.be/
+    text:
+      fr: |-
+        Kampenhout, a small theatre with big ideas<br>
+        @{http://www.theaterdejonghe.be/}{www.theaterdejonghe.be}
     
+      en: |-
+        Kampenhout, a small theatre with big ideas<br>
+        @{http://www.theaterdejonghe.be/}{www.theaterdejonghe.be}
+    
+      nl: |-
+        Kampenhout, a small theatre with big ideas<br>    
+        @{http://www.theaterdejonghe.be/}{www.theaterdejonghe.be}		
   - title: Piano's Van Innis
     picture: vaninnis.gif
     website: http://www.vaninnis.be
