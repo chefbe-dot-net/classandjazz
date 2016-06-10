@@ -7,12 +7,12 @@ title:
 text:
   nl: |-
     # Onze Cursussen
-
+    
     CLASS & JAZZ biedt opleidingen aan voor kinderen en volwassenen. <br>
     Voor tarieven, gelieve @{mailto:info@classandjazz.be}{contact} op te nemen.
     
     ## Instrumenten
-
+    
     * Vanaf 5 jaar: 
       @{/instruments/cello/}{cello}
     * Vanaf 6 jaar: 
@@ -36,19 +36,22 @@ text:
     * Vanaf 16 jaar: 
       @{/instruments/singing/}{klassieke zang} - 
       @{/instruments/other-instruments/}{andere instrumenten}
-
+    
     ## Andere Cursussen
-
+    
+    <b>Bijkomende semi-professionele ensemble opleidingen</b><br>
+    @{/pedagogy/}{CANDIDS / ARTISTS / FOLK-WORLD / JAZZ-FUSION}  
+    	
     <b>Samenspel</b> (groesplessen)<br>
     @{/instruments/other-courses/}{Band-coaching} - 
     @{/instruments/other-courses/}{Klassieke Samenspel} - 
     @{/instruments/other-courses/}{Jazz/Rock/Pop Samenspel (Combo)} -
     @{/instruments/other-courses/}{Improvisatie}
-
+    
     <i>Belangrijke opmerking voor groepslessen: 
     CLASS & JAZZ biedt uitsluitend groepslessen aan studenten die samen, in groep 
     van minimum drie personen, inschrijven.</i>
-
+    
     <b>Theorie</b> (individueel of in groep)<br>
     @{/instruments/other-courses/}{Improvisatie} - 
     @{/instruments/other-courses/}{Compositie} - 
@@ -62,12 +65,12 @@ text:
     
   fr: |-
     # Nos Cours
-
+    
     CLASS & JAZZ offre des cours pour enfants et adultes. <br>
     Pour les tarifs, n’hésitez pas à @{mailto:info@classandjazz.be}{nous contacter}.
-
+    
     ## Les Cours d'Instrument
-
+    
     * A partir de 5 ans: 
       @{/instruments/cello/}{violoncelle}
     * A partir de 6 ans: 
@@ -93,17 +96,20 @@ text:
       @{/instruments/other-instruments/}{autres instruments}
         
     ## Autres Cours
-
+    
+    <b> Formations semi-professionnelles supplémentaires, en ensemble</b><br>
+    @{/pedagogy/}{CANDIDS / ARTISTS / FOLK-WORLD / JAZZ-FUSION}  
+    	
     <b>Cours d'Ensemble</b> (cours groupés)<br> 
     @{/instruments/other-courses/}{Band-coaching} - 
     @{/instruments/other-courses/}{Ensemble Classique} - 
     @{/instruments/other-courses/}{Ensemble Jazz/Rock/Pop (combo)} - 
     @{/instruments/other-courses/}{Improvisation}
-
+    
     <i>Remarque importante pour les cours groupés:
     Les cours groupés ne sont disponibles qu’aux étudiants qui s’inscrivent ensemble, 
     en groupe de trois minimum.</i>  
-
+    
     <b>Cours Théoriques</b> (individuel ou en groupe)<br> 
     @{/instruments/other-courses/}{Improvisation} -
     @{/instruments/other-courses/}{Composition} - 
@@ -117,12 +123,12 @@ text:
     
   en: |-
     # Our Courses 
-
+    
     CLASS & JAZZ offers courses for children and adults. <br>
     For prices, please @{mailto:info@classandjazz.be}{contact us}.
     
     ## Instruments
-
+    
     * From the age of 5 years old: 
       @{/instruments/cello/}{cello}
     * From the age of 6 years old: 
@@ -148,16 +154,19 @@ text:
       @{/instruments/other-instruments/}{other instruments}
     
     ## Other Courses
-
+    
+    <b> Additional semi-professional training in ensemble</b><br>
+    @{/pedagogy/}{CANDIDS / ARTISTS / FOLK-WORLD / JAZZ-FUSION}  
+    	
     <b>Ensemble</b> (group lessons)<br>
     @{/instruments/other-courses/}{Band-coaching} - 
     @{/instruments/other-courses/}{Classical Ensemble} - 
     @{/instruments/other-courses/}{Jazz/Rock/Pop Ensemble (combo)} - 
     @{/instruments/other-courses/}{Improvisation}
-
+    
     <i>Important remark for group lessons:
     Group lessons are offered only to students that enlist together, in group of three minimum.</i>
-
+    
     <b>Music Theory</b> (individual or in group)
     @{/instruments/other-instruments/}{Improvisation} -
     @{/instruments/other-instruments/}{Composition} - 
