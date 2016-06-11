@@ -32,13 +32,11 @@ text:
     
     ### @{/teachers/ellen/}{Ellen De Vlam}
     piano, muziektheorie, gehoortraining, notenleer, klassiek samenspel 
-    
-    ### @{/teachers/dominique/}{Dominique Antonis}
-    jazz zang, klassieke zang, samenzang, piano, notenleer
+
 
   fr: |-
     # Nos Professeurs
-
+    
     ### @{/teachers/raph/}{Raphaël Van Goubergen}
     piano, chant jazz, improvisation (tous les instruments), guitare basse & guitare, théorie de la musique, harmonie jazz, composition & arrangement, entraînement de l’oreille, solfège, band-coaching, jeu d’ensemble classique, jeu d’ensemble jazz-rock-pop<br><br>
     Responsable pédagogique, artistique et administratif <br>
@@ -63,13 +61,10 @@ text:
     
     ### @{/teachers/ellen/}{Ellen De Vlam}
     piano, théorie de la musique, entraînement de l’oreille, solfège, jeu d’ensemble classique 
-    
-    ### @{/teachers/dominique/}{Dominique Antonis}
-    chant jazz, chant classique, chant chorale, piano, solfège  
-    
+        
   en: |-
     # Our Teachers
-
+    
     ### @{/teachers/raph/}{Raphaël Van Goubergen}
     piano, jazz singing, improvisation (all instruments), bass guitar & guitar, music theory, jazz harmony, composition & arrangement, ear training, solfege, band-coaching, classical ensemble, jazz-rock-pop ensemble<br><br>
     Pedagogical, artistic and administrative manager <br>
@@ -94,8 +89,5 @@ text:
     
     ### @{/teachers/ellen/}{Ellen De Vlam}
     piano, music theory, ear training, solfege, classical ensemble 
-    
-    ### @{/teachers/dominique/}{Dominique Antonis}
-    jazz singing, classical singing, choir singing, piano, music reading  
-    
+        
 
