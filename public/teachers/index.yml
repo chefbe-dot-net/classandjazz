@@ -24,14 +24,14 @@ text:
     ### @{/teachers/pieter/}{Pieter Dedoncker}
     drums & percussie, notenleer, compositie & arrangement, musicologie/muziekfilosofie, band-coaching, jazz-rock-pop samenspel
     
-    ### @{/teachers/maaike/}{Maaike Organe}
-    cello, klassieke zang, muziektheorie, gehoortraining, notenleer, klassiek samenspel
-    
     ### @{/teachers/arthur/}{Arthur Maes}
     klassieke gitaar, elektrische gitaar, folk gitaar & basgitaar, jazz zang, improvisatie, muziektheorie, jazz-harmonie, compositie & arrangement, gehoortraining, notenleer, band-coaching, jazz-rock-pop samenspel.
     
     ### @{/teachers/ellen/}{Ellen De Vlam}
-    piano, muziektheorie, gehoortraining, notenleer, klassiek samenspel 
+    piano, muziektheorie, gehoortraining, notenleer, samenspel 
+    
+    ### @{/teachers/lotte/}{Lotte Barnard}
+    cello, muziektheorie, gehoortraining, notenleer, samenspel
 
 
   fr: |-
@@ -53,14 +53,14 @@ text:
     ### @{/teachers/pieter/}{Pieter Dedoncker}
     batterie & percussions, solfège, composition & arrangement, musicologie/philosophie musicale, band-coaching, jeu d’ensemble jazz-rock-pop
     
-    ### @{/teachers/maaike/}{Maaike Organe}
-    violoncelle, chant classique, théorie de la musique, entraînement de l’oreille, solfège, jeu d’ensemble classique 
-    
     ### @{/teachers/arthur/}{Arthur Maes}
     guitare classique, guitare électrique, guitare folk, guitare basse, improvisation, chant jazz, théorie de la musique, harmonie jazz, composition & arrangement, entraînement de l’oreille, solfège, band-coaching, jeu d’ensemble jazz-rock-pop
     
     ### @{/teachers/ellen/}{Ellen De Vlam}
-    piano, théorie de la musique, entraînement de l’oreille, solfège, jeu d’ensemble classique 
+    piano, théorie de la musique, entraînement de l’oreille, solfège, jeu d’ensemble  
+    
+    ### @{/teachers/lotte/}{Lotte Barnard}
+    violoncelle, théorie de la musique, entraînement de l’oreille, solfège, jeu d’ensemble  
         
   en: |-
     # Our Teachers
@@ -81,13 +81,13 @@ text:
     ### @{/teachers/pieter/}{Pieter Dedoncker}
     drums & percussions, solfege, composition & arrangement, musicology/music philosophy, band-coaching, jazz-rock-pop ensemble
     
-    ### @{/teachers/maaike/}{Maaike Organe}
-    cello, classical singing, music theory, ear training, solfege, classical ensemble 
-    
     ### @{/teachers/arthur/}{Arthur Maes}
     classical guitar, electric guitar, folk guitar, bass guitar, improvisation, jazz singing, music theory, jazz harmony, composition & arrangement, ear training, solfege, band-coaching, jazz-rock-pop ensemble
     
     ### @{/teachers/ellen/}{Ellen De Vlam}
-    piano, music theory, ear training, solfege, classical ensemble 
+    piano, music theory, ear training, solfege, ensemble 
+    
+    ### @{/teachers/lotte/}{Lotte Barnard}
+    cello, music theory, ear training, solfege, ensemble 
         
 
