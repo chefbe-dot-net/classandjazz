@@ -24,7 +24,6 @@ text:
       @{/instruments/piano/}{piano} - 
       @{/instruments/guitar-and-bass/}{klassieke gitaar, folk gitaar & elektrische gitaar} - 
       @{/instruments/guitar-and-bass/}{basgitaar} - 
-      @{/instruments/other-instruments/}{contrabas} -
       @{/instruments/violin/}{klassieke viool, folk viool & elektrische viool} - 
       @{/instruments/cello/}{cello} -
       @{/instruments/drums-and-percussions/}{drums & percussie}
@@ -79,7 +78,6 @@ text:
       @{/instruments/piano/}{piano} - 
       @{/instruments/guitar-and-bass/}{guitare classique, guitare folk & guitare électrique} - 
       @{/instruments/guitar-and-bass/}{guitare basse} - 
-      @{/instruments/other-instruments/}{contrebasse} -
       @{/instruments/violin/}{violon classique, violon folk & violon électrique} - 
       @{/instruments/cello/}{violoncelle} - 
       @{/instruments/drums-and-percussions/}{batterie & percussions}
@@ -134,7 +132,6 @@ text:
       @{/instruments/piano/}{piano} - 
       @{/instruments/guitar-and-bass/}{classical guitar, folk guitar & electric guitar} - 
       @{/instruments/guitar-and-bass/}{bass guitar} - 
-      @{/instruments/other-instruments/}{double bass} -
       @{/instruments/violin/}{classical violin, folk violin & electric violin} - 
       @{/instruments/cello/}{cello} -
       @{/instruments/drums-and-percussions/}{drums & percussion}
