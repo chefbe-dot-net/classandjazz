@@ -28,9 +28,8 @@ text:
       @{/instruments/cello/}{cello} -
       @{/instruments/drums-and-percussions/}{drums & percussie}
     * Vanaf 10 jaar: 
-      @{/instruments/singing/}{jazz zang}
+      @{/instruments/singing/}{zang}
     * Vanaf 16 jaar: 
-      @{/instruments/singing/}{klassieke zang} - 
       @{/instruments/other-instruments/}{andere instrumenten}
     
     ## Andere Cursussen
@@ -82,9 +81,8 @@ text:
       @{/instruments/cello/}{violoncelle} - 
       @{/instruments/drums-and-percussions/}{batterie & percussions}
     * A partir de 10 ans: 
-      @{/instruments/singing/}{chant jazz}
+      @{/instruments/singing/}{chant}
     * A partir de 16 ans: 
-      @{/instruments/singing/}{chant classique} - 
       @{/instruments/other-instruments/}{autres instruments}
         
     ## Autres Cours
@@ -136,9 +134,8 @@ text:
       @{/instruments/cello/}{cello} -
       @{/instruments/drums-and-percussions/}{drums & percussion}
     * From the age of 10 years old: 
-      @{/instruments/singing/}{jazz singing}
+      @{/instruments/singing/}{singing}
     * From the age of 16 years old: 
-      @{/instruments/singing/}{classical singing} - 
       @{/instruments/other-instruments/}{other instruments}
     
     ## Other Courses
