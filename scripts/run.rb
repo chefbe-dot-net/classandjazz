@@ -28,14 +28,14 @@ class Run < Script
   # Tries to access the website
   def wait_and_open
     info "Attempting to connect to the web site..."
-    Http.head "http://127.0.0.1:3000/"
+    Http.head "http://127.0.0.1:9292/"
   rescue Errno::ECONNREFUSED
     sleep(0.5)
     retry if (self.try += 1) < max
     info "Server not found, sorry."
     raise
   else
-    Launchy.open("http://127.0.0.1:3000/")
+    Launchy.open("http://127.0.0.1:9292/")
   end
   
   def execute(argv)
@@ -56,7 +56,7 @@ class Run < Script
 
     thinpid = nil
     info "Starting the web server..." do
-      thinpid = spawn("thin -R #{config_ru} start")
+      thinpid = spawn("bundle exec rackup config/development.ru")
     end
 
     info "Waiting for the server to start" do

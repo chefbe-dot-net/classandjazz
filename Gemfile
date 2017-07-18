@@ -1,8 +1,6 @@
 source :rubygems
 
 group :development do
-  gem "eventmachine", "= 1.0.0.beta.3"
-  gem "thin", "~> 1.2.11"
   gem "wlang", "~> 0.10.2"
   gem "kramdown", "~> 0.13.3"
   gem "epath", "~> 0.0.1"
