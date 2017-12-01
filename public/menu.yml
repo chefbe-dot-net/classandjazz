@@ -31,7 +31,7 @@ menu:
     * @{/teachers/ellen/}{Ellen De Vlam}
     * @{/teachers/lotte/}{Lotte Barnard}
     * @{/teachers/anke/}{Anke Verslype}
-    * Mathias Ghesquière    
+    * @{/teachers/mathias/}{Mathias Ghesquière}    
 
   fr: |-
     # @{/}{Class & Jazz}
@@ -65,7 +65,7 @@ menu:
     * @{/teachers/ellen/}{Ellen De Vlam}
     * @{/teachers/lotte/}{Lotte Barnard}
     * @{/teachers/anke/}{Anke Verslype}
-    * Mathias Ghesquière    
+    * @{/teachers/mathias/}{Mathias Ghesquière}    
 
   en: |-
     # @{/}{Class & Jazz}
@@ -99,5 +99,5 @@ menu:
     * @{/teachers/ellen/}{Ellen De Vlam}
     * @{/teachers/lotte/}{Lotte Barnard}
     * @{/teachers/anke/}{Anke Verslype}
-    * Mathias Ghesquière    
+    * @{/teachers/mathias/}{Mathias Ghesquière}    
 
