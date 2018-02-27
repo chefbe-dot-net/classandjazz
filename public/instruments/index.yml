@@ -31,6 +31,7 @@ text:
     * Vanaf 10 jaar: 
       @{/instruments/singing/}{zang}
     * Vanaf 16 jaar: 
+      @{/instruments/double-bass/}{contrabas} - 
       @{/instruments/other-instruments/}{andere instrumenten}
     
     ## Andere Cursussen
@@ -85,6 +86,7 @@ text:
     * A partir de 10 ans: 
       @{/instruments/singing/}{chant}
     * A partir de 16 ans: 
+      @{/instruments/double-bass/}{contrebasse} - 
       @{/instruments/other-instruments/}{autres instruments}
         
     ## Autres Cours
@@ -139,6 +141,7 @@ text:
     * From the age of 10 years old: 
       @{/instruments/singing/}{singing}
     * From the age of 16 years old: 
+      @{/instruments/double-bass/}{double bass} -  
       @{/instruments/other-instruments/}{other instruments}
     
     ## Other Courses
