@@ -13,25 +13,21 @@ text:
     
     ## Instrumenten
     
-    * Vanaf 6 jaar: 
-      @{/instruments/drums-and-percussions/}{drums & percussie} (ritmische initiatie)  -
-      @{/instruments/violin/}{viool}
-    * Vanaf 7 jaar: 
-      @{/instruments/drums-and-percussions/}{drums & percussie} -
-      @{/instruments/piano/}{piano} - 
-      @{/instruments/violin/}{viool} - 
+    * Vanaf 4 jaar:
       @{/instruments/cello/}{cello}
+    * Vanaf 6 jaar: 
+      @{/instruments/drums-and-percussions/}{drums & percussie} -
+      @{/instruments/violin/}{viool} - 
+      @{/instruments/double-bass/}{contrabas}
+    * Vanaf 7 jaar: 
+      @{/instruments/piano/}{piano}
     * Vanaf 8 jaar: 
-      @{/instruments/piano/}{piano} - 
       @{/instruments/guitar-and-bass/}{klassieke gitaar, folk gitaar & elektrische gitaar} - 
       @{/instruments/guitar-and-bass/}{basgitaar} - 
-      @{/instruments/violin/}{klassieke viool, folk viool & elektrische viool} - 
-      @{/instruments/cello/}{cello} -
-      @{/instruments/drums-and-percussions/}{drums & percussie}
+      @{/instruments/violin/}{klassieke viool, folk viool & elektrische viool}
     * Vanaf 10 jaar: 
       @{/instruments/singing/}{zang}
     * Vanaf 16 jaar: 
-      @{/instruments/double-bass/}{contrabas} - 
       @{/instruments/other-instruments/}{andere instrumenten}
     
     ## Andere Cursussen
@@ -68,25 +64,21 @@ text:
     
     ## Les Cours d'Instrument
     
-    * A partir de 6 ans: 
-      @{/instruments/drums-and-percussions/}{batterie & percussions} (initiation rythmique) -
-      @{/instruments/violin/}{violon}
-    * A partir de 7 ans: 
-      @{/instruments/drums-and-percussions/}{batterie & percussions} - 
-      @{/instruments/piano/}{piano} - 
-      @{/instruments/violin/}{violon} - 
+    * A partir de 4 ans: 
       @{/instruments/cello/}{violoncelle}
+    * A partir de 6 ans: 
+      @{/instruments/drums-and-percussions/}{batterie & percussions} -
+      @{/instruments/violin/}{violon} - 
+      @{/instruments/double-bass/}{contrebasse}
+    * A partir de 7 ans: 
+      @{/instruments/piano/}{piano}
     * A partir de 8 ans: 	
-      @{/instruments/piano/}{piano} - 
       @{/instruments/guitar-and-bass/}{guitare classique, guitare folk & guitare électrique} - 
       @{/instruments/guitar-and-bass/}{guitare basse} - 
-      @{/instruments/violin/}{violon classique, violon folk & violon électrique} - 
-      @{/instruments/cello/}{violoncelle} - 
-      @{/instruments/drums-and-percussions/}{batterie & percussions}
+      @{/instruments/violin/}{violon classique, violon folk & violon électrique} 
     * A partir de 10 ans: 
       @{/instruments/singing/}{chant}
     * A partir de 16 ans: 
-      @{/instruments/double-bass/}{contrebasse} - 
       @{/instruments/other-instruments/}{autres instruments}
         
     ## Autres Cours
@@ -123,25 +115,21 @@ text:
     
     ## Instruments
     
-    * From the age of 6 years old: 
-      @{/instruments/drums-and-percussions/}{drums & percussion} (rhythmical initiation) -
-      @{/instruments/violin/}{violin} 
-    * From the age of 7 years old: 
-      @{/instruments/drums-and-percussions/}{drums & percussion} - 
-      @{/instruments/piano/}{piano} - 
-      @{/instruments/violin/}{violin} - 
+    * From the age of 4 years old: 
       @{/instruments/cello/}{cello}
+    * From the age of 6 years old: 
+      @{/instruments/drums-and-percussions/}{drums & percussion} -
+      @{/instruments/violin/}{violin} -
+      @{/instruments/double-bass/}{double bass}
+    * From the age of 7 years old: 
+      @{/instruments/piano/}{piano}
     * From the age of 8 years old: 	
-      @{/instruments/piano/}{piano} - 
       @{/instruments/guitar-and-bass/}{classical guitar, folk guitar & electric guitar} - 
       @{/instruments/guitar-and-bass/}{bass guitar} - 
-      @{/instruments/violin/}{classical violin, folk violin & electric violin} - 
-      @{/instruments/cello/}{cello} -
-      @{/instruments/drums-and-percussions/}{drums & percussion}
+      @{/instruments/violin/}{classical violin, folk violin & electric violin}
     * From the age of 10 years old: 
       @{/instruments/singing/}{singing}
     * From the age of 16 years old: 
-      @{/instruments/double-bass/}{double bass} - 
       @{/instruments/other-instruments/}{other instruments}
     
     ## Other Courses
