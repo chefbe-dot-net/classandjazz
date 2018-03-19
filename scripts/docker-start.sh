@@ -17,5 +17,7 @@ git reset --hard origin/$GIT_BRANCH
 
 bundle install
 
+chown app.app $HOME -R
+
 # Delegate the rest to passenger's start script
 /sbin/my_init
