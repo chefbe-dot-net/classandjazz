@@ -19,6 +19,6 @@ end
 
 desc %q{Build docker image and push it to q8s}
 task :q8sbuild do
-  exec "docker build -t q8s.quadrabee.com/chefbe/classandjazz . && \
-        docker push q8s.quadrabee.com/chefbe/classandjazz"
+  exec "docker build -t chefbe/classandjazz . && \
+        docker push chefbe/classandjazz"
 end
