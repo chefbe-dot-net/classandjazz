@@ -16,9 +16,3 @@ desc %q{Run all client tests}
 task :test do
   exec "bundle exec ruby -Ilib -Itest test/runall.rb"
 end
-
-desc %q{Build docker image and push it to q8s}
-task :q8sbuild do
-  exec "docker build -t chefbe/classandjazz . && \
-        docker push chefbe/classandjazz"
-end
