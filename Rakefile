@@ -1,6 +1,6 @@
 $LOAD_PATH.unshift(File.join(File.dirname(__FILE__), 'lib'))
 
-desc %q{Regenerates CSS stylesheet} 
+desc %q{Regenerates CSS stylesheet}
 task :css do
   Dir.chdir(File.expand_path('../public/_assets/css', __FILE__)) do
     `lessc style.less > style.css`
