@@ -22,7 +22,7 @@ module Rack
 
     def call(env)
       target = Path(hooks)/env['PATH_INFO'][1..-1]
-      if target.file? and target.parent == Path(hooks)
+      if target.file?
         exec_script(target)
         success.call(env)
       elsif @app
