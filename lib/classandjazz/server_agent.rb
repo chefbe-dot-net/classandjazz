@@ -5,7 +5,7 @@ module ClassAndJazz
 
     def logger
       @logger ||= begin 
-        logger = Logger.new((ROOT/'logs/server-agent.log').to_s, 'monthly')
+        logger = Logger.new(STDOUT)
         logger.level = Logger::DEBUG
         logger
       end
