@@ -10,30 +10,8 @@ Dir.chdir(root = File.expand_path('../../',__FILE__)) do
   # update loadpath and load project
   $: << File.join(root,"lib")
   require 'classandjazz'
+  require 'rack/hooks'
   
-  # main appplication
-  map '/' do
-    run ClassAndJazz::WebApp
-  end
-
-  # websync
-  map '/websync/redeploy' do
-    run lambda{|env|
-      begin
-        Bundler::with_original_env do 
-          require 'classandjazz/server_agent'
-          agent = ClassAndJazz::ServerAgent.new(root)
-          agent.signal(:"redeploy-request")
-          [ 200, 
-           {"Content-type" => "text/plain"},
-           [ "Ok" ] ]
-        end
-      rescue Exception => ex
-        [ 500, 
-         {"Content-type" => "text/plain"},
-         [ ex.message + "\n" + ex.backtrace.join("\n") ] ]
-      end
-    }
-  end
+  use Rack::Hooks
+  run ClassAndJazz::WebApp
 end
-
