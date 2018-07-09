@@ -1,0 +1,284 @@
+template: page
+partition: just_the_two_of_us.gif
+title:
+  nl: Privacy
+  fr: Privacy
+  en: Privacy
+text:
+  nl: |-
+    # Privacyverklaring
+    
+    ## Data Protection Officer
+    De verantwoordelijke persoon, de zogenaamde Data Protection Officer (of DPO), die als aanspreekpunt dient wat betreft onze privacy beleid, is Raphaël Van Goubergen.<br>
+    Adres: Langestraat 78, 1910 Kampenhout - Tel. 016/65.11.79 - Gsm: 0486/11.95.66<br>E-mail: raphvangoubergen@telenet.be
+    
+    ## Verzamelde data, verwerking en gebruik van deze data 
+    
+    Class & Jazz verzamelt van al haar leerlingen/klanten (en leraars) – enkel via een door henzelf ingevulde gegevensformulier – in een daartoe op maat van Class & Jazz gemaakte 
+    gegevensbestand – op de eigen, met gangbare software beveiligde, computer (niet op het internet) – uitsluitend die gegevens die onmisbaar zijn om een vlotte samenwerking mogelijk te maken. 
+    Zijnde:  
+    
+    <b>Contact- en Identiteitsgegevens</b>
+        
+    * Familienaam en Familie Huisadres voor facturatie
+    * Desgevallend Firmanaam, Adres en BTW-nummer voor facturatie
+    * Vaste Telefoonnummers, Gsm-nummers en E-mailadressen van de ouders voor werkingscommunicatie in geval van minderjarige kinderen en/of kinderen ten laste
+    * Naam en Voornaam van de leerling (leraar) voor identificatie 
+    * Geboortedatum van de leerling (leraar) voor leeftijdsbepaling in een pedagogische context	(en identificatie)
+    * Gsm-nummer en E-mailadres van de leerling (leraar) voor werkingscommunicatie
+    * Foto van de leraar voor website
+        
+    <b>Boekhoudkundige (intern gegenereerde) data</b>
+        
+    * Historiek van de facturatie en de betalingen
+    * Historiek van de vergoedingen (leraars) 
+        
+    <b>Pedagogische en organisatorische (intern gegenereerde) data</b> 
+        
+    * Historiek van de proeflessen (nieuwe leerlingen) en wachtlijst
+    * Historiek van de inschrijvingen (leerlingen)
+    * Historiek van de planning van de lessen (aan- en afwezigheden leerlingen/leraars)
+    * Historiek van de deelname aan evenementen (OPUS en Projecten)
+    * Historiek van de repetities (in het kader van de OPUS)
+    * Historiek van de aangeboden hulp op de OPUS (ouders/leerlingen/leraars)
+    * Competenties van de leraars (de vakken die ze kunnen onderwijzen)
+        
+    <b>Internet</b>    
+    Onze website www.classandjazz.be verzamelt geen enkele gegevens. Die is vrij van cookies en trackers. Class & Jazz gebruikt géén enkele sociale media.
+    
+    ## Toestemming en Rechten van onze leerlingen/klanten
+    
+    <b>Toestemming</b>    
+    Mits deze gegevens ons door de leerlingen/klanten/leraars (en/of hun ouders) zelf worden doorgegeven via het invullen van het gegevensformulier bij de inschrijving, verlenen ze ons impliciet hun toestemming voor het gebruik en de verwerking van deze gegevens. 
+    <b>Vergeetrecht</b>    
+    Onze leerlingen/klanten/leraars, en hun ouders/familie, kunnen te allen tijde deze gegevens inzien, controleren, bijwerken, corrigeren of laten verwijderen* door contact op te nemen met de DPO, Raphaël Van Goubergen.<br>
+    *Gegevens die betrekking hebben tot onze boekhouding moeten we verplicht wettelijk 15 jaren bijhouden ten einde fiscale controles mogelijk te maken.
+    
+    ## Delen van deze data met derden
+    De verzamelde data worden nooit doorgegeven aan derden, met uitzondering van:
+    
+    * Onze leraars beschikken over alle data van hun leerlingen en hun ouders, voor de werkingscommunicatie, en uit pedagogische overwegingen.
+    * Onze leerlingen en hun ouders beschikken over de contactgegevens (gsm-nummer en e-mailadres) van hun leraar(s), voor de werkingscommunicatie.
+    * Onze leraars beschikken over elkaars contactgegevens (gsm-nummer en e-mailadres).
+    * De contactgegevens (gsm-nummer en e-mailadres) en de foto van onze leraars staan openbaar beschikbaar op onze website.
+    * Voor onvermijdelijke gegroepeerde mailings, naar alle leerlingen en betrokken ouders, wordt uitzonderlijk gebruik gemaakt van het www.mailchimp.com platform waar een lijst van e-mailadressen wordt bewaard in een daartoe dienende eigen Class & Jazz account, enkel toegankelijk voor DPO Raph Van Goubergen. Deze mailings geven steeds de mogelijkheid om uit de mailinglijst uit te schrijven via een Unsubscribe link.
+    * Leerlingen en ouders kunnen desgevallend beschikken over e-mailadressen van andere leerlingen en ouders. Zie “kleine samenwerkende groepsverband” verder in de tabel over onze werkingscommunicatie.
+    
+    ## Werkingscommunicatie
+    Hieronder staat een gedetailleerde tabel ter duiding van onze werkingscommunicatie.<br>    
+    ![](/_assets/photos/privacynl.jpg)<br><br>
+    Hiermee weet u … wat u eigenlijk al, tenminste in grote lijnen, wist. 
+    En, voor diegenen die moedig genoeg zijn geweest om tot hiertoe te lezen wil Class & Jazz ook graag het volgende kwijt.
+    
+    ## Statement
+    De GDPR wet, van kracht sinds 25 mei 2018, die ons verplicht om zulke privacy verklaringen op te maken, en u verplicht om ze te lezen, heeft natuurlijk de bedoeling om uw privacy te beschermen. 
+    Een doel dat wij, uiteraard, onderschrijven. Maar de logica van deze wet slaat volgens ons de bal mis op (minstens) twee punten.
+    
+    <i>1) Door ook kleine visjes zoals de bakker, de beenhouwer, de groenteboer, … en Class & Jazz te verplichten om zich aan deze wet te conformeren.</i>
+    
+    Want, geef toe, wij kunnen toch moeilijk lesgeven aan een anonieme “John Smith”, zonder adres, zonder contactgegevens, en zonder leeftijd, en/of zonder contactgegevens van de ouders 
+    wanneer “John” blijkt minderjarig te zijn. 
+    
+    De data die we verzamelen zijn exact dezelfde data die we al van oudsher in ons adresboekje van vroeger verzamelden. En de verwerking en gebruik van deze data dienen ook exact dezelfde 
+    doelen als toen: gewoon kunnen samenwerken. Nieuw, sinds de jaren ’80/‘90, zijn wel de emailadressen die, in de meeste gevallen, in de werkingscommunicatie, gewoon het “postadres” vervangen.
+    
+    <i>2) Door de grote haaien zoals de GAFA’s (Google, Apple, Facebook, Amazon) en duizenden andere data verzamelaars in feite een vrijgeleide te bieden om verder te vissen naar uw surf- en 
+    koopgedrag (en vele andere “weetjes”), zogezegd om “u beter van dienst te kunnen zijn”, maar eigenlijk, en u weet dat, en ik weet dat, uit zuiver winstbejag.</i>
+    
+    Want, geef toe, u en ik zullen blijven op dat “accepteer” knopje* (lees hieronder) drukken op het internet, zolang we van hun diensten willen blijven gebruik maken. 
+    En we zullen, geen van ons allen, de moed en het geduld hebben om al die ellenlange “privacy verklaringen” en andere “gebruiksvoorwaarden” te lezen, waardoor we dus wel zullen akkoord 
+    gaan met van alles en nog wat.
+    
+    Het was misschien, waarschijnlijk, niet zo gemakkelijk om, vanuit een wettelijk kader, een verschil te kunnen maken tussen die kleine visjes en die grote haaien. 
+    De vraag blijft: Heeft men wel geprobeerd? Zijn er geen andere wetten mogelijk om de grote haaien te beteugelen?<br><br>
+    
+    *Interessant experiment: Surf eens naar https://www.gegevensbeschermingsautoriteit.be/ (die de vroegere privacy commissie vervangt). Er verschijnt meteen een pop-up met als boodschap: 
+    <i>Deze website gebruikt cookies. Sommige cookies zijn noodzakelijk om de website goed te doen functioneren en kan je niet weigeren als je deze site wil bezoeken.</i>
+    
+    Zoek de fout!<br><br>
+
+
+    <b>Raph Van Goubergen</b>
+
+  fr: |-
+    # Déclaration de confidentialité
+    
+    ## Data Protection Officer
+    La personne responsable, le Data Protection Officer (ou DPO), qui sert de point de contact pour tout ce qui concerne notre politique de confidentialité, est Raphaël Van Goubergen.<br>
+    Adresse: Langestraat 78, 1910 Kampenhout - Tel. 016/65.11.79 - Gsm: 0486/11.95.66<br>E-mail: raphvangoubergen@telenet.be
+    
+    ## Collecte, traitement et utilisation des données 
+    
+    Class & Jazz recueille auprès de tous ses élèves/clients (et profs) – uniquement au moyen d’un formulaire de données rempli par eux-mêmes – dans une base de données créée sur mesure 
+    de Class & Jazz – sur le seul ordinateur central de la société (pas sur internet), protégé par les logiciels communs – seulement les données indispensables à une bonne coopération. 
+    Ces données étant :   
+    
+    <b>Informations de contact et d'identité</b>
+        
+    * Nom de Famille et Adresse du Domicile Familial pour la facturation
+    * Le cas échéant Nom de la Firme, Adresse et Numéro de TVA 	pour la facturation
+    * Nos de Téléphone(s) fixe(s), Nos de Gsm et Adresses e-mail des parents en cas d'enfants mineurs et d'enfants à charge	pour la communication 
+    * Nom et Prénom de l’élève (du prof) pour l’identification
+    * Date de Naissance de l’élève (du prof) pour la détermination de l'âge dans un contexte pédagogique (et pour l’identification)
+    * Ns de Gsm et Adresse e-mail de l’élève (du prof) pour la communication
+    * Photo du prof	pour le site web
+    
+    <b>Données comptables (générées en interne)</b>
+        
+    * Historique de la facturation et des paiements 
+    * Historique des rémunérations (profs) 
+        
+    <b>Données pédagogiques et organisationnelles (générées en interne)</b> 
+        
+    * Historique des leçons à l’essai (nouveaux élèves) et liste d’attente
+    * Historique des inscriptions (élèves)
+    * Historique du planning des leçons (présences/absences des élèves/profs)
+    * Historique de la participation à des évènements (OPUS et Projets)
+    * Historique des répétitions (dans le cadre de l’OPUS)
+    * Historique des aidants à l’OPUS
+    * Compétences des profs (les cours qu’ils peuvent donner)
+        
+    <b>Internet</b>    
+    Notre site web www.classandjazz.be ne recueille aucune donnée. Ni cookies, ni trackers. Class & Jazz n’utilise aucun réseau social.
+    
+    ## Permission et droits de nos étudiants / clients
+    
+    <b>Permission</b>    
+    Nos élèves/clients/profs nous donnent implicitement la permission d’utiliser et de traiter leurs données, vu que ces données nous sont transmises au travers d’une fiche de données remplie par eux-mêmes. <br>
+    <b>Droit à l’oubli</b>    
+    Nos élèves/clients/enseignants, et leurs parents/famille, peuvent consulter, vérifier, mettre à jour, corriger ou supprimer ces données à tout moment * en contactant le DPD, Raphaël Van Goubergen.<br>
+    *Les données relatives à notre comptabilité doivent être conservées légalement pendant 15 ans afin de permettre des contrôles fiscaux.
+    
+    ## Partage de ces données avec des tiers
+    Les données collectées ne sont jamais transmises à des tiers, à l'exception de :
+    
+    * Nos profs disposent de toutes les données de leurs élèves et de leurs parents, pour la communication, et pour des raisons pédagogiques.
+    * Nos élèves et leurs parents disposent des coordonnées de leur(s) prof(s) (numéro de Gsm et adresse e-mail) pour la communication.
+    * Nos profs disposent des données de contact des autres profs (numéro de Gsm et adresse e-mail).
+    * Les données de contact et la photo des profs sont publiquement disponibles sur notre site web. 
+    * Dans l’éventuelle nécessité d’envoyer des e-mails groupés à tous les élèves et parents concernés, Class & Jazz utilise exceptionnellement la plateforme www.mailchimp.com où une liste d'adresses e-mail est stockée sur un compte dédié à Class & Jazz, accessible uniquement par le DPO Raph Van Goubergen. Ces mailings donnent toujours la possibilité de se désinscrire de la liste de diffusion via un lien de désinscription (Unsubscribe).
+    * Les élèves et les parents peuvent, le cas échéant, disposer des adresses e-mail d'autres élèves et parents. Voir "petit groupe collaborant" ci-dessous dans le tableau sur notre communication
+    
+    ## Communication
+    Vous trouverez ci-dessous un tableau détaillé pour expliquer de quelle façon nous communiquons avec nos élèves/clients/parents/profs.<br>    
+    ![](/_assets/photos/privacyfr.jpg)<br><br>
+    Ainsi, vous savez maintenant … ce que vous saviez probablement déjà, du moins dans les grandes lignes. 
+    Et, pour ceux qui ont eu suffisamment de courage que pour tout lire jusqu’ici, Class & Jazz aimerait encore partager ce qui suit.
+    
+    ## Déclaration concernant le RGPD
+    La loi sur le RGPD, en vigueur depuis le 25 mai 2018, qui nous oblige à rédiger de telles déclarations de confidentialité, et vous oblige à les lire, a bien sûr l'intention de protéger 
+    votre vie privée. Un objectif auquel nous adhérons sans la moindre hésitation. Mais selon nous, la logique de cette loi passe à côté de son objectif sur (au moins) deux points.
+    
+    <i>1) En obligeant les petits poissons comme le boulanger, le boucher, l’épicier, … et Class & Jazz à se conformer à cette loi.</i>
+    
+    Parce que, soyons honnêtes, il nous serait bien difficile de donner cours à un “Mr Dupont” anonyme, sans adresse, sans données de contact, sans âge, et sans données de contact de 
+    ses parents si le petit « Dupont » est encore mineur d’âge. 
+    
+    Les données que nous collectons sont en fait exactement les mêmes que celles que nous collections déjà dans nos carnets d'adresses du passé. 
+    Et le traitement et l'utilisation de ces données servent également exactement les mêmes objectifs que par le passé : simplement pouvoir travailler ensemble. 
+    Ce qui est nouveau depuis les années ’80/’90 sont les adresses e-mails qui, dans la plupart des cas, remplacent en fait simplement l’adresse postale.
+    
+    <i>2) En donnant ainsi carte blanche aux grands requins tels que les GAFA (Google, Apple, Facebook, Amazon) et de milliers d’autres collecteurs de données qui continuent à espionner 
+    vos habitudes et vos préférences sur internet, soi-disant afin de « mieux pouvoir vous servir » alors que leur but n’est en fait que, comme vous et moi le savons bien, purement vénal.</i>
+    
+    Parce que, soyons honnêtes, vous et moi continueront à cliquer sur le bouton « accepter » * (lire ci-dessous) sur internet, si nous désirons continuer à faire appel à leurs services. 
+    Et, aucun d’entre nous n’aura ni le courage ni la patience de lire toutes les « déclarations de confidentialité » et autres « conditions générales », ce qui nous fera implicitement 
+    accepter tout et n’importe quoi.
+    
+    Il n'était peut-être, sans doute, pas si facile de faire la différence, du point de vue juridique, entre ces petits poissons et ces grands requins. 
+    La question demeure : A-t-on vraiment essayé? N'y a-t-il pas d'autres lois possibles pour restreindre l’appétit, ne serait-ce qu’un petit peu, des grands requins ?<br><br>
+    
+    *Faites le test : Aller voir sur  https://www.autoriteprotectiondonnees.be/ (qui remplace l’ancienne Commission de la Protection de la Vie Privée). Vous verrez apparaître un pop-up :  
+    <i>Deze website gebruikt cookies. Sommige cookies zijn noodzakelijk om de website goed te doen functioneren en kan je niet weigeren als je deze site wil bezoeken.</i>
+    
+    Cherchez l’erreur !<br><br>
+
+
+    <b>Raph Van Goubergen</b>
+
+  en: |-
+    # Privacy Statement
+    
+    ## Data Protection Officer
+    The person, the Data Protection Officer (or DPO), who serves as the point of contact for all matters relating to our privacy policy, is Raphaël Van Goubergen.<br>
+    Address: Langestraat 78, 1910 Kampenhout - Tel. 016/65.11.79 - Gsm: 0486/11.95.66<br>E-mail: raphvangoubergen@telenet.be
+    
+    ## Collection, processing and use of data 
+    
+    Class & Jazz collects from all its students/clients (and teachers) - only through a self-completed data form - in a custom-built Class & Jazz database - on the only main computer of the company
+    (not on the internet), protected by common software - only the data essential for a good cooperation. Being:   
+    
+    <b>Contact and identity information</b>
+        
+    * Family Name and Home Address for billing
+    * Where appropriate Company Name, Address and VAT Number for billing
+    * Fixed phone numbers, mobile phone numbers and e-mail addresses of parents in the case of minor children and dependent children for communication
+    * Name and surname of the student (of the teacher) for identification
+    * Birth date of the student (teacher) for the determination of age in a pedagogical context (and for identification)
+    * Gsm numbers and e-mail address of the student (teacher) for communication
+    * Photo of the teacher for the website
+    
+    <b>Accounting data (generated internally)</b>
+        
+    * Billing and Payment History
+    * Remuneration history (teachers)
+    
+    <b>Pedagogical and organizational data (generated internally)</b> 
+        
+    * History of trial lessons (new students) and waiting list
+    * Subscriptions history (students)
+    * History of lesson planning (attendance / absences of students / teachers)
+    * History of participation in events (OPUS and Projects)
+    * History of repetitions (as part of the OPUS)
+    * History of helpers at OPUS
+    * Skills of teachers (the courses they can teach)
+    
+    <b>Internet</b>    
+    Our website www.classandjazz.be does not collect any data. No cookies or trackers. Class & Jazz does not use any social network.
+    
+    ## Permission and rights of our students / clients
+    
+    <b>Permission</b>    
+    Our students / clients / teachers implicitly give us permission to use and process their data, as these data are transmitted to us through a data sheet filled out by themselves.<br>
+    <b>Right to be forgotten</b>    
+    Our students / clients / teachers, and their parents / family, can view, check, update, correct or delete this data at any time * by contacting the DPO, Raphaël Van Goubergen.<br>
+    *Our accounting data must be kept legally for 15 years to allow tax audits.
+    
+    ## Sharing this data with third parties
+    The collected data are never transmitted to third parties, with the exception of:
+    
+    * Our teachers have all the data of their students and their parents, for communication, and for pedagogical reasons.
+    * Our students and their parents have contact information for their teacher (Gsm number and e-mail address) for the communication.
+    * Our teachers have the contact data of other teachers (Gsm number and e-mail address).
+    * Contact data and photo of our teachers are publicly available on our website.
+    * In the eventual need to send group e-mails to all concerned students and parents, Class & Jazz uses exceptionally the www.mailchimp.com platform where a list of e-mail addresses is stored on an account dedicated to Class & Jazz, accessible only by the DPO Raph Van Goubergen. These mailings always give the option to unsubscribe from the mailing list via an unsubscribe link. 
+    * Students and parents can, if necessary, have e-mail addresses of other students and parents. See "small group collaborating" below in the table on our communication.
+    
+    ## Communication
+    Below you will find a detailed table explaining how we communicate with our students / clients / parents / teachers.<br>    
+    ![](/_assets/photos/privacyen.jpg)<br><br>
+    So, you know now ... what you probably already knew, at least in outline. 
+    And, for those who have been courageous enough to read so far, Class & Jazz would also like to share the following.
+    
+    ## Statement concerning the GDPR
+    The GDPR law, in effect since May 25, 2018, which requires us to write such privacy statements, and requires you to read them, of course intends to protect your privacy. 
+    A goal we adhere to without hesitation. But in our opinion, the logic of this law misses its objective on (at least) two points. 
+    
+    <i>1) By forcing small fish like baker, butcher, grocer, ... and Class & Jazz to comply with this law.</i>
+    
+    Because, let's be honest, it would be very difficult for us to teach an anonymous "John Smith", without address, without contact data, without age, and without contact information from his 
+    parents if the little "John" is still a minor age.
+    
+    The data we collect is in fact exactly the same as what we already collected in our past address books. And the processing and use of these data also serve exactly the same purposes 
+    as in the past: simply being able to work together. What's new since the '80s /' 90s are the e-mail addresses that, in most cases, simply replace the post address.
+    
+    <i>2) By actually offering the big sharks like the GAFAs (Google, Apple, Facebook, Amazon) and thousands of other data collectors a free guide to continue fishing for your 
+    surfing and buying behaviour (and many other "facts"), so to speak "To be of better service", but actually, and you know that, and I know that, out of pure profit.</i>
+    
+    Because, let's be honest, you and I will continue to click the "accept" button on the internet, if we want to continue to use their services. 
+    And none of us will have the courage or the patience to read all the "privacy statements" and other "terms and conditions", which will imply us to accept anything and everything.
+    
+    Perhaps it was not so easy to make the difference, legally, between these small fish and these big sharks. The question remains: Have the lawmakers really tried? 
+    Are there no other possible laws to limit the appetite, if only a little bit, of these big sharks?<br><br>
+    
+    <b>Raph Van Goubergen</b>
