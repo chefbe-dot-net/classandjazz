@@ -46,6 +46,5 @@
         <div class="clear"></div>
       </footer>
     </div>
-    ?{environment == :production}{<<+{bricks/analytics.whtml share all}}
   </body>
 </html>
