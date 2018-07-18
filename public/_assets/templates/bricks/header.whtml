@@ -4,12 +4,14 @@
       <td>
         <a href="@{/}"><img id="logo" style="margin-right: 40px" src="/_assets/images/class_and_jazz.gif"/></a>
       </td>
-      <td style="width: 220px">
+      <td style="width: 200px">
         <a target="_blank"
            href="http://www.balletschoolattitude.be" title="Balletschool Attitude">
          <img src="/_assets/images/attitude.gif" width="200px" alt="Balletschool Attitude"/>
         </a>
-        <br/>
+      </td>
+      <td>
+        <p class="no-facebook">Class & Jazz loves people for real. We like to chat, smile and hug face to face. No virtual socializing for us.</p>
       </td>
       ?{knows?(:picture)}{
         <td>

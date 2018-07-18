@@ -27,6 +27,20 @@ p {
   height: 620px;
   margin: auto;
 }
+.no-cookies {
+  font-size: 80%;
+  position: absolute;
+  top: 10px;
+}
+.no-facebook {
+  text-align: right;
+  padding: 20px;
+  font-size: 90%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 200px;
+}
 #langs {
   font-size: 12px;
   text-align: right;

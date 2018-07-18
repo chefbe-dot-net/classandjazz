@@ -19,6 +19,7 @@
  </head>
   <body>
     <div class="container">
+      <p class="no-cookies">No cookies! No trackers!</p>
       <nav id="langs">
         <a ?{lang == 'nl'}{class="current"} href="${url}?lang=nl">nederlands</a>
         <span>&mdash;</span>
