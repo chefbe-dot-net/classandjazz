@@ -10,10 +10,6 @@
          <img src="/_assets/images/attitude.gif" width="200px" alt="Balletschool Attitude"/>
         </a>
         <br/>
-        <a target="_blank"
-            href="https://www.facebook.com/pages/CLASS-JAZZ/93805403066?fref=ts" title="Follow us on Facebook">
-          <img src="/_assets/images/follow-facebook.jpg" width="200px" alt="Follow us on Facebook"/>
-        </a>
       </td>
       ?{knows?(:picture)}{
         <td>
