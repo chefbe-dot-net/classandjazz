@@ -33,7 +33,7 @@ text:
     ## Andere Cursussen
     
     <b>Bijkomende semi-professionele ensemble opleidingen</b><br>
-    @{/pedagogy/}{CANDIDS / ARTISTS / FOLK-WORLD / STRINGS / JAZZ-FUSION}  
+    @{/pedagogy/}{CANDIDS / ARTISTS / JAZZ-FUSION}  
     	
     <b>Samenspel</b> (groesplessen)<br>
     @{/instruments/other-courses/}{Band-coaching} - 
@@ -84,7 +84,7 @@ text:
     ## Autres Cours
     
     <b> Formations supplémentaires semi-professionnelles d'ensemble</b><br>
-    @{/pedagogy/}{CANDIDS / ARTISTS / FOLK-WORLD / STRINGS / JAZZ-FUSION}  
+    @{/pedagogy/}{CANDIDS / ARTISTS / JAZZ-FUSION}  
     	
     <b>Cours d'Ensemble</b> (cours groupés)<br> 
     @{/instruments/other-courses/}{Band-coaching} - 
@@ -135,7 +135,7 @@ text:
     ## Other Courses
     
     <b> Additional semi-professional training in ensemble</b><br>
-    @{/pedagogy/}{CANDIDS / ARTISTS / FOLK-WORLD / STRINGS / JAZZ-FUSION}  
+    @{/pedagogy/}{CANDIDS / ARTISTS / JAZZ-FUSION}  
     	
     <b>Ensemble</b> (group lessons)<br>
     @{/instruments/other-courses/}{Band-coaching} - 
