@@ -25,7 +25,10 @@ text:
     klassieke gitaar, elektrische gitaar, folk gitaar & basgitaar, jazz zang, improvisatie, muziektheorie, jazz-harmonie, compositie & arrangement, gehoortraining, notenleer, band-coaching, jazz-rock-pop samenspel.
     
     ### @{/teachers/ellen/}{Ellen De Vlam}
-    piano, muziektheorie, gehoortraining, notenleer, samenspel 
+    piano, muziektheorie, gehoortraining, notenleer 
+    
+    ### @{/teachers/alexander/}{Alexander Nazimov}
+    piano, muziektheorie, gehoortraining, notenleer 
     
     ### @{/teachers/renke/}{Renke Van Impe}
     cello, contrabas, muziektheorie, gehoortraining, notenleer, samenspel/kamermuziek
@@ -60,7 +63,10 @@ text:
     guitare classique, guitare électrique, guitare folk, guitare basse, improvisation, chant jazz, théorie de la musique, harmonie jazz, composition & arrangement, entraînement de l’oreille, solfège, band-coaching, jeu d’ensemble jazz-rock-pop
     
     ### @{/teachers/ellen/}{Ellen De Vlam}
-    piano, théorie de la musique, entraînement de l’oreille, solfège, jeu d’ensemble  
+    piano, théorie de la musique, entraînement de l’oreille, solfège 
+    
+    ### @{/teachers/alexander/}{Alexander Nazimov}
+    piano, théorie de la musique, entraînement de l’oreille, solfège
     
     ### @{/teachers/renke/}{Renke Van Impe}
     violoncelle, contrebasse, théorie de la musique, entraînement de l’oreille, solfège, jeu d’ensemble/musique de chambre  
@@ -96,6 +102,9 @@ text:
     
     ### @{/teachers/ellen/}{Ellen De Vlam}
     piano, music theory, ear training, solfege, ensemble 
+    
+    ### @{/teachers/alexander/}{Alexander Nazimov}
+    piano, music theory, ear training, solfege, ensemble
     
     ### @{/teachers/renke/}{Renke Van Impe}
     cello, double bass, music theory, ear training, solfege, ensemble/chamber music  
