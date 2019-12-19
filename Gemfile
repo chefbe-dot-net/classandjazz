@@ -16,7 +16,7 @@ group :test do
 end
 
 group :production do
-  gem "rack", "= 1.5.2"
+  gem "rack", "1.6.12"
   gem "sinatra", "~> 1.3"
   gem "wlang", "~> 0.10.2"
   gem "kramdown", "~> 0.13.3"
