@@ -6,7 +6,7 @@ group :development do
   gem "epath", "~> 0.0.1"
   gem "grit", :git => "git://github.com/blambeau/grit.git"
   gem "websync", :git => "git://github.com/blambeau/websync.git"
-  gem "http", "~> 0.0.1"
+  gem "http", "~> 0.7.4"
   gem "launchy", "~> 2.0.5"
   gem "rake", "~> 0.9.2"
 end
