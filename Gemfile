@@ -8,7 +8,7 @@ group :development do
   gem "websync", :git => "git://github.com/blambeau/websync.git"
   gem "http", "~> 0.0.1"
   gem "launchy", "~> 2.0.5"
-  gem "rake", "~> 0.9.2"
+  gem "rake", "~> 13.0.1"
 end
 
 group :test do
