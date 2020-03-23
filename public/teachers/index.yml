@@ -39,6 +39,9 @@ text:
     ### @{/teachers/maxine/}{Maxine Dumont}
     pop zang
     
+    ### @{/teachers/kim/}{Kim Franck}
+    piano, muziektheorie, gehoortraining, notenleer 
+    
 
   fr: |-
     # Nos Professeurs
@@ -74,6 +77,8 @@ text:
     ### @{/teachers/maxine/}{Maxine Dumont}
     chant pop
     
+    ### @{/teachers/kim/}{Kim Franck}
+    piano, théorie de la musique, entraînement de l’oreille, solfège
         
   en: |-
     # Our Teachers
@@ -95,7 +100,7 @@ text:
     classical guitar, electric guitar, folk guitar, bass guitar, improvisation, jazz singing, music theory, jazz harmony, composition & arrangement, ear training, solfege, band-coaching, jazz-rock-pop ensemble
     
     ### @{/teachers/alexander/}{Alexander Nazimov}
-    piano, music theory, ear training, solfege, ensemble
+    piano, music theory, ear training, solfege
     
     ### @{/teachers/renke/}{Renke Van Impe}
     cello, double bass, music theory, ear training, solfege, ensemble/chamber music  
@@ -107,6 +112,9 @@ text:
     drums & percussions, solfege, band-coaching, jazz-rock-pop ensemble 
     
     ### @{/teachers/maxine/}{Maxine Dumont}
-    pop singing  
+    pop singing 
+    
+    ### @{/teachers/kim/}{Kim Franck}
+    piano, music theory, ear training, solfege 
         
 

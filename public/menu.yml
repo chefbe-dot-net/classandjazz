@@ -33,7 +33,9 @@ menu:
     * @{/teachers/renke/}{Renke Van Impe}
     * @{/teachers/tim/}{Tim Welkenhuysen}
     * @{/teachers/mathias/}{Mathias Ghesquière}
-    * @{/teachers/maxine/}{Maxine Dumont}    
+    * @{/teachers/maxine/}{Maxine Dumont} 
+    * @{/teachers/kim/}{Kim Franck}
+    
 
   fr: |-
     # @{/}{Class & Jazz}
@@ -69,7 +71,8 @@ menu:
     * @{/teachers/renke/}{Renke Van Impe}
     * @{/teachers/tim/}{Tim Welkenhuysen}
     * @{/teachers/mathias/}{Mathias Ghesquière}
-    * @{/teachers/maxine/}{Maxine Dumont}        
+    * @{/teachers/maxine/}{Maxine Dumont} 
+    * @{/teachers/kim/}{Kim Franck}        
 
   en: |-
     # @{/}{Class & Jazz}
@@ -105,5 +108,6 @@ menu:
     * @{/teachers/renke/}{Renke Van Impe}
     * @{/teachers/tim/}{Tim Welkenhuysen}
     * @{/teachers/mathias/}{Mathias Ghesquière}
-    * @{/teachers/maxine/}{Maxine Dumont}        
+    * @{/teachers/maxine/}{Maxine Dumont}  
+    * @{/teachers/kim/}{Kim Franck}       
 
