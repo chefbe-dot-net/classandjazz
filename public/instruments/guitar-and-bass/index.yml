@@ -16,7 +16,7 @@ text:
     
     <b>Leraars:</b><br>
     @{/teachers/michel/}{Michel Kuijken} - contact: 0494 17 55 83 – rhaute@gmail.com<br>
-    @{/teachers/arthur/}{Arthur Maes} - contact: 0472 27 59 34 – arthur_maes@linuxmail.org
+    @{/teachers/martin/}{Martin Michiels} - contact: 0479 33 56 37  – martin.michiels@gmail.com
     
     De lessen kunnen gegeven worden in het Nederlands, Frans of Engels. <br><br>
     
@@ -52,7 +52,7 @@ text:
     
     <b>Professeurs:</b><br>
     @{/teachers/michel/}{Michel Kuijken} - contact : 0494 17 55 83 – rhaute@gmail.com<br>
-    @{/teachers/arthur/}{Arthur Maes} - contact: 0472 27 59 34 – arthur_maes@linuxmail.org
+    @{/teachers/martin/}{Martin Michiels} - contact: 0479 33 56 37  – martin.michiels@gmail.com
     
     Les leçons peuvent être données en français, en néerlandais ou en anglais.<br><br>
     
@@ -88,7 +88,7 @@ text:
     
     <b>Teachers</b><br>
     @{/teachers/michel/}{Michel Kuijken} - contact: 0494 17 55 83 – rhaute@gmail.com<br>
-    @{/teachers/arthur/}{Arthur Maes} - contact: 0472 27 59 34 – arthur_maes@linuxmail.org
+    @{/teachers/martin/}{Martin Michiels} - contact: 0479 33 56 37  – martin.michiels@gmail.com
     
     Lessons can be followed in English, Dutch or French. <br><br>
     

@@ -25,15 +25,16 @@ menu:
 
     # @{/teachers/}{Leraars}
 
-    * @{/teachers/raph/}{Raphaël Van Goubergen}
+    * @{/teachers/raph/}{Raph Van Goubergen}
     * @{/teachers/michel/}{Michel Kuijken}
     * @{/teachers/andries/}{Andries Baele}
     * @{/teachers/arthur/}{Arthur Maes}
-    * @{/teachers/alexander/}{Alexander Nazimov}
-    * @{/teachers/renke/}{Renke Van Impe}
-    * @{/teachers/tim/}{Tim Welkenhuysen}
     * @{/teachers/mathias/}{Mathias Ghesquière}
+    * @{/teachers/renke/}{Renke Van Impe}
     * @{/teachers/maxine/}{Maxine Dumont} 
+    * @{/teachers/alexander/}{Alexander Nazimov}
+    * @{/teachers/tim/}{Tim Welkenhuysen}
+    * @{/teachers/martin/}{Martin Michiels}
     * @{/teachers/kim/}{Kim Franck}
     
 
@@ -63,16 +64,17 @@ menu:
 
     # @{/teachers/}{Professeurs}
 
-    * @{/teachers/raph/}{Raphaël Van Goubergen}
+    * @{/teachers/raph/}{Raph Van Goubergen}
     * @{/teachers/michel/}{Michel Kuijken}
     * @{/teachers/andries/}{Andries Baele}
     * @{/teachers/arthur/}{Arthur Maes}
-    * @{/teachers/alexander/}{Alexander Nazimov}
-    * @{/teachers/renke/}{Renke Van Impe}
-    * @{/teachers/tim/}{Tim Welkenhuysen}
     * @{/teachers/mathias/}{Mathias Ghesquière}
+    * @{/teachers/renke/}{Renke Van Impe}
     * @{/teachers/maxine/}{Maxine Dumont} 
-    * @{/teachers/kim/}{Kim Franck}        
+    * @{/teachers/alexander/}{Alexander Nazimov}
+    * @{/teachers/tim/}{Tim Welkenhuysen}
+    * @{/teachers/martin/}{Martin Michiels}
+    * @{/teachers/kim/}{Kim Franck}
 
   en: |-
     # @{/}{Class & Jazz}
@@ -100,14 +102,15 @@ menu:
 
     # @{/teachers/}{Teachers}
 
-    * @{/teachers/raph/}{Raphaël Van Goubergen}
+    * @{/teachers/raph/}{Raph Van Goubergen}
     * @{/teachers/michel/}{Michel Kuijken}
     * @{/teachers/andries/}{Andries Baele}
     * @{/teachers/arthur/}{Arthur Maes}
-    * @{/teachers/alexander/}{Alexander Nazimov}
-    * @{/teachers/renke/}{Renke Van Impe}
-    * @{/teachers/tim/}{Tim Welkenhuysen}
     * @{/teachers/mathias/}{Mathias Ghesquière}
-    * @{/teachers/maxine/}{Maxine Dumont}  
-    * @{/teachers/kim/}{Kim Franck}       
+    * @{/teachers/renke/}{Renke Van Impe}
+    * @{/teachers/maxine/}{Maxine Dumont} 
+    * @{/teachers/alexander/}{Alexander Nazimov}
+    * @{/teachers/tim/}{Tim Welkenhuysen}
+    * @{/teachers/martin/}{Martin Michiels}
+    * @{/teachers/kim/}{Kim Franck}
 
