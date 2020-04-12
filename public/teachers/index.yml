@@ -18,12 +18,6 @@ text:
     Pedagogische en artistieke verantwoordelijke <br>
     <b>Contact Michel:</b> 0494 17 55 83 – @{mailto:rhaute@gmail.com}{rhaute@gmail.com} - <b>@{http://users.coditel.net/mk/indexnl.html}{Website Michel}</b>	
     
-    ### @{/teachers/andries/}{Andries Baele}
-    klassieke viool, folk viool, jazz viool, elektrische viool, piano, improvisatie (alle instrumenten), muziektheorie, jazz-harmonie, klassieke harmonie, compositie & arrangement, gehoortraining, notenleer, band-coaching, klassiek samenspel, jazz-rock-pop samenspel
-    
-    ### @{/teachers/arthur/}{Arthur Maes}
-    klassieke gitaar, elektrische gitaar, folk gitaar & basgitaar, jazz zang, improvisatie, muziektheorie, jazz-harmonie, compositie & arrangement, gehoortraining, notenleer, band-coaching, jazz-rock-pop samenspel.
-    
     ### @{/teachers/mathias/}{Mathias Ghesquière}
     drums & percussie, notenleer, piano, band-coaching, jazz-rock-pop samenspel
     
@@ -43,7 +37,12 @@ text:
     klassieke gitaar, elektrische gitaar, folk gitaar & basgitaar, jazz zang, improvisatie, muziektheorie, jazz-harmonie, compositie & arrangement, gehoortraining, notenleer, band-coaching, jazz-rock-pop samenspel.
     
     ### @{/teachers/kim/}{Kim Franck}
-    piano, muziektheorie, gehoortraining, notenleer 
+    piano, muziektheorie, gehoortraining, notenleer, klassiek samenspel, jazz-rock-pop samenspel , improvisatie, band-coaching, compositie & arrangement
+    
+    ### @{/teachers/frederik/}{Frederik Claes}
+    klassieke viool, folk viool, jazz viool, elektrische viool, piano, improvisatie (alle instrumenten), muziektheorie, jazz-harmonie, klassieke harmonie, compositie & arrangement, gehoortraining, notenleer, band-coaching, klassiek samenspel, jazz-rock-pop samenspel
+    
+
     
 
   fr: |-
@@ -58,12 +57,6 @@ text:
     guitare classique, guitare électrique, guitare folk, guitare basse, improvisation (tous les instruments), chant jazz, informatique musicale, production musicale, théorie de la musique, harmonie jazz, composition & arrangement, entraînement de l’oreille, solfège, band-coaching, jeu d’ensemble classique, jeu d’ensemble jazz-rock-pop<br><br>
     Responsable pédagogique et artistique <br>
     <b>Contact Michel:</b> 0494 17 55 83 – @{mailto:rhaute@gmail.com}{rhaute@gmail.com} - <b>@{http://users.coditel.net/mk/}{Website Michel}</b>
-    
-    ### @{/teachers/andries/}{Andries Baele}
-    violon classique, violon folk, violon jazz, violon électrique, piano, improvisation (tous les instruments), théorie de la musique, harmonie jazz, harmonie classique, composition & arrangement, entraînement de l’oreille, solfège, band-coaching, jeu d’ensemble classique, jeu d’ensemble jazz-rock-pop
-    
-    ### @{/teachers/arthur/}{Arthur Maes}
-    guitare classique, guitare électrique, guitare folk, guitare basse, improvisation, chant jazz, théorie de la musique, harmonie jazz, composition & arrangement, entraînement de l’oreille, solfège, band-coaching, jeu d’ensemble jazz-rock-pop
     
     ### @{/teachers/mathias/}{Mathias Ghesquière}
     batterie & percussions, solfège, band-coaching, jeu d’ensemble jazz-rock-pop
@@ -84,7 +77,10 @@ text:
     guitare classique, guitare électrique, guitare folk, guitare basse, improvisation, chant jazz, théorie de la musique, harmonie jazz, composition & arrangement, entraînement de l’oreille, solfège, band-coaching, jeu d’ensemble jazz-rock-pop
     
     ### @{/teachers/kim/}{Kim Franck}
-    piano, théorie de la musique, entraînement de l’oreille, solfège
+    piano, théorie de la musique, entraînement de l’oreille, solfège, ensemble classique, ensemble jazz-rock-pop, improvisation, band-coaching, composition & arrangement
+    
+    ### @{/teachers/frederik/}{Frederik Claes}
+    violon classique, violon folk, violon jazz, violon électrique, piano, improvisation (tous les instruments), théorie de la musique, harmonie jazz, harmonie classique, composition & arrangement, entraînement de l’oreille, solfège, band-coaching, jeu d’ensemble classique, jeu d’ensemble jazz-rock-pop
         
   en: |-
     # Our Teachers
@@ -98,12 +94,6 @@ text:
     classical guitar, electric guitar, folk guitar, bass guitar, improvisation (all instruments), jazz singing, music & computers, music production, music theory, jazz harmony, composition & arrangement, ear training, solfege, band-coaching, classical ensemble, jazz-rock-pop ensemble<br><br>
     Pedagogical and artistic manager <br>
     <b>Contact Michel:</b> 0494 17 55 83 – @{mailto:rhaute@gmail.com}{rhaute@gmail.com} - <b>@{http://users.coditel.net/mk/indexnl.html}{Website Michel}</b>
-    
-    ### @{/teachers/andries/}{Andries Baele}
-    classical violin, folk violin, jazz violin, electric violin, piano, improvisation (all instruments), music theory, jazz harmony, classical harmony, composition & arrangement, ear training, solfege, band-coaching, classical ensemble, jazz-rock-pop ensemble
-    
-    ### @{/teachers/arthur/}{Arthur Maes}
-    classical guitar, electric guitar, folk guitar, bass guitar, improvisation, jazz singing, music theory, jazz harmony, composition & arrangement, ear training, solfege, band-coaching, jazz-rock-pop ensemble
     
     ### @{/teachers/mathias/}{Mathias Ghesquière}
     drums & percussions, solfege, band-coaching, jazz-rock-pop ensemble 
@@ -124,6 +114,10 @@ text:
     classical guitar, electric guitar, folk guitar, bass guitar, improvisation, jazz singing, music theory, jazz harmony, composition & arrangement, ear training, solfege, band-coaching, jazz-rock-pop ensemble
     
     ### @{/teachers/kim/}{Kim Franck}
-    piano, music theory, ear training, solfege 
+    piano, music theory, ear training, solfege, classical ensemble, jazz-rock-pop ensemble , improvisation, band-coaching, composition & arrangement
+    
+    ### @{/teachers/frederik/}{Frederik Claes}
+    classical violin, folk violin, jazz violin, electric violin, piano, improvisation (all instruments), music theory, jazz harmony, classical harmony, composition & arrangement, ear training, solfege, band-coaching, classical ensemble, jazz-rock-pop ensemble
+    
         
 

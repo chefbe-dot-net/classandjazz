@@ -27,8 +27,6 @@ menu:
 
     * @{/teachers/raph/}{Raph Van Goubergen}
     * @{/teachers/michel/}{Michel Kuijken}
-    * @{/teachers/andries/}{Andries Baele}
-    * @{/teachers/arthur/}{Arthur Maes}
     * @{/teachers/mathias/}{Mathias Ghesquière}
     * @{/teachers/renke/}{Renke Van Impe}
     * @{/teachers/maxine/}{Maxine Dumont} 
@@ -36,6 +34,7 @@ menu:
     * @{/teachers/tim/}{Tim Welkenhuysen}
     * @{/teachers/martin/}{Martin Michiels}
     * @{/teachers/kim/}{Kim Franck}
+    * @{/teachers/frederik/}{Frederik Claes}
     
 
   fr: |-
@@ -66,8 +65,6 @@ menu:
 
     * @{/teachers/raph/}{Raph Van Goubergen}
     * @{/teachers/michel/}{Michel Kuijken}
-    * @{/teachers/andries/}{Andries Baele}
-    * @{/teachers/arthur/}{Arthur Maes}
     * @{/teachers/mathias/}{Mathias Ghesquière}
     * @{/teachers/renke/}{Renke Van Impe}
     * @{/teachers/maxine/}{Maxine Dumont} 
@@ -75,6 +72,7 @@ menu:
     * @{/teachers/tim/}{Tim Welkenhuysen}
     * @{/teachers/martin/}{Martin Michiels}
     * @{/teachers/kim/}{Kim Franck}
+    * @{/teachers/frederik/}{Frederik Claes}
 
   en: |-
     # @{/}{Class & Jazz}
@@ -104,8 +102,6 @@ menu:
 
     * @{/teachers/raph/}{Raph Van Goubergen}
     * @{/teachers/michel/}{Michel Kuijken}
-    * @{/teachers/andries/}{Andries Baele}
-    * @{/teachers/arthur/}{Arthur Maes}
     * @{/teachers/mathias/}{Mathias Ghesquière}
     * @{/teachers/renke/}{Renke Van Impe}
     * @{/teachers/maxine/}{Maxine Dumont} 
@@ -113,4 +109,5 @@ menu:
     * @{/teachers/tim/}{Tim Welkenhuysen}
     * @{/teachers/martin/}{Martin Michiels}
     * @{/teachers/kim/}{Kim Franck}
+    * @{/teachers/frederik/}{Frederik Claes}
 
