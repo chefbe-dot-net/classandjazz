@@ -2,7 +2,7 @@ source :rubygems
 
 group :development do
   gem "wlang", "~> 0.10.2"
-  gem "kramdown", "~> 0.13.3"
+  gem "kramdown", "~> 2.3.0"
   gem "epath", "~> 0.0.1"
   gem "grit", :git => "git://github.com/blambeau/grit.git"
   gem "websync", :git => "git://github.com/blambeau/websync.git"
@@ -19,7 +19,7 @@ group :production do
   gem "rack", "= 1.5.2"
   gem "sinatra", "~> 1.3"
   gem "wlang", "~> 0.10.2"
-  gem "kramdown", "~> 0.13.3"
+  gem "kramdown", "~> 2.3.0"
   gem "epath", "~> 0.0.1"
   gem "grit", :git => "git://github.com/blambeau/grit.git"
   gem "websync", :git => "git://github.com/blambeau/websync.git"
