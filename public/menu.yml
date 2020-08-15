@@ -1,5 +1,10 @@
 menu:
   nl: |-
+    # @{/corona}{Corona Maatregelen}
+    
+    * @{/corona/online/}{Online Lessen}
+    * @{/corona/contact/}{Live Contact Lessen}
+    
     # @{/}{Class & Jazz}
 
     * @{/philosophy/}{Filosofie}
@@ -38,6 +43,11 @@ menu:
     
 
   fr: |-
+    # @{/corona}{Mesures Corona}
+    
+    * @{/corona/online/}{Cours en Ligne}
+    * @{/corona/contact/}{Cours en Contact Direct}
+    
     # @{/}{Class & Jazz}
 
     * @{/philosophy/}{Philosophie}
@@ -75,6 +85,11 @@ menu:
     * @{/teachers/frederik/}{Frederik Claes}
 
   en: |-
+    # @{/corona}{Corona Measures}
+    
+    * @{/corona/online/}{Online Lessons}
+    * @{/corona/contact/}{Live Contact Lessons}
+        
     # @{/}{Class & Jazz}
 
     * @{/philosophy/}{Philosophy}

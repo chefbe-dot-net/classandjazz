@@ -1,0 +1,135 @@
+template: page
+partition: body_and_soul.gif
+title:
+  nl: Contact lessen
+  fr: Cours en contact
+  en: Contact lessons
+text:
+  nl: |-
+    # Live Contactlessen
+    
+    <b>Alle samenspellessen</b> live bij Class & Jazz (lokaal Birdland)<br>
+    <b>Individuele live contactlessen</b> enkel mogelijk op afspraak …<br>
+    … bij Class & Jazz (lokaal Birdland), na overleg met de leraar EN Raph.<br>
+    … bij de leraar thuis, na overleg met de leraar.
+    
+    ## veiligheidsmaatregelen
+    Volgende veiligheidsregels dienen steeds strikt gerespecteerd te worden.
+    
+    <b>Klassieke maatregelen</b><br>
+    •	Bij het <i>minste</i> vermoeden van ziekte, blijf thuis!<br>
+    •	Handen wassen voor vertrek thuis EN ter plaatse ontsmetten (handgel aanwezig in lokaal)<br>
+    •	Afstand houden (minimum 1,5 meter, maar liefst 2m of zelfs meer)<br>
+    •	Fysiek contact niet toegelaten (of tenminste beperkt tot strikte noodzaak)<br>
+    •	Mondmasker aan bij aankomst en vertrek<br><br>
+    
+    <b>Specifieke maatregelen</b><br><br>
+    •	Wacht steeds jouw lesbeurt af buitenhuis!
+    
+    •	Het gebruik van een mondmasker tijdens de les zelf is niet verplicht, maar uiteraard wel toegelaten, en soms misschien zelfs aangeraden. Gebruik je gezond verstand!
+    
+    •	Raam(en) blijft (blijven) open gedurende de volledige les(sen), ook op koude dagen.
+    
+    •	De opstelling van de muzikant(en) moet de veilige afstand garanderen.
+    Zangers en blazers mogen hun zang en spel NIET richten naar anderen. Speel (zing) met je rug naar anderen.
+    
+    •	De leraar gebruikt waar nodig een microfoon om te voorkomen dat hij/zij de stem zou moeten verheffen.
+    
+    •	De leerling (de leraar, iedereen) breng steeds zijn <b>eigen</b> materiaal/instrument mee. <br>
+    (behalve: piano, drums, gitaarversterking)
+    
+    * <b>Blazers/zangers: eigen popfilter</b> (voorbeeld/tip: @{https://www.musicstore.com/nl_BE/EUR/Fame-Audio-Triple-Pop-3-fach-Popfilter/art-REC0014023-000}{popfilter}). 
+    Vervangt het mondmasker, om verspreiding van druppeltjes te voorkomen. Het wordt bevestigd op een microfoonstand (ter plaatse aanwezig), en wordt tijdens het spelen op maximaal 20 cm van de mond gehouden. <br>    
+    * <b>Blazers: eigen paviljoendoek</b>. Het paviljoen van het blaasinstrument moet worden bedekt met een dicht geweven doek/vod om verspreiding van druppeltjes te voorkomen.<br>
+    * <b>Drummers: eigen drumstokken</b><br>
+    * <b>Iedereen: eigen partituren en accessoires</b>. Partituren, agenda’s en/of ander materiaal worden niet doorgegeven tussen leraar en leerling.<br>
+    * <b>Iedereen: eigen vod</b> om het gebruikte instrument/materiaal vooraf en achteraf op te kuisen. Ter plaatse zal het nodige ontsmettingsmiddel aanwezig zijn om de vod te kunnen bevochtigen.
+    NOOIT rechtstreeks op het instrument spuiten!!<br>
+    * <b>Zangers</b> (enkel bij samenspel): <b>eigen microfoon</b> <br>
+    * <b>Violisten</b> (enkel bij samenspel): <b>eigen clipmicrofoon</b> <br>
+
+  fr: |-
+    # Cours en Contact Direct
+    
+    <b> Tous les cours d'ensemble </b> en direct à Class & Jazz (Birdland local) <br>
+    <b> Cours individuels en direct </b> possibles uniquement sur rendez-vous… <br>
+    … chez Class & Jazz (local Birdland), après consultation avec le professeur ET Raph. <br>
+    … chez l'enseignant, après consultation avec le professeur.
+    
+    ## précautions de sécurité
+    Les règles de sécurité suivantes doivent toujours être strictement respectées.
+    
+    <b> Mesures classiques </b> <br>
+    • Au <i> moindre </i> soupçon de maladie, restez chez vous! <br>
+    • Se laver les mains avant de quitter la maison ET désinfecter sur place (gel désinfectant disponible sur place) <br>
+    • Gardez votre distance (minimum 1,5 mètre, de préférence 2 m ou même plus) <br>
+    • Contact physique interdit (ou du moins limité au stricte nécessaire) <br>
+    • Port du masque à l'arrivée et au départ <br> <br>
+    
+    <b> Mesures spécifiques </b> <br> <br>
+    • Toujours attendre son tour de cours à l'extérieur du bâtiment !
+    
+    • Le port du masque n'est pas obligatoire pendant le cours, mais il est bien sûr autorisé, et parfois même recommandé. Utilisez votre bon sens!
+    
+    • Fenêtre(s) ouverte(s) durant le cours entier, même en hiver.
+    
+    • La disposition du (des) musicien(s) doit garantir la distance de sécurité.
+    Les chanteurs et les souffleurs ne doivent PAS diriger leur chant et leur jeu vers les autres. Jouez (chantez) dos aux autres.
+    
+    • L'enseignant utilise un microphone si nécessaire pour éviter d'élever la voix.
+    
+    • L'élève (l'enseignant, tout le monde) apporte toujours son <b> propre </b> matériel/instrument. <br>
+    (sauf: piano, batterie, amplification de guitare)
+    
+    * <b> Souffleurs/chanteurs: son propre filtre anti-pop </b> (exemple: @{https://www.musicstore.com/fr_BE/EUR/Fame-Audio-Triple-Pop-3-fach-Popfilter/art-REC0014023-000}{filtre anti-pop}).
+    Remplace le masque afin d'éviter de se répandre des gouttelettes . Il est monté sur un pied de micro (disponible sur place) et se tient à maximum 20 cm de la bouche pendant le jeu. <br>
+    * <b> Souffleurs: son propre tissu de pavillon </b>. Le pavillon de l'instrument à vent doit être recouvert d'un chiffon étroitement tissé pour éviter de répandre des gouttelettes. <br>
+    * <b> Batteurs: ses propres baguettes </b> <br>
+    * <b> Tout le monde: ses propres partitions et accessoires </b>. Les partitions, agendas et/ou tout autres matériels ne peuvent être transmis entre l'enseignant et l'élève. <br>
+    * <b> Tout le monde: son propre chiffon </b> pour nettoyer l'instrument/le matériel utilisé, avant et après. Le désinfectant nécessaire sera disponible sur place pour humidifier le chiffon.
+    NE JAMAIS vaporiser directement sur l'instrument !! <br>
+    * <b> Chanteurs </b> (uniquement en jeu d'ensemble): <b> son propre micro </b> <br>
+    * <b> Violonistes </b> (uniquement en jeu d'ensemble): <b> son propre micro-clip </b> <br>
+
+  en: |-
+    # Live Contact Lessons
+    
+    <b> All ensemble lessons </b> live at Class & Jazz (local Birdland) <br>
+    <b> Individual live contact lessons </b> only possible by appointment… <br>
+    … at Class & Jazz (local Birdland), after consultation with the teacher AND Raph. <br>
+    … at the teacher's home, after consultation with the teacher.
+    
+    ## safety precautions
+    The following safety rules must always be strictly observed.
+    
+    <b> Classic measures </b> <br>
+    • At the <i> slightest </i> suspicion of illness, stay at home! <br>
+    • Wash hands before leaving home AND disinfect on site (hand gel available on site) <br>
+    • Keep your distance (minimum 1.5 meters, preferably 2m and even more) <br>
+    • Physical contact not allowed (or at least limited to strict necessity) <br>
+    • Mask on arrival and departure <br> <br>
+    
+    <b> Specific measures </b> <br> <br>
+    • Always wait for your turn outside the house!
+    
+    • The use of a mouth mask during the lesson itself is not mandatory, but it is of course allowed, and sometimes even recommended. Use your common sense !
+    
+    • Window (s) remain open during the entire lesson (s), also on cold days.
+    
+    • The arrangement of the musician(s) must guarantee the safe distance.
+    Singers and horns should NOT direct their singing and playing to others. Play (sing) with your back to others.
+    
+    • The teacher uses a microphone where necessary to avoid raising the voice.
+    
+    • The student (the teacher, everyone) always brings his <b> own </b> material/instrument. <br>
+    (except: piano, drums, guitar amplification)
+    
+    * <b> Wind instruments/singers: own pop filter </b> (example/tip: @{https://www.musicstore.com/en_US/USD/Fame-Audio-Triple-Pop-3-fach-Popfilter/art-REC0014023-000}{pop filter}).
+    Replaces the mouth mask to prevent droplets from spreading. It is mounted on a microphone stand (available on site), and is held no more than 20 cm from the mouth during play. <br>
+    * <b> Wind instruments: own bell cloth</b>. The bell of the wind instrument should be covered with a tightly woven cloth/rag to avoid spreading droplets. <br>
+    * <b> Drummers: own drumsticks </b> <br>
+    * <b> Everyone: own scores and accessories</b>. Scores, agendas and/or other materials are not passed between teacher and student. <br>
+    * <b> Everyone: own rag </b> to clean up the used instrument/material before and afterwards. The necessary disinfectant will be available on site to moisten the rag.
+    NEVER spray directly on the instrument !! <br>
+    * <b> Singers </b> (only when playing together): <b> own microphone </b> <br>
+    * <b> Violinists </b> (only when playing together): <b> own clip microphone </b> <br>
