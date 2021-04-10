@@ -22,8 +22,6 @@ menu:
     * @{/instruments/guitar-and-bass/}{Gitaar}
     * @{/instruments/violin/}{Viool}
     * @{/instruments/drums-and-percussions/}{Drums & Percussie}
-    * @{/instruments/cello/}{Cello}
-    * @{/instruments/double-bass/}{Contrabas}
     * @{/instruments/singing/}{Zang}
     * @{/instruments/other-instruments/}{Andere Instrumenten}
     * @{/instruments/other-courses/}{Andere Cursussen}
@@ -33,7 +31,6 @@ menu:
     * @{/teachers/raph/}{Raph Van Goubergen}
     * @{/teachers/michel/}{Michel Kuijken}
     * @{/teachers/mathias/}{Mathias Ghesquière}
-    * @{/teachers/renke/}{Renke Van Impe}
     * @{/teachers/maxine/}{Maxine Dumont} 
     * @{/teachers/alexander/}{Alexander Nazimov}
     * @{/teachers/tim/}{Tim Welkenhuysen}
@@ -65,8 +62,6 @@ menu:
     * @{/instruments/guitar-and-bass/}{Guitare}
     * @{/instruments/violin/}{Violon}
     * @{/instruments/drums-and-percussions/}{Batterie & Percussions}
-    * @{/instruments/cello/}{Violoncelle}
-    * @{/instruments/double-bass/}{Contrebasse}
     * @{/instruments/singing/}{Chant}
     * @{/instruments/other-instruments/}{Autres Instruments}
     * @{/instruments/other-courses/}{Autres cours}
@@ -76,7 +71,6 @@ menu:
     * @{/teachers/raph/}{Raph Van Goubergen}
     * @{/teachers/michel/}{Michel Kuijken}
     * @{/teachers/mathias/}{Mathias Ghesquière}
-    * @{/teachers/renke/}{Renke Van Impe}
     * @{/teachers/maxine/}{Maxine Dumont} 
     * @{/teachers/alexander/}{Alexander Nazimov}
     * @{/teachers/tim/}{Tim Welkenhuysen}
@@ -107,8 +101,6 @@ menu:
     * @{/instruments/guitar-and-bass/}{Guitar}
     * @{/instruments/violin/}{Violin}
     * @{/instruments/drums-and-percussions/}{Drums & Percussion}
-    * @{/instruments/cello/}{Cello}
-    * @{/instruments/double-bass/}{Double Bass}
     * @{/instruments/singing/}{Singing}
     * @{/instruments/other-instruments/}{Other Instruments}
     * @{/instruments/other-courses/}{Other courses}
@@ -118,7 +110,6 @@ menu:
     * @{/teachers/raph/}{Raph Van Goubergen}
     * @{/teachers/michel/}{Michel Kuijken}
     * @{/teachers/mathias/}{Mathias Ghesquière}
-    * @{/teachers/renke/}{Renke Van Impe}
     * @{/teachers/maxine/}{Maxine Dumont} 
     * @{/teachers/alexander/}{Alexander Nazimov}
     * @{/teachers/tim/}{Tim Welkenhuysen}
