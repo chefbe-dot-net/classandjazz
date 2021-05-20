@@ -29,21 +29,36 @@ partners:
         * Conditiejazz
 
         @{http://www.balletschoolattitude.be/}{www.balletschoolattitude.be}
+  - title: Piano & Chords
+    picture: pianospelen.gif
+    website: 
+    text:
+      fr: |-
+        Manuel pour pianistes débutants<br><br>
+        @{/_assets/images/Jouer le piano avec des accords - Notes de musique pour les pianistes.pdf}{Jouer le piano avec des accords - Notes de musique<br> pour les pianistes (téléchargement gratuit)}
+    
+      en: |-
+        Handbook for beginning pianists<br><br>
+        @{/_assets/images/Playing the piano with chords - Note reading for pianists.pdf}{Playing the piano with chords<br> - Note reading for pianists (free download)}
+    
+      nl: |-
+        Handboek voor beginnende pianisten<br>  
+        @{/_assets/images/Pianospelen met Akkoorden - Notenleer voor Pianisten.pdf}{Pianospelen met Akkoorden<br> - Notenleer voor Pianisten (free download)}
   - title: Parent Scales & Chord Scales
     picture: parent.gif
     website: https://sites.google.com/view/parent-scales-and-chord-scales/home
     text:
       fr: |-
         Livre sur l'Harmonie Jazz et la Théorie Musicale<br><br>
-        @{https://sites.google.com/view/parent-scales-and-chord-scales/home}{PARENT SCALES and CHORD SCALES (free download)}
+        @{/_assets/images/PARENT SCALES and CHORD SCALES - 3rd edition.pdf}{PARENT SCALES and CHORD SCALES (free download)}
     
       en: |-
         Jazz Harmony and Music Theory book<br><br>
-        @{https://sites.google.com/view/parent-scales-and-chord-scales/home}{PARENT SCALES and CHORD SCALES (free download)}
+        @{/_assets/images/PARENT SCALES and CHORD SCALES - 3rd edition.pdf}{PARENT SCALES and CHORD SCALES (free download)}
     
       nl: |-
         Boek over Jazz Harmonie en Muziek Theorie<br>    
-        @{https://sites.google.com/view/parent-scales-and-chord-scales/home}{PARENT SCALES and CHORD SCALES (free download)}
+        @{/_assets/images/PARENT SCALES and CHORD SCALES - 3rd edition.pdf}{PARENT SCALES and CHORD SCALES (free download)}
     
   - title: Masala
     picture: masala.gif
