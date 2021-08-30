@@ -11,7 +11,9 @@ text:
   nl: |-
     # Pop en Jazz Zang
     
-    Een opleiding zang is mogelijk vanaf 10 jaar.
+    Een opleiding zang is mogelijk vanaf 10 jaar.<br><br>
+    Voor info en tarieven: @{mailto:info@classandjazz.be}{vraag een gratis proefles aan (via e-mail)}. 
+    Deze eerste kennismakingsles laat ons toe om samen met u te bekijken welk project het beste bij u past.<br><br>
     
     <b>Leraars Zang:</b><br> 
     @{/teachers/raph/}{Raph Van Goubergen} - contact: 0486 11 95 66 – raphvangoubergen@telenet.be <br>
@@ -25,7 +27,9 @@ text:
   fr: |-
     # Chant Pop et Jazz
     
-    Les cours de chant sont possibles à partir de 10 ans.
+    Les cours de chant sont possibles à partir de 10 ans.<br><br>
+    Pour infos et tarifs @{mailto:info@classandjazz.be}{demandez une leçon à l'essai gratuite (par e-mail)}.<br>
+    Ce premier contact nous permet de définir, avec vous, le projet qui vous convient le mieux.<br><br>
     
     <b>Professeurs de Chant:</b><br> 
     @{/teachers/raph/}{Raph Van Goubergen} - contact: 0486 11 95 66 – raphvangoubergen@telenet.be <br>
@@ -39,7 +43,8 @@ text:
   en: |-
     # Pop and Jazz Singing
     
-    Singing lessons are possible from the age of 10 years old.
+    Singing lessons are possible from the age of 10 years old.<br><br>
+    For info and prices, @{mailto:info@classandjazz.be}{request a free trial lesson (by email)}. <br>This first contact allows us to define, with you, the project that is best fit for you.<br><br>
     
     <b>Teachers Singing:</b><br> 
     @{/teachers/raph/}{Raph Van Goubergen} - contact: 0486 11 95 66 – raphvangoubergen@telenet.be <br>

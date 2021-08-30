@@ -89,9 +89,9 @@ text:
     	
     Wenst u meer informatie over reeds bestaande cursussen? Wenst u op de hoogte gehouden te worden van nieuwe cursussen? @{mailto:info@classandjazz.be}{Laat het ons weten.}
     
-    Zie ook onze @{/instruments/}{instrumentlessen}.
-    
-    Voor tarieven, gelieve @{mailto:info@classandjazz.be}{contact} op te nemen.
+    Zie ook onze @{/instruments/}{instrumentlessen}.<br><br>
+    Voor info en tarieven: @{mailto:info@classandjazz.be}{vraag een gratis proefles aan (via e-mail)}. 
+    Deze eerste kennismakingsles laat ons toe om samen met u te bekijken welk project het beste bij u past.<br><br>
 
   fr: |-
     # Autres cours et sujets pour cours groupés
@@ -174,9 +174,9 @@ text:
     
     Désirez-vous des informations à propos de cours existants? Désirez-vous être tenu au courant de nouveaux cours? @{mailto:info@classandjazz.be}{Faites-le nous savoir.} 
     
-    Voir aussi nos @{/instruments/}{cours d'instrument}.
-    
-    Pour les tarifs, n’hésitez pas à @{mailto:info@classandjazz.be}{prendre contact}.
+    Voir aussi nos @{/instruments/}{cours d'instrument}.<br><br>
+    Pour infos et tarifs @{mailto:info@classandjazz.be}{demandez une leçon à l'essai gratuite (par e-mail)}.<br>
+    Ce premier contact nous permet de définir, avec vous, le projet qui vous convient le mieux.<br><br>
 
   en: |-
     # Other courses and topics for group lessons 
@@ -256,7 +256,6 @@ text:
     
     Would you like more information about existing courses? Would you like to be kept informed about new courses? @{mailto:info@classandjazz.be}{Please, let us know.} 
     
-    Please, also read about our @{/instruments/}{instrument lessons}.
-    
-    For prices, please @{mailto:info@classandjazz.be}{contact us}.
+    Please, also read about our @{/instruments/}{instrument lessons}.<br><br>
+    For info and prices, @{mailto:info@classandjazz.be}{request a free trial lesson (by email)}. <br>This first contact allows us to define, with you, the project that is best fit for you.<br><br>
 

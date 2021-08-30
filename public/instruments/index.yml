@@ -8,8 +8,9 @@ text:
   nl: |-
     # Onze Cursussen
     
-    CLASS & JAZZ biedt opleidingen aan voor kinderen en volwassenen. <br>
-    Voor tarieven, gelieve @{mailto:info@classandjazz.be}{contact} op te nemen.
+    CLASS & JAZZ biedt opleidingen aan voor kinderen en volwassenen. <br><br>
+    Voor info en tarieven: @{mailto:info@classandjazz.be}{vraag een gratis proefles aan (via e-mail)}. 
+    Deze eerste kennismakingsles laat ons toe om samen met u te bekijken welk project het beste bij u past.<br>
     
     ## Instrumenten
     
@@ -56,8 +57,9 @@ text:
   fr: |-
     # Nos Cours
     
-    CLASS & JAZZ offre des cours pour enfants et adultes. <br>
-    Pour les tarifs, n’hésitez pas à @{mailto:info@classandjazz.be}{nous contacter}.
+    CLASS & JAZZ offre des cours pour enfants et adultes. <br><br>
+    Pour infos et tarifs @{mailto:info@classandjazz.be}{demandez une leçon à l'essai gratuite (par e-mail)}.<br>
+    Ce premier contact nous permet de définir, avec vous, le projet qui vous convient le mieux.<br><br>
     
     ## Les Cours d'Instrument
     
@@ -104,8 +106,9 @@ text:
   en: |-
     # Our Courses 
     
-    CLASS & JAZZ offers courses for children and adults. <br>
-    For prices, please @{mailto:info@classandjazz.be}{contact us}.
+    CLASS & JAZZ offers courses for children and adults.<br><br>
+    For info and prices, @{mailto:info@classandjazz.be}{request a free trial lesson (by email)}. <br>
+    This first contact allows us to define, with you, the project that is best fit for you.<br><br>
     
     ## Instruments
     

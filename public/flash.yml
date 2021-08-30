@@ -1,6 +1,6 @@
 text:
   nl: |-
-    @{/subscribing/}{Inschrijven} kan op elk moment in het jaar. Neem vrijblijvend @{mailto:info@classandjazz.be}{contact} op voor meer info.
+    @{/subscribing/}{Inschrijven} kan op elk moment in het jaar. @{mailto:info@classandjazz.be}{Vraag een gratis proefles aan (via e-mail)}.
     
     <b>Corona update</b>: Er zijn (tot nader orde) geen beperkingen meer op Live Contact Lessen !<br><br>
         
@@ -42,9 +42,9 @@ text:
     
   fr: |-
     Les @{/subscribing/}{inscriptions} sont possibles à tout moment de l'année. 
-    <br>@{mailto:info@classandjazz.be}{Contactez-nous} pour plus d'informations.<br>
+    <br>@{mailto:info@classandjazz.be}{Demandez une leçon à l'essai gratuite (par e-mail)}.<br>
     
-    <b>Corona update </b>: Il n'y a (jusqu'à nouvel ordre) plus de restrictions sur les Cours en Contact Direct !<br><br>
+    <b>Corona update </b>:<br> Il n'y a (jusqu'à nouvel ordre) plus de restrictions sur les Cours en Contact Direct !<br><br>
     
     <b>NOUVEAUX LIVRES ! <br>
     @{/_assets/images/Jouer le piano avec des accords - Notes de musique pour les pianistes.pdf}{Jouer le piano avec des accords - Notes de musique pour les pianistes (téléchargement gratuit)}</b><br>
@@ -85,7 +85,7 @@ text:
 
   en: |-
     @{/subscribing/}{Subscriptions} are possible at any time of the year.
-    <br>Please @{mailto:info@classandjazz.be}{contact us} for more information.<br>
+    @{mailto:info@classandjazz.be}{Request a free trial lesson (by email)}.<br>
     
     <b>Corona update</b>: There are (until further notice) no more restrictions on Live Contact Lessons !<br><br>
     

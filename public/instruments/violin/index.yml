@@ -12,7 +12,9 @@ text:
   nl: |-
     # Viool, Elektrische Viool & Folk Viool
     
-    Een opleiding viool is mogelijk vanaf 6 jaar.
+    Een opleiding viool is mogelijk vanaf 6 jaar.<br><br>
+    Voor info en tarieven: @{mailto:info@classandjazz.be}{vraag een gratis proefles aan (via e-mail)}. 
+    Deze eerste kennismakingsles laat ons toe om samen met u te bekijken welk project het beste bij u past.<br><br>
     
     <b>Leraar:</b>
     @{/teachers/hendrike/}{Hendrike Scharmann} - contact: 0472 86 56 79 – hendrike.scharmann@gmail.com<br>
@@ -30,7 +32,9 @@ text:
   fr: |-
     # Violon, Violon Electrique & Violon Folk
     
-    Les cours de violon sont possibles à partir de 6 ans.
+    Les cours de violon sont possibles à partir de 6 ans.<br><br>
+    Pour infos et tarifs @{mailto:info@classandjazz.be}{demandez une leçon à l'essai gratuite (par e-mail)}.<br>
+    Ce premier contact nous permet de définir, avec vous, le projet qui vous convient le mieux.<br><br>
     
     <b>Prof :</b> 
     @{/teachers/hendrike/}{Hendrike Scharmann} - contact: 0472 86 56 79 – hendrike.scharmann@gmail.com<br>
@@ -48,7 +52,8 @@ text:
   en: |-
     # Violin, electric violin & folk violin
     
-    Violin lessons are possible from the age of 6 years old.
+    Violin lessons are possible from the age of 6 years old.<br><br>
+    For info and prices, @{mailto:info@classandjazz.be}{request a free trial lesson (by email)}. <br>This first contact allows us to define, with you, the project that is best fit for you.<br><br>
     
     <b>Teacher:</b>
     @{/teachers/hendrike/}{Hendrike Scharmann} - contact: 0472 86 56 79 – hendrike.scharmann@gmail.com<br>
