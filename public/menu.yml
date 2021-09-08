@@ -1,10 +1,5 @@
 menu:
   nl: |-
-    # @{/corona}{Corona Maatregelen}
-    
-    * @{/corona/online/}{Online Lessen}
-    * @{/corona/contact/}{Live Contact Lessen}
-    
     # @{/}{Class & Jazz}
 
     * @{/philosophy/}{Filosofie}
@@ -21,7 +16,7 @@ menu:
     * @{/instruments/piano/}{Piano}
     * @{/instruments/guitar-and-bass/}{Gitaar}
     * @{/instruments/violin/}{Viool}
-    * @{/instruments/drums-and-percussions/}{Drums & Percussie}
+    * @{/instruments/drums-and-percussions/}{Drums, Vibrafoon & Percussie}
     * @{/instruments/singing/}{Zang}
     * @{/instruments/other-instruments/}{Andere Instrumenten}
     * @{/instruments/other-courses/}{Andere Cursussen}
@@ -30,20 +25,15 @@ menu:
 
     * @{/teachers/raph/}{Raph Van Goubergen}
     * @{/teachers/michel/}{Michel Kuijken}
-    * @{/teachers/mathias/}{Mathias Ghesquière}
     * @{/teachers/maxine/}{Maxine Dumont} 
     * @{/teachers/alexander/}{Alexander Nazimov}
     * @{/teachers/martin/}{Martin Michiels}
     * @{/teachers/kim/}{Kim Franck}
     * @{/teachers/hendrike/}{Hendrike Scharmann}
+    * @{/teachers/sebastien/}{Sébastien Peeters}
     
 
   fr: |-
-    # @{/corona}{Mesures Corona}
-    
-    * @{/corona/online/}{Cours en Ligne}
-    * @{/corona/contact/}{Cours en Contact Direct}
-    
     # @{/}{Class & Jazz}
 
     * @{/philosophy/}{Philosophie}
@@ -60,7 +50,7 @@ menu:
     * @{/instruments/piano/}{Piano}
     * @{/instruments/guitar-and-bass/}{Guitare}
     * @{/instruments/violin/}{Violon}
-    * @{/instruments/drums-and-percussions/}{Batterie & Percussions}
+    * @{/instruments/drums-and-percussions/}{Batterie, Vibraphone & Percussions}
     * @{/instruments/singing/}{Chant}
     * @{/instruments/other-instruments/}{Autres Instruments}
     * @{/instruments/other-courses/}{Autres cours}
@@ -69,19 +59,14 @@ menu:
 
     * @{/teachers/raph/}{Raph Van Goubergen}
     * @{/teachers/michel/}{Michel Kuijken}
-    * @{/teachers/mathias/}{Mathias Ghesquière}
     * @{/teachers/maxine/}{Maxine Dumont} 
     * @{/teachers/alexander/}{Alexander Nazimov}
     * @{/teachers/martin/}{Martin Michiels}
     * @{/teachers/kim/}{Kim Franck}
     * @{/teachers/hendrike/}{Hendrike Scharmann}
+    * @{/teachers/sebastien/}{Sébastien Peeters}
 
   en: |-
-    # @{/corona}{Corona Measures}
-    
-    * @{/corona/online/}{Online Lessons}
-    * @{/corona/contact/}{Live Contact Lessons}
-        
     # @{/}{Class & Jazz}
 
     * @{/philosophy/}{Philosophy}
@@ -98,7 +83,7 @@ menu:
     * @{/instruments/piano/}{Piano}
     * @{/instruments/guitar-and-bass/}{Guitar}
     * @{/instruments/violin/}{Violin}
-    * @{/instruments/drums-and-percussions/}{Drums & Percussion}
+    * @{/instruments/drums-and-percussions/}{Drums, Vibraphone & Percussion}
     * @{/instruments/singing/}{Singing}
     * @{/instruments/other-instruments/}{Other Instruments}
     * @{/instruments/other-courses/}{Other courses}
@@ -107,10 +92,10 @@ menu:
 
     * @{/teachers/raph/}{Raph Van Goubergen}
     * @{/teachers/michel/}{Michel Kuijken}
-    * @{/teachers/mathias/}{Mathias Ghesquière}
     * @{/teachers/maxine/}{Maxine Dumont} 
     * @{/teachers/alexander/}{Alexander Nazimov}
     * @{/teachers/martin/}{Martin Michiels}
     * @{/teachers/kim/}{Kim Franck}
     * @{/teachers/hendrike/}{Hendrike Scharmann}
+    * @{/teachers/sebastien/}{Sébastien Peeters}
 
