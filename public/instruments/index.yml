@@ -17,7 +17,7 @@ text:
     * Vanaf 5 jaar: 
       @{/instruments/piano/}{piano}
     * Vanaf 6 jaar: 
-      @{/instruments/drums-and-percussions/}{drums & percussie} -
+      @{/instruments/drums-and-percussions/}{drums, vibrafoon & percussie} -
       @{/instruments/violin/}{viool}
     * Vanaf 8 jaar: 
       @{/instruments/guitar-and-bass/}{klassieke gitaar, folk gitaar & elektrische gitaar} - 
@@ -66,7 +66,7 @@ text:
     * A partir de 5 ans: 
       @{/instruments/piano/}{piano}
     * A partir de 6 ans: 
-      @{/instruments/drums-and-percussions/}{batterie & percussions} -
+      @{/instruments/drums-and-percussions/}{batterie, vibraphone & percussions} -
       @{/instruments/violin/}{violon}
     * A partir de 8 ans: 	
       @{/instruments/guitar-and-bass/}{guitare classique, guitare folk & guitare électrique} - 
@@ -115,7 +115,7 @@ text:
     * From the age of 5 years old: 
       @{/instruments/piano/}{piano}
     * From the age of 6 years old: 
-      @{/instruments/drums-and-percussions/}{drums & percussion} -
+      @{/instruments/drums-and-percussions/}{drums, vibraphone & percussion} -
       @{/instruments/violin/}{violin}
     * From the age of 8 years old: 	
       @{/instruments/guitar-and-bass/}{classical guitar, folk guitar & electric guitar} - 
