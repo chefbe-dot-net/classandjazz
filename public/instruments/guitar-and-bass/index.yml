@@ -16,10 +16,7 @@ text:
     Voor info en tarieven: @{mailto:info@classandjazz.be}{vraag een gratis proefles aan (via e-mail)}. 
     Deze eerste kennismakingsles laat ons toe om samen met u te bekijken welk project het beste bij u past.<br><br>
     
-    <b>Leraars:</b><br>
-    @{/teachers/michel/}{Michel Kuijken} - contact: 0494 17 55 83 – rhaute@gmail.com<br>
-    @{/teachers/martin/}{Martin Michiels} - contact: 0479 33 56 37  – martin.michiels@gmail.com
-    
+    <b>Leraar:</b> @{/teachers/martin/}{Martin Michiels} - contact: 0479 33 56 37  – martin.michiels@gmail.com<br>
     De lessen kunnen gegeven worden in het Nederlands, Frans of Engels. <br><br>
     
     De opleiding gitaar is divers en hangt af van het gekozen type gitaar. Men vindt op de markt een hele serie verschillende gitaarsoorten, en elk type gitaar brengt specifieke stijlen en technieken met zich mee; de ene wordt met de vingers getokkeld, de andere wordt met een plectrum bespeeld. Men kan uiteraard ook kiezen om les te volgen in verschillende stijlen en gitaren. 
@@ -54,10 +51,8 @@ text:
     Pour infos et tarifs @{mailto:info@classandjazz.be}{demandez une leçon à l'essai gratuite (par e-mail)}.<br>
     Ce premier contact nous permet de définir, avec vous, le projet qui vous convient le mieux.<br><br>
     
-    <b>Professeurs:</b><br>
-    @{/teachers/michel/}{Michel Kuijken} - contact : 0494 17 55 83 – rhaute@gmail.com<br>
-    @{/teachers/martin/}{Martin Michiels} - contact: 0479 33 56 37  – martin.michiels@gmail.com
-    
+    <b>Professeur:</b>
+    @{/teachers/martin/}{Martin Michiels} - contact: 0479 33 56 37  – martin.michiels@gmail.com<br>
     Les leçons peuvent être données en français, en néerlandais ou en anglais.<br><br>
     
     Le cours de guitare est varié et dépend du type de guitare choisi. On trouve sur le marché toute une série de guitares toute de type différent, et chaque type de guitare amène ses propres styles et ses techniques spécifiques ; l’une se joue avec les doigts, tandis que l’autre se joue avec un plectre (ou mediator). Il est bien sûr possible aussi de combiner au cours différents types de styles et de guitares.
@@ -91,10 +86,8 @@ text:
     To learn how to play the guitar demands an important physical effort – like the spreading of the fingers – that quickly can become discouraging for smaller hands, therefore we generally advice not to start with the guitar at a too young age. <br><br>
     For info and prices, @{mailto:info@classandjazz.be}{request a free trial lesson (by email)}. <br>This first contact allows us to define, with you, the project that is best fit for you.<br><br>
     
-    <b>Teachers</b><br>
-    @{/teachers/michel/}{Michel Kuijken} - contact: 0494 17 55 83 – rhaute@gmail.com<br>
-    @{/teachers/martin/}{Martin Michiels} - contact: 0479 33 56 37  – martin.michiels@gmail.com
-    
+    <b>Teacher</b>
+    @{/teachers/martin/}{Martin Michiels} - contact: 0479 33 56 37  – martin.michiels@gmail.com<br>
     Lessons can be followed in English, Dutch or French. <br><br>
     
     The guitar course is diverse and depends on which type of guitar one chooses. There are quite a lot of different guitar types on the market and each type comes with its specific styles and techniques; the one is played with the fingers, the other is played with a ‘pick’. It is of course also possible to choose for a combination of styles and of guitars.
