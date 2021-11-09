@@ -10,23 +10,11 @@ Dir.chdir(root = File.expand_path('../../',__FILE__)) do
   # update loadpath and load project
   $: << File.join(root,"lib")
   require 'classandjazz'
-  
+
   # middlewares
   use Rack::Nocache
   use Rack::CommonLogger
 
   # main appplication
-  map '/' do
-    run ClassAndJazz::WebApp
-  end
-
-  # websync
-  require 'websync/middleware'
-  require 'classandjazz/client_agent'
-  map '/websync/' do
-    WebSync::Middleware.set :agent, ClassAndJazz::ClientAgent.new(root)
-    run WebSync::Middleware
-  end
+  run ClassAndJazz::WebApp
 end
-
-

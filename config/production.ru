@@ -10,8 +10,6 @@ Dir.chdir(root = File.expand_path('../../',__FILE__)) do
   # update loadpath and load project
   $: << File.join(root,"lib")
   require 'classandjazz'
-  require 'rack/hooks'
-  
-  use Rack::Hooks
+
   run ClassAndJazz::WebApp
 end

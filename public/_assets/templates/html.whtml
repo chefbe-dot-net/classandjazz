@@ -15,7 +15,6 @@
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <script src="/_assets/js/jquery-1.6.4.min.js"></script>
-    <script src="/_assets/js/websync-tools-0.0.1.js"></script>
  </head>
   <body>
     <div class="container">
@@ -38,7 +37,7 @@
       </style>
       <footer id="copyright">
         <div class="left" itemscope itemtype="http://data-vocabulary.org/Organization">
-          &copy; ${contact.since} &mdash; 
+          &copy; ${contact.since} &mdash;
           <span itemprop="name">${contact.name}</span> &mdash;
           <span itemprop="tel">${contact.phone}</span> &mdash;
           <a href="mailto:${contact.mail}">${contact.mail}</a> &mdash;

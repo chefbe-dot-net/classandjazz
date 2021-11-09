@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-git remote update
-git reset --hard origin/master
-touch tmp/restart.txt

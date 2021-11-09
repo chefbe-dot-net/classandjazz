@@ -1,30 +1,21 @@
-FROM phusion/passenger-ruby18
+FROM ruby:2.7-alpine
+
+RUN apk add --update git make g++
+
+RUN addgroup -S app && \
+    adduser -S -D -h /home/app app -G app
 
 WORKDIR /home/app
 ENV HOME /home/app
+USER app
 
-RUN apt-get update; \
-    apt-get install --force-yes -y libxml2 libxml2-dev libxslt1-dev libxslt1.1 && \
-    apt-get clean && \
-    rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
+COPY --chown=app:app Gemfile*  ${HOME}/
 
-RUN git config --global user.email "blambeau@gmail.com" && \
-    git config --global user.name "Bernard Lambeau"
+RUN bundle config set without 'development' && \
+    bundle install --path=vendor/bundle
 
-RUN touch /root/.ssh/known_hosts && \
-    ssh-keyscan github.com >> /root/.ssh/known_hosts
+COPY --chown=app:app . ${HOME}
 
-RUN cd /tmp && \
-    git clone -q https://github.com/chefbe-dot-net/classandjazz.git && \
-    rm -rf /home/app/ && \
-    mv /tmp/classandjazz /home/app
+CMD bundle exec rackup -o 0.0.0.0 -p 3000
 
-RUN rm /etc/nginx/sites-enabled/default && \
-    rm -f /etc/service/nginx/down && \
-    cp /home/app/config/webapp.conf /etc/nginx/sites-enabled/webapp.conf
-
-RUN cd /home/app && \
-    bundle install && \
-    chown app.app $HOME -R
-
-CMD ["/sbin/my_init"]
+EXPOSE 3000

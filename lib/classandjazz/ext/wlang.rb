@@ -20,7 +20,7 @@ WLang::dialect('whtml', '.whtml') do
     if parser.has_block?(offset)
       label, offset = parser.parse_block(offset)
       [ClassAndJazz.makelink(href, label), offset]
-    else 
+    else
       [href, offset]
     end
   end
@@ -33,7 +33,7 @@ WLang::dialect('whtml', '.whtml') do
       :offset   => 0,
       :shared   => :all) do
       parser.instantiate
-    end 
+    end
     [text, offset]
   end
 
@@ -47,13 +47,13 @@ WLang::dialect("active-markdown") do
     if parser.has_block?(offset)
       label, offset = parser.parse_block(offset)
       [ClassAndJazz.makelink(href, label), offset]
-    else 
+    else
       [href, offset]
     end
   end
 
   post_transform do |text|
-    Kramdown::Document.new(text).to_html
+    Kramdown::Document.new("#{text}").to_html
   end
 
 end

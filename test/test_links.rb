@@ -10,13 +10,18 @@ class LinksTest < WebAppTest
     link && !(link =~ /^(https?|mailto|ftp):/)
   end
 
+  def no_spaces?(link)
+    link && link !~ /\s/
+  end
+
   def test_links
     visit('/sitemap.xml')
     @pages = all("loc").to_a.each do |elm|
       page = (elm.text.match %r{http://www.classandjazz.be(/.*)})[1]
-      do_visit(page) do 
+      do_visit(page) do
         all("a").
           select{|elm| internal?(elm["href"])}.
+          select{|elm| no_spaces?(elm["href"])}.
           each do |elm|
             do_visit(elm["href"])
           end

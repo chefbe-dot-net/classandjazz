@@ -3,7 +3,7 @@ module ClassAndJazz
   class WebApp < Sinatra::Base
 
     # PUBLIC of the web application
-    ROOT    = Path.backfind('.[.git]')
+    ROOT    = Path.backfind('.[config.ru]')
     PUBLIC  = ROOT/:public
     HTML    = PUBLIC/"_assets/templates/html.whtml"
 
@@ -33,7 +33,7 @@ module ClassAndJazz
 
     Array(rewriting["redirect"]).each do |h|
       from, to, status = h.values_at("from", "to", "status")
-      get from do 
+      get from do
         redirect to, status || 301
       end
     end
@@ -112,13 +112,13 @@ module ClassAndJazz
           url = url.dir.parent/"index.yml"
         end
         ctx_merge({
-          :lang => lang, 
+          :lang => lang,
           :environment => settings.environment,
         },ctx)
       end
-      
+
       def ctx_merge(left, right)
-        unless left.class == right.class        
+        unless left.class == right.class
           raise "Unexpected #{left.class} vs. #{right.class}"
         end
         case left
@@ -138,10 +138,10 @@ module ClassAndJazz
       rescue Exception => ex
         raise "YAML file #{path} corrupted\n\t#{ex.message}"
       end
-      
+
     end
     include Tools
-    
+
     ############################################################## Auto start
 
     # start the server if ruby file executed directly

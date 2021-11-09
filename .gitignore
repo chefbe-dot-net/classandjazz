@@ -2,5 +2,5 @@ logs/*
 tmp/*
 .bundle
 vendor/bundle
-websync-admin
 Thumbs.db
+Gemfile.lock

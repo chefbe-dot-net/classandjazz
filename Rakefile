@@ -16,3 +16,4 @@ desc %q{Run all client tests}
 task :test do
   exec "bundle exec ruby -Ilib -Itest test/runall.rb"
 end
+task :default => :test
