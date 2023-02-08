@@ -91,22 +91,6 @@ partners:
       nl: |-
         Kampenhout, a small theatre with big ideas<br>    
         @{http://www.theaterdejonghe.be/}{www.theaterdejonghe.be}		
-  - title: Piano's Van Innis
-    picture: vaninnis.gif
-    website: http://www.vaninnis.be
-    text:
-      fr: |-
-        <p>Where Art meets Skill</p>
-        <p>Pianos acoustiques et digitaux</p>
-        @{http://www.vaninnis.be}{www.vaninnis.be}
-      en: |-
-        <p>Where Art meets Skill</p>
-        <p>Acoustic and digital piano's</p>
-        @{http://www.vaninnis.be}{www.vaninnis.be}
-      nl: |-
-        <p>Where Art meets Skill</p>
-        <p>Akoestische en digitale piano's</p>
-        @{http://www.vaninnis.be}{www.vaninnis.be}
   - title: Brouwerij HAACHT
     picture: primus.gif
     website: http://www.haacht.com
