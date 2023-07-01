@@ -20,8 +20,6 @@ text:
       @{/instruments/drums-and-percussions/}{drums, vibrafoon & percussie} -
       @{/instruments/violin/}{viool}
     * Vanaf 8 jaar: 
-      @{/instruments/guitar-and-bass/}{klassieke gitaar, folk gitaar & elektrische gitaar} - 
-      @{/instruments/guitar-and-bass/}{basgitaar} - 
       @{/instruments/violin/}{klassieke viool, folk viool & elektrische viool}
     * Vanaf 10 jaar: 
       @{/instruments/singing/}{zang}
@@ -30,9 +28,6 @@ text:
     
     ## Andere Cursussen
     
-    <b>Bijkomende semi-professionele ensemble opleidingen</b><br>
-    @{/pedagogy/}{CANDIDS / ARTISTS / JAZZ-FUSION}  
-    	
     <b>Samenspel</b> (groesplessen)<br>
     @{/instruments/other-courses/}{Band-coaching} - 
     @{/instruments/other-courses/}{Klassieke Samenspel} - 
@@ -69,8 +64,6 @@ text:
       @{/instruments/drums-and-percussions/}{batterie, vibraphone & percussions} -
       @{/instruments/violin/}{violon}
     * A partir de 8 ans: 	
-      @{/instruments/guitar-and-bass/}{guitare classique, guitare folk & guitare électrique} - 
-      @{/instruments/guitar-and-bass/}{guitare basse} - 
       @{/instruments/violin/}{violon classique, violon folk & violon électrique} 
     * A partir de 10 ans: 
       @{/instruments/singing/}{chant}
@@ -79,9 +72,6 @@ text:
         
     ## Autres Cours
     
-    <b> Formations supplémentaires semi-professionnelles d'ensemble</b><br>
-    @{/pedagogy/}{CANDIDS / ARTISTS / JAZZ-FUSION}  
-    	
     <b>Cours d'Ensemble</b> (cours groupés)<br> 
     @{/instruments/other-courses/}{Band-coaching} - 
     @{/instruments/other-courses/}{Ensemble Classique} - 
@@ -118,8 +108,6 @@ text:
       @{/instruments/drums-and-percussions/}{drums, vibraphone & percussion} -
       @{/instruments/violin/}{violin}
     * From the age of 8 years old: 	
-      @{/instruments/guitar-and-bass/}{classical guitar, folk guitar & electric guitar} - 
-      @{/instruments/guitar-and-bass/}{bass guitar} - 
       @{/instruments/violin/}{classical violin, folk violin & electric violin}
     * From the age of 10 years old: 
       @{/instruments/singing/}{singing}
@@ -128,9 +116,6 @@ text:
     
     ## Other Courses
     
-    <b> Additional semi-professional training in ensemble</b><br>
-    @{/pedagogy/}{CANDIDS / ARTISTS / JAZZ-FUSION}  
-    	
     <b>Ensemble</b> (group lessons)<br>
     @{/instruments/other-courses/}{Band-coaching} - 
     @{/instruments/other-courses/}{Classical Ensemble} - 
