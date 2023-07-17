@@ -1,0 +1,57 @@
+template: page
+partition: birdland.gif
+title:
+  nl: Raph
+  fr: Raph
+  en: Raph
+text:
+  nl: |-
+    # Raph
+
+    Raph Van Goubergen begon op 12-jarige leeftijd in 1974 in garagebands te spelen, eerst als zanger en gitarist. 
+    Eind jaren '70 keerde hij terug naar zijn jeugdinstrument, de piano (en synths), en vormde hij zijn eigen Progressieve Rock band PSOPHO (1981 album PSOPHO - Sheer Profundity). 
+    De band evolueerde naar Jazz Rock en veranderde zijn naam in APG. Na de splitsing van APG, midden jaren '80, speelde hij Blues in het legendarische Brussels Blues Corner Café 
+    (1990 album BC and U - Backslider). Hij werd gevraagd om te spelen met vele bands in verschillende stijlen: Afro Beat (Feso Trombone, ex-Fela Kuti muzikant), 
+    Italiaanse Pop, Vlaamse Pop, Frans Chanson (1994 album BLANC MARIE - Sous les Ponts), meer Blues (1996 album CALVIN OWENS and his Blues Orchestra - That's Your Booty), ... 
+    In 1996 vormde hij de Jazzband Someone Els die later MASALA werd.
+    
+    Hij is ook muziekleraar, zowel in Klassieke Muziek als in Jazz/Pop/Rock (piano, jazzharmonie, compositie, improvisatie, zang) sinds 1983. 
+    In 2009 richtte hij zijn eigen bedrijf op, CLASS & JAZZ, dat muziekonderwijs, productie en uitgeverij combineert. 
+    In 2013 schrijft hij het boek <b>@{/_assets/images/BRONTOONLADDERS en AKKOORDTOONLADDERS.pdf}{BRONTOONLADDERS en AKKOORDTOONLADDERS}</b> (gratis download - Class & Jazz Publications 2015) 
+    over muziektheorie en jazzharmonie. 
+    In 2021 schreef hij een methode voor pianisten 
+    <b>@{/_assets/images/Pianospelen met Akkoorden - Notenleer voor Pianisten.pdf}{Pianospelen met Akkoorden - Notenleer voor Pianisten}</b> (gratis download)
+
+  fr: |-
+    # Raph
+
+    Raph Van Goubergen a commencé à jouer dans des "garage bands" en 1974, à l'âge de 12 ans, d'abord en tant que chanteur et guitariste. 
+    À la fin des années 70, il revient à l'instrument de son enfance, le piano (et les synthétiseurs), et forme son propre groupe de rock progressif, 
+    PSOPHO (album PSOPHO - Sheer Profundity, 1981). Le groupe évolue vers le jazz rock et change de nom pour devenir APG. 
+    Après la séparation d'APG, au milieu des années 80, il joue du blues au légendaire Blues Corner Café de Bruxelles (album BC and U - Backslider, 1990). 
+    Il a été invité à jouer avec de nombreux groupes de styles différents : Afro Beat (Feso Trombone, ex musicien de Fela Kuti), Pop italienne, Pop flamande, Chanson française 
+    (1994 album BLANC MARIE - Sous les Ponts), et davantage de Blues (1996 album CALVIN OWENS and his Blues Orchestra - That's Your Booty), ... 
+    En 1996, il a formé le groupe de Jazz Someone Elsone qui, plus tard, deviendra MASALA.
+    
+    Il est également professeur de musique, tant en musique classique qu'en Jazz/Pop/Rock (piano, harmonie jazz, composition, improvisation, chant) depuis 1983. 
+    En 2009, il crée sa propre société, CLASS & JAZZ, qui combine cours de musique, production et édition. 
+    En 2013, il écrit le livre <b>@{/_assets/images/GAMMES SOURCES et GAMMES D'ACCORDS.pdf}{GAMMES SOURCES et GAMMES D'ACCORDS}</b> (téléchargement gratuit - Class & Jazz Publications 2015) 
+    sur la théorie musicale et l'harmonie jazz. En 2021, il écrit une méthode pour pianistes 
+    <b>@{/_assets/images/Jouer le piano avec des accords - Notes de musique pour les pianistes.pdf}{Jouer le piano avec des accords - Notes de musique pour les pianistes}</b> (téléchargement gratuit).
+
+  en: |-
+    # Raph
+
+    Raph Van Goubergen started to play with garage bands in 1974, at the age of 12, first as a singer and guitarist. In the late ’70-ties he returned to his childhood instrument, 
+    the piano (and synths), and formed his own Progressive Rock band PSOPHO (1981 album PSOPHO – Sheer Profundity). The band evolved towards Jazz Rock, and changed its name to APG. 
+    After the split of APG, in the mid ‘80-ties, he played the Blues at the legendary Brussels Blues Corner Café (1990 album BC and U – Backslider). He was asked to play with many bands 
+    in various styles: Afro Beat (Feso Trombone, ex-Fela Kuti musician), Italian Pop, Flemish Pop, French Chanson (1994 album BLANC MARIE – Sous les Ponts), more Blues 
+    (1996 album CALVIN OWENS and his Blues Orchestra – That’s Your Booty), … In 1996, he formed the Jazz band Someone Els that, later, became MASALA.
+    
+    He’s also a music teacher, both in Classical Music and in Jazz/Pop/Rock (piano, jazz harmony, composition, improvisation, singing) since 1983. 
+    In 2009, he created his own company, CLASS & JAZZ, that combines music tuition, management and publishing. 
+    In 2013 he writes the book <b>@{/_assets/images/PARENT SCALES and CHORD SCALES - revised edition 2021.pdf}{PARENT SCALES and CHORD SCALES}</b> (free download - Class & Jazz Publications 2015) 
+    about Music Theory and Jazz Harmony. 
+    In 2021 he wrote a method for pianists 
+    <b>@{/_assets/images/Playing the piano with chords - Note reading for pianists.pdf}{Playing the piano with chords - Note reading for pianists}</b> (free download).
+

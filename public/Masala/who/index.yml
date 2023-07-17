@@ -1,0 +1,54 @@
+template: page
+partition: birdland.gif
+title:
+  nl: Wie we zijn
+  fr: Qui sommes-nous ?
+  en: Who we are
+text:
+  nl: |-
+    # Wie we zijn
+
+    Masala is een band met vier creatieve muzikanten – @{/Masala/piet/}{Piet Haven} (zang, bas), @{/Masala/raph/}{Raph Van Goubergen} (zang, piano), 
+    @{/Masala/sebastien/}{Sébastien Peeters} (zang, vibrafoon, drums) en @{/Masala/maxine/}{Maxine Dumont} (zang, kleine percussie) – elk met hun eigen favoriete muziekstijlen, 
+    elk met hun eigen muzikale achtergrond. Door een mix van stemmen, instrumenten, geluiden, sferen en 
+    stijlen vieren ze hun passie voor muziek. Het is nauwelijks toeval te noemen dat ze in elkaar een soulmate vonden: zang, piano, vibrafoon, bas, drums ... Opposites attract, counterparts fit.
+    
+    Obscuur, vrolijk, mijmerend, ontroerend, opwindend, ... Hun composities komen tot leven door de interactie tussen 4 muzikanten met 1000 ideeën maar toch maar 1 recept, de So-Fun Fusion. 
+    De akoestische sound wordt beïnvloed door een draaikolk van muziekstijlen van over de hele wereld: een vleugje folk, jazz, chanson, rock, country, tango, blues, klassiek, 
+    wereldmuziek, ... zonder ooit exact dat te zijn.
+    
+    Humor, verdriet, improvisatie, discipline en spontane interactie weerspiegelen hun emotie in je hart en brengen jouw glimlach op hun gezicht. 
+    Een feel good ervaring gedeeld door publiek en performers.
+
+  fr: |-
+    # Qui sommes-nous ?
+
+    Masala est un groupe de quatre musiciens créatifs – @{/Masala/piet/}{Piet Haven} (chant, basse), @{/Masala/raph/}{Raph Van Goubergen} (chant, piano), 
+    @{/Masala/sebastien/}{Sébastien Peeters} (chant, vibraphone, batterie) et @{/Masala/maxine/}{Maxine Dumont} 
+    (chant, petites percussions) – chacun ayant son style de musique préféré, chacun ayant son propre bagage musical. A travers un mélange de voix, d'instruments, de sons, d'atmosphères 
+    et de styles, ils célèbrent leur passion pour la musique. Ce n'est pas une coïncidence qu'ils aient trouvé entre eux une âme sœur : chant, piano, vibraphone, basse, batterie... 
+    Les opposés s'attirent, les contreparties s'accordent.
+    
+    Obscur, joyeux, rêveur, émouvant, excitant, ... Leurs compositions prennent vie grâce à l'interaction entre 4 musiciens avec 1000 idées mais avec une seule recette, la So-Fun Fusion. 
+    Le son acoustique est influencé par un tourbillon de styles musicaux du monde entier : une touche de folk, de jazz, de chanson, de rock, de country, de tango, de blues, 
+    de classique, de musique du monde, ... sans jamais être exactement cela.
+    
+    L'humour, la tristesse, l'improvisation, la discipline et l'interaction spontanée reflètent leur émotion dans votre cœur et apportent votre sourire sur leurs visages. 
+    Une expérience sensorielle partagée entre le public et les artistes.
+
+  en: |-
+    # Who we are
+
+    Masala is a band of four creative musicians – @{/Masala/piet/}{Piet Haven} (vocals, bass), @{/Masala/raph/}{Raph Van Goubergen} (vocals, piano), 
+    @{/Masala/sebastien/}{Sébastien Peeters} (vocals, vibraphone, drums) and @{/Masala/maxine/}{Maxine Dumont} 
+    (vocals, small percussion) – each having their favourite music styles, each having their own musical background. Through a mix of voices, instruments, sounds, atmospheres and 
+    styles they celebrate their passion for music. It can barely be called a coincidence they found in each other a soulmate: vocals, piano, vibraphone, bass, drums … 
+    Opposites attract, counterparts fit.
+    
+    Obscure, joyful, musing, moving, exciting, … Their compositions come to life through the interaction between 4 musicians with 1000 ideas but yet only 1 recipe, the So-Fun Fusion. 
+    The acoustic sound is being influenced by a whirlpool of music styles from all over the world: a touch of folk, jazz, chanson, rock, country, tango, blues, classic, world music, … 
+    without ever being exactly that.
+    
+    Humor, sadness, improvisation, discipline and spontaneous interaction reflect their emotion in your heart en brings your smile upon their faces. A feel good experience 
+    shared by audience and performers.
+

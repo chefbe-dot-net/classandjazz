@@ -26,6 +26,9 @@ menu:
     * @{/teachers/kim/}{Kim Franck}
     * @{/teachers/hendrike/}{Hendrike Scharmann}
     * @{/teachers/sebastien/}{Sébastien Peeters}
+
+    # @{/Masala/}{Masala (live music)}
+    * @{/Masala/who/}{Wie we zijn}    
     
 
   fr: |-
@@ -55,6 +58,10 @@ menu:
     * @{/teachers/kim/}{Kim Franck}
     * @{/teachers/hendrike/}{Hendrike Scharmann}
     * @{/teachers/sebastien/}{Sébastien Peeters}
+    
+    # @{/Masala/}{Masala (musique live)}
+    * @{/Masala/who/}{Qui sommes-nous ?}    
+
 
   en: |-
     # @{/}{Class & Jazz}
@@ -83,4 +90,8 @@ menu:
     * @{/teachers/kim/}{Kim Franck}
     * @{/teachers/hendrike/}{Hendrike Scharmann}
     * @{/teachers/sebastien/}{Sébastien Peeters}
+    
+    # @{/Masala/}{Masala (live music)}
+    * @{/Masala/who/}{Who we are}    
+
 
