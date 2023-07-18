@@ -62,19 +62,19 @@ partners:
     
   - title: Masala
     picture: masala.gif
-    website: http://www.masalamusic.be/
+    website: 
     text:
       fr: |-
         Spicy music. Taste the sound!<br>
-        @{http://www.masalamusic.be/}{www.masalamusic.be}
+        @{/Masala/}{Masala website}
     
       en: |-
         Spicy music. Taste the sound!<br>
-        @{http://www.masalamusic.be/}{www.masalamusic.be}
+        @{/Masala/}{Masala website}
     
       nl: |-
         Spicy music. Taste the sound!<br>    
-        @{http://www.masalamusic.be/}{www.masalamusic.be}
+        @{/Masala/}{Masala website}
 
   - title: Home Theater De Jonghe
     picture: hometheater.gif
