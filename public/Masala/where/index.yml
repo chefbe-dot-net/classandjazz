@@ -1,0 +1,95 @@
+template: page
+partition: birdland.gif
+title:
+  nl: Van waar we komen
+  fr: D'où nous venons
+  en: Where we come from
+text:
+  nl: |-
+    # Van waar we komen
+
+    Masala ontstond in 2010 toen Piet Haven (zang, bas), Raph Van Goubergen (zang, piano), Pieter Dedoncker (drums) en Andries Baele (zang, viool) - 
+    allen collega-muzikanten van de jazzcoverband Someone Els - besloten een eigen repertoire te creëren. Vanaf het begin werd besloten om zich niet vast te pinnen 
+    op één stijl, maar om alle inspiratie en fantasieën de vrije loop te laten.
+    
+    De eerste jaren werden besteed aan het schrijven van nummers en het maken van een show geïnspireerd op een denkbeeldige stam, de Masalians. 
+    Een album, March of the Masalians, verscheen in 2015, gevolgd door verschillende concerttournees.
+    
+    In 2017 voegde gitarist Arthur Maes zich bij de band. En in 2018 verving Sébastien Peeters Pieter (die verhuisde naar Firenze, Italië) op drums. 
+    Nieuwe nummers en een nieuwe show genaamd Heads or Tales werden gecreëerd, gevolgd door de Ouroboros Tour in 2019.
+    
+    Het leven (en de pandemie van 2020) riep Andries en Arthur op om nieuwe horizonten te verkennen. Zodra de opeenvolgende periodes van opsluiting voorbij waren, 
+    begonnen Piet, Raph en Sébastien de oude liedjes te herschikken en nieuwe te componeren, waarbij Sébastien nu ook vibrafoon speelde. Maxine Dumont kwam het 
+    repertoire van de band aanvullen met haar eigen composities en met haar unieke en veelzijdige stem. 
+    
+    <b>Huidige bandleden</b>    
+    @{/Masala/maxine/}{Maxine Dumont – zang, glockenspiel, kleine percussie}    
+    @{/Masala/sebastien/}{Sébastien Peeters – zang, vibrafoon, drums}    
+    @{/Masala/piet/}{Piet Haven – zang, bas (stichtend lid)}    
+    @{/Masala/raph/}{Raph Van Goubergen – zang, piano (stichtend lid)}
+    
+    <b>Voormalige bandleden</b>    
+    @{/Masala/pieter/}{Pieter Dedoncker – drums, percussie, zang (stichtend lid)}    
+    @{/Masala/andries/}{Andries Baele – viool, zang (stichtend lid)}    
+    @{/Masala/arthur/}{Arthur Maes – gitaar, zang}    
+
+
+  fr: |-
+    # D'où nous venons
+
+    Masala est né en 2010 lorsque Piet Haven (chant, basse), Raph Van Goubergen (chant, piano), Pieter Dedoncker (batterie) et Andries Baele (chant, violon) - 
+    tous musiciens issus du groupe de reprises jazz Someone Els - ont décidé de créer leur propre répertoire. Dès le départ, ils décident de ne pas s'enfermer 
+    dans un seul style, mais de laisser libre cours à leurs inspirations et à leurs fantaisies.
+    
+    Les premières années sont consacrées à l'écriture de chansons et à la création d'un spectacle inspiré d'une tribu imaginaire, les Masaliens. 
+    Un album, March of the Masalians, sort en 2015, suivi de plusieurs tournées de concerts.
+    
+    En 2017, le guitariste Arthur Maes rejoint le groupe. Et en 2018, Sébastien Peeters remplace Pieter (qui déménage à Florence, en Italie) à la batterie. 
+    De nouvelles chansons et un nouveau spectacle intitulé Heads or Tales sont créés, suivis de l'Ouroboros Tour en 2019.
+    
+    La vie (et la pandémie de 2020) appelle Andries et Arthur à explorer de nouveaux horizons. Au terme des périodes de confinement successives, Piet, Raph et 
+    Sébastien se mettent à réarranger les anciens morceaux et à en composer de nouveaux, Sébastien y rajoutant désormais aussi du vibraphone. Maxine Dumont vient 
+    enrichir le répertoire du groupe avec ses propres compositions et sa voix unique et versatile. 
+
+    <b>Membres actuels</b>    
+    @{/Masala/maxine/}{Maxine Dumont – voix, glockenspiel, petites percussions}    
+    @{/Masala/sebastien/}{Sébastien Peeters – chant, vibraphone, batterie}    
+    @{/Masala/piet/}{Piet Haven – chant, basse (membre fondateur)}    
+    @{/Masala/raph/}{Raph Van Goubergen – chant, piano (membre fondateur)}
+    
+    <b>Anciens membres</b>    
+    @{/Masala/pieter/}{Pieter Dedoncker – batterie, percussions, chant (membre fondateur)}    
+    @{/Masala/andries/}{Andries Baele – violon, chant (membre fondateur)}    
+    @{/Masala/arthur/}{Arthur Maes – guitare, chant}    
+
+
+  en: |-
+    # Where we come from
+
+    Masala was born in 2010 when Piet Haven (vocals, bass), Raph Van Goubergen (vocals, piano), Pieter Dedoncker (drums) and Andries Baele (vocals, violin) – 
+    all fellow musicians of the jazz cover band Someone Els – decided to create their own repertoire. From the beginning it was decided not to commit themselves 
+    to just one style, but rather to give free rein to all inspiration and fantasies.
+    
+    The first years were devoted to writing songs and creating a show inspired on an imaginary tribe, the Masalians. An album, March of the Masalians, 
+    was published in 2015 followed by several concert tours.
+    
+    In 2017, guitarist Arthur Maes joined the band. And in 2018 Sébastien Peeters replaced Pieter (who moved to Firenze, Italia) on drums. 
+    New songs and a new show called Heads or Tales were created, followed by the Ouroboros Tour in 2019.
+    
+    Life (and the 2020 pandemic) called Andries and Arthur to go explore new horizons. As soon as the successive periods of confinement were over, Piet, 
+    Raph and Sébastien started to rearrange the old songs and to compose new ones, with Sébastien now also playing vibraphone. Maxine Dumont came to complete 
+    the band’s repertoire with her own compositions and with her unique and versatile voice. 
+
+    <b>Current band members</b>    
+    @{/Masala/maxine/}{Maxine Dumont – vocals, glockenspiel, small percussion}    
+    @{/Masala/sebastien/}{Sébastien Peeters – vocals, vibraphone, drums}    
+    @{/Masala/piet/}{Piet Haven – vocals, bass (founding member)}    
+    @{/Masala/raph/}{Raph Van Goubergen – vocals, piano (founding member)}
+    
+    <b>Former band members</b>    
+    @{/Masala/pieter/}{Pieter Dedoncker – drums, percussion, vocals (founding member)}    
+    @{/Masala/andries/}{Andries Baele – violin, vocals (founding member)}    
+    @{/Masala/arthur/}{Arthur Maes – guitar, vocals}    
+
+    
+

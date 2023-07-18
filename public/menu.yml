@@ -28,7 +28,9 @@ menu:
     * @{/teachers/sebastien/}{Sébastien Peeters}
 
     # @{/Masala/}{Masala (live music)}
-    * @{/Masala/who/}{Wie we zijn}    
+    * @{/Masala/who/}{Wie we zijn}
+    * @{/Masala/where/}{Van waar we komen}
+    * @{/Masala/hear/}{Zien en horen}    
     
 
   fr: |-
@@ -60,8 +62,9 @@ menu:
     * @{/teachers/sebastien/}{Sébastien Peeters}
     
     # @{/Masala/}{Masala (musique live)}
-    * @{/Masala/who/}{Qui sommes-nous ?}    
-
+    * @{/Masala/who/}{Qui sommes-nous ?}
+    * @{/Masala/where/}{D'où nous venons}
+    * @{/Masala/hear/}{Voir et entendre}    
 
   en: |-
     # @{/}{Class & Jazz}
@@ -93,5 +96,6 @@ menu:
     
     # @{/Masala/}{Masala (live music)}
     * @{/Masala/who/}{Who we are}    
-
+    * @{/Masala/where/}{Where we come from}    
+    * @{/Masala/hear/}{See and hear}    
 
