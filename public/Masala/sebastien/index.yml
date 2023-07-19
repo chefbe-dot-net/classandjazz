@@ -1,12 +1,14 @@
 picture: sebastien.jpg
 template: page
-partition: birdland.gif
+partition: blanco.gif
 title:
   nl: Sébastien
   fr: Sébastien
   en: Sébastien
 text:
   nl: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/who/}{Wie we zijn} - @{/Masala/where/}{Van waar we komen} - @{/Masala/hear/}{Zien en horen} <br>
+
     # Sébastien
 
     Sébastien Peeters is een veelzijdige drummer en vibrafonist uit Brussel. Hij ontwikkelde zijn muzikaliteit door veel verschillende soorten muziek te spelen: 
@@ -19,6 +21,8 @@ text:
     @ Cirque Royal, Brussel.
 
   fr: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/who/}{Qui sommes-nous ?} - @{/Masala/where/}{D'où nous venons} - @{/Masala/hear/}{Voir et entendre}<br>   
+
     # Sébastien
 
     Basé à Bruxelles, Sébastien Peeters est un batteur et vibraphoniste polyvalent. Il a développé sa musicalité en jouant beaucoup de musiques différentes : 
@@ -31,6 +35,8 @@ text:
     @ Ancienne Belgique, Bruxelles - @ Botanique, Bruxelles - @ Cirque Royal, Bruxelles.
 
   en: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/who/}{Who we are} - @{/Masala/where/}{Where we come from} - @{/Masala/hear/}{See and hear}<br>    
+
     # Sébastien
 
     Based in Brussels, Sébastien Peeters is a versatile drummer and vibraphone player. 

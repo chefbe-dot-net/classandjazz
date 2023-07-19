@@ -1,12 +1,14 @@
 picture: andries.jpg
 template: page
-partition: birdland.gif
+partition: blanco.gif
 title:
   nl: Andries
   fr: Andries
   en: Andries
 text:
   nl: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/who/}{Wie we zijn} - @{/Masala/where/}{Van waar we komen} - @{/Masala/hear/}{Zien en horen} <br>
+
     # Andries
 
     Andries Baele is een creatieve, virtuoze violist en een grappige entertainer. Hij genoot een professionele muziekopleiding aan het Lemmensinstituut en het 
@@ -16,6 +18,8 @@ text:
 
 
   fr: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/who/}{Qui sommes-nous ?} - @{/Masala/where/}{D'où nous venons} - @{/Masala/hear/}{Voir et entendre}<br>   
+
     # Andries
 
     Andries Baele est un violoniste créatif et virtuose, doublé d'un joyeux boute-en-train. Il a suivi une formation musicale professionnelle à 
@@ -26,6 +30,8 @@ text:
 
 
   en: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/who/}{Who we are} - @{/Masala/where/}{Where we come from} - @{/Masala/hear/}{See and hear}<br>    
+
     # Andries
 
     Andries Baele is a creative, virtuoso violinist and a funny entertainer. He had professional musical training at the Lemmensinstitute and the College Ghent, 

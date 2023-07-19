@@ -1,12 +1,14 @@
 picture: arthur.jpg
 template: page
-partition: birdland.gif
+partition: blanco.gif
 title:
   nl: Arthur
   fr: Arthur
   en: Arthur
 text:
   nl: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/who/}{Wie we zijn} - @{/Masala/where/}{Van waar we komen} - @{/Masala/hear/}{Zien en horen} <br>
+
     # Arthur
 
     Arthur Maes begon op jonge leeftijd met het spelen en bestuderen van muziek. Hij erfde de passie en liefde voor muziek van zijn ouders. 
@@ -21,6 +23,8 @@ text:
     Hij is ook lid van het docententeam van Class & Jazz.
 
   fr: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/who/}{Qui sommes-nous ?} - @{/Masala/where/}{D'où nous venons} - @{/Masala/hear/}{Voir et entendre}<br>   
+
     # Arthur
 
     Arthur Maes a commencé à jouer et à étudier la musique dès son plus jeune âge. Il a hérité de la passion et de l'amour de la musique de ses parents. 
@@ -34,6 +38,8 @@ text:
     Il est également membre de l'équipe de professeurs de Class & Jazz.
 
   en: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/who/}{Who we are} - @{/Masala/where/}{Where we come from} - @{/Masala/hear/}{See and hear}<br>    
+
     # Arthur
 
     Arthur Maes started playing and study music at young age. He inherited the passion and love for music from his parents. His mother was a singer and his father a 

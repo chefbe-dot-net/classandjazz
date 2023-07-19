@@ -1,12 +1,14 @@
 picture: pieter.jpg
 template: page
-partition: birdland.gif
+partition: blanco.gif
 title:
   nl: Pieter
   fr: Pieter
   en: Pieter
 text:
   nl: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/who/}{Wie we zijn} - @{/Masala/where/}{Van waar we komen} - @{/Masala/hear/}{Zien en horen} <br>
+
     # Pieter
 
     Pieter ontdekte zijn passie voor drummen op 9-jarige leeftijd. Toen hij zich wilde inschrijven in de plaatselijke muziekschool kreeg hij te horen dat 
@@ -24,6 +26,8 @@ text:
 
 
   fr: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/who/}{Qui sommes-nous ?} - @{/Masala/where/}{D'où nous venons} - @{/Masala/hear/}{Voir et entendre}<br>   
+
     # Pieter
 
     Pieter a découvert sa passion pour la batterie à l'âge de 9 ans. Voulant s'inscrire à l'école de musique locale, on lui a répondu qu'il n'y avait pas 
@@ -39,6 +43,8 @@ text:
 
 
   en: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/who/}{Who we are} - @{/Masala/where/}{Where we come from} - @{/Masala/hear/}{See and hear}<br>    
+
     # Pieter
 
     Pieter discovered his passion for playing the drums at the age of 9. Wanting to enroll in the local music school he was told that “they didn’t really have a drum teacher, 

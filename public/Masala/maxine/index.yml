@@ -1,12 +1,14 @@
 picture: maxine.jpg
 template: page
-partition: birdland.gif
+partition: blanco.gif
 title:
   nl: Maxine
   fr: Maxine
   en: Maxine
 text:
   nl: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/who/}{Wie we zijn} - @{/Masala/where/}{Van waar we komen} - @{/Masala/hear/}{Zien en horen} <br>
+
     # Maxine
 
     Op 8-jarige leeftijd begon Maxine met lessen notenleer en trompet in Steenokkerzeel. Zingen doet ze al haar hele leven, maar op 10-jarige leeftijd ging ze zingen in het 
@@ -26,6 +28,8 @@ text:
     In 2021 sloot ze zich aan bij Masala.
 
   fr: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/who/}{Qui sommes-nous ?} - @{/Masala/where/}{D'où nous venons} - @{/Masala/hear/}{Voir et entendre}<br>   
+
     # Maxine
 
     À l'âge de 8 ans, Maxine commence des cours de solfège et de trompette à Steenokkerzeel. Elle chante depuis toujours, et à l'âge de 10 ans, elle rejoint la chorale 
@@ -46,6 +50,8 @@ text:
     Elle rejoindra Masala en 2021.
 
   en: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/who/}{Who we are} - @{/Masala/where/}{Where we come from} - @{/Masala/hear/}{See and hear}<br>    
+
     # Maxine
 
     At the age of 8 Maxine started lessons in music theory and trumpet in Steenokkerzeel. She has been singing all her life, but at the age of 10 she started singing in the 

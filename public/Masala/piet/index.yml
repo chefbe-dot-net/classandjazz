@@ -1,12 +1,14 @@
 picture: piet.jpg
 template: page
-partition: birdland.gif
+partition: blanco.gif
 title:
   nl: Piet
   fr: Piet
   en: Piet
 text:
   nl: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/who/}{Wie we zijn} - @{/Masala/where/}{Van waar we komen} - @{/Masala/hear/}{Zien en horen} <br>
+
     # Piet
 
     Vanaf zijn 15de wilde Piet Haven al op het podium staan en al snel ontdekte hij dat de gitaar, zijn stem en acteertalent daarvoor de betere middelen waren 
@@ -19,6 +21,8 @@ text:
     kan doen en zijn muzikaal talent verder kan verkennen met de andere leden van Masala. Samen met hen kan hij zijn stijlen en invloeden van de afgelopen jaren combineren ... en veel verder gaan.
 
   fr: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/who/}{Qui sommes-nous ?} - @{/Masala/where/}{D'où nous venons} - @{/Masala/hear/}{Voir et entendre}<br>   
+
     # Piet
 
     Dès l'âge de 15 ans, Piet Haven souhaite se produire sur scène et découvre très vite que la guitare, sa voix et ses talents d'acteur sont ses meilleurs atouts 
@@ -32,6 +36,8 @@ text:
     autres membres de Masala. Avec eux, il peut combiner ses styles et ses influences au fil des ans... et aller bien au-delà.
 
   en: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/who/}{Who we are} - @{/Masala/where/}{Where we come from} - @{/Masala/hear/}{See and hear}<br>    
+
     # Piet
 
     Since the age of 15, Piet Haven wanted to be on stage and found out pretty soon the guitar, his voice and acting skills where the better means 

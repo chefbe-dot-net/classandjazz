@@ -1,12 +1,14 @@
 picture: raph2.jpg
 template: page
-partition: birdland.gif
+partition: blanco.gif
 title:
   nl: Raph
   fr: Raph
   en: Raph
 text:
   nl: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/who/}{Wie we zijn} - @{/Masala/where/}{Van waar we komen} - @{/Masala/hear/}{Zien en horen} <br>
+
     # Raph
 
     Raph Van Goubergen begon op 12-jarige leeftijd in 1974 in garagebands te spelen, eerst als zanger en gitarist. 
@@ -24,6 +26,8 @@ text:
     <b>@{/_assets/images/Pianospelen met Akkoorden - Notenleer voor Pianisten.pdf}{Pianospelen met Akkoorden - Notenleer voor Pianisten}</b> (gratis download)
 
   fr: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/who/}{Qui sommes-nous ?} - @{/Masala/where/}{D'où nous venons} - @{/Masala/hear/}{Voir et entendre}<br>   
+
     # Raph
 
     Raph Van Goubergen a commencé à jouer dans des "garage bands" en 1974, à l'âge de 12 ans, d'abord en tant que chanteur et guitariste. 
@@ -41,6 +45,8 @@ text:
     <b>@{/_assets/images/Jouer le piano avec des accords - Notes de musique pour les pianistes.pdf}{Jouer le piano avec des accords - Notes de musique pour les pianistes}</b> (téléchargement gratuit).
 
   en: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/who/}{Who we are} - @{/Masala/where/}{Where we come from} - @{/Masala/hear/}{See and hear}<br>    
+
     # Raph
 
     Raph Van Goubergen started to play with garage bands in 1974, at the age of 12, first as a singer and guitarist. In the late ’70-ties he returned to his childhood instrument, 
