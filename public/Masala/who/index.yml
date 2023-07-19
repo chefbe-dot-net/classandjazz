@@ -1,17 +1,21 @@
 template: page
-partition: birdland.gif
+partition: blanco.gif
 title:
   nl: Wie we zijn
   fr: Qui sommes-nous ?
   en: Who we are
 text:
   nl: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/where/}{Van waar we komen} - @{/Masala/hear/}{Zien en horen} <br>   
+
     # Wie we zijn
 
     Masala is een band met vier creatieve muzikanten – @{/Masala/piet/}{Piet Haven} (zang, bas), @{/Masala/raph/}{Raph Van Goubergen} (zang, piano), 
     @{/Masala/sebastien/}{Sébastien Peeters} (zang, vibrafoon, drums) en @{/Masala/maxine/}{Maxine Dumont} (zang, kleine percussie) – elk met hun eigen favoriete muziekstijlen, 
     elk met hun eigen muzikale achtergrond. Door een mix van stemmen, instrumenten, geluiden, sferen en 
     stijlen vieren ze hun passie voor muziek. Het is nauwelijks toeval te noemen dat ze in elkaar een soulmate vonden: zang, piano, vibrafoon, bas, drums ... Opposites attract, counterparts fit.
+    
+    ![](/_assets/photos/de krop.jpg)<br>
     
     Obscuur, vrolijk, mijmerend, ontroerend, opwindend, ... Hun composities komen tot leven door de interactie tussen 4 muzikanten met 1000 ideeën maar toch maar 1 recept, de So-Fun Fusion. 
     De akoestische sound wordt beïnvloed door een draaikolk van muziekstijlen van over de hele wereld: een vleugje folk, jazz, chanson, rock, country, tango, blues, klassiek, 
@@ -21,6 +25,8 @@ text:
     Een feel good ervaring gedeeld door publiek en performers.
 
   fr: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/where/}{D'où nous venons} - @{/Masala/hear/}{Voir et entendre} <br>   
+
     # Qui sommes-nous ?
 
     Masala est un groupe de quatre musiciens créatifs – @{/Masala/piet/}{Piet Haven} (chant, basse), @{/Masala/raph/}{Raph Van Goubergen} (chant, piano), 
@@ -28,6 +34,8 @@ text:
     (chant, petites percussions) – chacun ayant son style de musique préféré, chacun ayant son propre bagage musical. A travers un mélange de voix, d'instruments, de sons, d'atmosphères 
     et de styles, ils célèbrent leur passion pour la musique. Ce n'est pas une coïncidence qu'ils aient trouvé entre eux une âme sœur : chant, piano, vibraphone, basse, batterie... 
     Les opposés s'attirent, les contreparties s'accordent.
+    
+    ![](/_assets/photos/de krop.jpg)<br>
     
     Obscur, joyeux, rêveur, émouvant, excitant, ... Leurs compositions prennent vie grâce à l'interaction entre 4 musiciens avec 1000 idées mais avec une seule recette, la So-Fun Fusion. 
     Le son acoustique est influencé par un tourbillon de styles musicaux du monde entier : une touche de folk, de jazz, de chanson, de rock, de country, de tango, de blues, 
@@ -37,6 +45,8 @@ text:
     Une expérience sensorielle partagée entre le public et les artistes.
 
   en: |-
+    @{/Masala/}{Masala (contact)} - @{/Masala/where/}{Where we come from} - @{/Masala/hear/}{See and hear} <br>    
+
     # Who we are
 
     Masala is a band of four creative musicians – @{/Masala/piet/}{Piet Haven} (vocals, bass), @{/Masala/raph/}{Raph Van Goubergen} (vocals, piano), 
@@ -44,6 +54,8 @@ text:
     (vocals, small percussion) – each having their favourite music styles, each having their own musical background. Through a mix of voices, instruments, sounds, atmospheres and 
     styles they celebrate their passion for music. It can barely be called a coincidence they found in each other a soulmate: vocals, piano, vibraphone, bass, drums … 
     Opposites attract, counterparts fit.
+    
+    ![](/_assets/photos/de krop.jpg)<br>
     
     Obscure, joyful, musing, moving, exciting, … Their compositions come to life through the interaction between 4 musicians with 1000 ideas but yet only 1 recipe, the So-Fun Fusion. 
     The acoustic sound is being influenced by a whirlpool of music styles from all over the world: a touch of folk, jazz, chanson, rock, country, tango, blues, classic, world music, … 
