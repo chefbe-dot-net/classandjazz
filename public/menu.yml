@@ -8,7 +8,6 @@ menu:
     * @{/publications/}{Publicaties}
     * @{/partners/}{Partners}
     * @{/news/}{News !}
-    * @{https://sites.google.com/site/classjazzwebschool/home}{Webschool}
 
     # @{/instruments/}{Instrumenten}
 
@@ -27,12 +26,6 @@ menu:
     * @{/teachers/hendrike/}{Hendrike Scharmann}
     * @{/teachers/sebastien/}{Sébastien Peeters}
 
-    # @{/Masala/}{Masala (live music)}
-    * @{/Masala/who/}{Wie we zijn}
-    * @{/Masala/where/}{Van waar we komen}
-    * @{/Masala/hear/}{Zien en horen}    
-    
-
   fr: |-
     # @{/}{Class & Jazz}
 
@@ -42,7 +35,6 @@ menu:
     * @{/publications/}{Publications}
     * @{/partners/}{Partenaires}
     * @{/news/}{News !}
-    * @{https://sites.google.com/site/classjazzwebschool/home}{Webschool}
 
     # @{/instruments/}{Instruments}
 
@@ -60,11 +52,6 @@ menu:
     * @{/teachers/kim/}{Kim Franck}
     * @{/teachers/hendrike/}{Hendrike Scharmann}
     * @{/teachers/sebastien/}{Sébastien Peeters}
-    
-    # @{/Masala/}{Masala (musique live)}
-    * @{/Masala/who/}{Qui sommes-nous ?}
-    * @{/Masala/where/}{D'où nous venons}
-    * @{/Masala/hear/}{Voir et entendre}    
 
   en: |-
     # @{/}{Class & Jazz}
@@ -75,7 +62,6 @@ menu:
     * @{/publications/}{Publications}
     * @{/partners/}{Partners}
     * @{/news/}{News !}
-    * @{https://sites.google.com/site/classjazzwebschool/home}{Webschool}
 
     # @{/instruments/}{Instruments}
 
@@ -93,9 +79,4 @@ menu:
     * @{/teachers/kim/}{Kim Franck}
     * @{/teachers/hendrike/}{Hendrike Scharmann}
     * @{/teachers/sebastien/}{Sébastien Peeters}
-    
-    # @{/Masala/}{Masala (live music)}
-    * @{/Masala/who/}{Who we are}    
-    * @{/Masala/where/}{Where we come from}    
-    * @{/Masala/hear/}{See and hear}    
 
