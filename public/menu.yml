@@ -1,82 +1,16 @@
 menu:
   nl: |-
     # @{/}{Class & Jazz}
-
-    * @{/philosophy/}{Filosofie}
-    * @{/pedagogy/}{Pedagogie}
-    * @{/subscribing/}{Inschrijven}
-    * @{/publications/}{Publicaties}
-    * @{/partners/}{Partners}
-    * @{/news/}{News !}
-
-    # @{/instruments/}{Instrumenten}
-
-    * @{/instruments/piano/}{Piano}
-    * @{/instruments/violin/}{Viool}
-    * @{/instruments/drums-and-percussions/}{Drums, Vibrafoon & Percussie}
-    * @{/instruments/singing/}{Zang}
-    * @{/instruments/other-instruments/}{Andere Instrumenten}
-    * @{/instruments/other-courses/}{Andere Cursussen}
-
-    # @{/teachers/}{Leraars}
-
     * @{/teachers/raph/}{Raph Van Goubergen}
-    * @{/teachers/maxine/}{Maxine Dumont} 
-    * @{/teachers/kim/}{Kim Franck}
-    * @{/teachers/hendrike/}{Hendrike Scharmann}
-    * @{/teachers/sebastien/}{Sébastien Peeters}
+    * @{/publications/}{Publicaties}
 
   fr: |-
     # @{/}{Class & Jazz}
-
-    * @{/philosophy/}{Philosophie}
-    * @{/pedagogy/}{Pédagogie}
-    * @{/subscribing/}{S'Inscrire}
-    * @{/publications/}{Publications}
-    * @{/partners/}{Partenaires}
-    * @{/news/}{News !}
-
-    # @{/instruments/}{Instruments}
-
-    * @{/instruments/piano/}{Piano}
-    * @{/instruments/violin/}{Violon}
-    * @{/instruments/drums-and-percussions/}{Batterie, Vibraphone & Percussions}
-    * @{/instruments/singing/}{Chant}
-    * @{/instruments/other-instruments/}{Autres Instruments}
-    * @{/instruments/other-courses/}{Autres cours}
-
-    # @{/teachers/}{Professeurs}
-
     * @{/teachers/raph/}{Raph Van Goubergen}
-    * @{/teachers/maxine/}{Maxine Dumont} 
-    * @{/teachers/kim/}{Kim Franck}
-    * @{/teachers/hendrike/}{Hendrike Scharmann}
-    * @{/teachers/sebastien/}{Sébastien Peeters}
+    * @{/publications/}{Publications}
 
   en: |-
     # @{/}{Class & Jazz}
-
-    * @{/philosophy/}{Philosophy}
-    * @{/pedagogy/}{Pedagogy}
-    * @{/subscribing/}{Subscribing}
-    * @{/publications/}{Publications}
-    * @{/partners/}{Partners}
-    * @{/news/}{News !}
-
-    # @{/instruments/}{Instruments}
-
-    * @{/instruments/piano/}{Piano}
-    * @{/instruments/violin/}{Violin}
-    * @{/instruments/drums-and-percussions/}{Drums, Vibraphone & Percussion}
-    * @{/instruments/singing/}{Singing}
-    * @{/instruments/other-instruments/}{Other Instruments}
-    * @{/instruments/other-courses/}{Other courses}
-
-    # @{/teachers/}{Teachers}
-
     * @{/teachers/raph/}{Raph Van Goubergen}
-    * @{/teachers/maxine/}{Maxine Dumont} 
-    * @{/teachers/kim/}{Kim Franck}
-    * @{/teachers/hendrike/}{Hendrike Scharmann}
-    * @{/teachers/sebastien/}{Sébastien Peeters}
+    * @{/publications/}{Publications}
 
