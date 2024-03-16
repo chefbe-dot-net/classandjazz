@@ -1,0 +1,60 @@
+template: page
+partition: piano_man.gif
+title:
+  nl: Partituren
+  fr: Partitions
+  en: Sheet Music
+text:
+  nl: |-
+    ### GRATIS piano partituren
+    <i>Alle luistervoorbeelden hieronder (uitgezonderd YouTube voorbeelden) zijn computer uitvoeringen. 
+    Ze bieden een perfecte weergave van de partituur, maar klinken tevens ook "plat en mechanisch". Aan u om er in de eigen uitvoering meer leven aan te geven.</i> 
+    
+    @{/_assets/images/Primo.pdf}{Primo} - (gemakkelijk, @{/_assets/audio/Primo.wav}{luister})<br>
+    @{/_assets/images/Bossa-Guy.pdf}{Bossa-Guy} - (matig, @{/_assets/audio/Bossa-Guy.wav}{luister})<br>
+    @{/_assets/images/Cup Of Coffee.pdf}{Cup Of Coffee} - (matig, @{/_assets/audio/Cup Of Coffee.wav}{luister})<br>
+    @{/_assets/images/Marigold of Fairyland I.pdf}{Marigold of Fairyland I} - (matig, @{/_assets/audio/Marigold of Fairyland I.wav}{luister})<br>
+    @{/_assets/images/Marigold of Fairyland II.pdf}{Marigold of Fairyland II} - (matig, @{/_assets/audio/Marigold of Fairyland II.wav}{luister})<br>
+    
+    ### GRATIS lead sheets
+    <i>Lead sheets bieden enkel het melodisch thema met daarbovenop een akkoordenschema. Aan u om er een eigen arrangement van te maken.</i>
+    
+    @{/_assets/images/Fall (lead sheet).pdf}{Fall} - (2 luistervoorbeelden op YouTube: @{https://www.youtube.com/watch?v=5F6AMv1AVQA}{Masala album version} en 
+    @{https://www.youtube.com/watch?v=YvbrOlqjjio&list=PLg03M-FuDivyiV8n1HTOV9msu3Z2DRamw&index=4}{"new" Masala 2022})
+    
+  fr: |-
+    ### Partitions de piano GRATUITES
+    <i>Tous les exemples sonores ci-dessous (à l'exception des enregistrements sur YouTube) sont des interprétations par ordinateur. 
+    Ils donnent une bonne restitution de la partition, mais sonnent également "plat et mécanique". À vous de leur redonner vie dans votre propre interprétation.</i> 
+    
+    @{/_assets/images/Primo.pdf}{Primo} - (facile, @{/_assets/audio/Primo.wav}{écouter})<br>
+    @{/_assets/images/Bossa-Guy.pdf}{Bossa-Guy} - (modéré, @{/_assets/audio/Bossa-Guy.wav}{écouter})<br>
+    @{/_assets/images/Cup Of Coffee.pdf}{Cup Of Coffee} - (modéré, @{/_assets/audio/Cup Of Coffee.wav}{écouter})<br>
+    @{/_assets/images/Marigold of Fairyland I.pdf}{Marigold of Fairyland I} - (modéré, @{/_assets/audio/Marigold of Fairyland I.wav}{écouter})<br>
+    @{/_assets/images/Marigold of Fairyland II.pdf}{Marigold of Fairyland II} - (modéré, @{/_assets/audio/Marigold of Fairyland II.wav}{écouter})<br>
+    
+    ### Lead sheets GRATUITES
+    <i>Les "lead sheets" n'offrent que le thème mélodique accompagné d'une progression d'accords. À vous d'en faire votre propre arrangement.</i>
+    
+    @{/_assets/images/Fall (lead sheet).pdf}{Fall} - (2 exemples sur YouTube: @{https://www.youtube.com/watch?v=5F6AMv1AVQA}{Masala album version} et 
+    @{https://www.youtube.com/watch?v=YvbrOlqjjio&list=PLg03M-FuDivyiV8n1HTOV9msu3Z2DRamw&index=4}{"new" Masala 2022})
+    
+  en: |-
+    ### FREE piano sheet music
+    <i>All listening examples below (excluding YouTube samples) are computer executions. 
+    They offer a perfect reproduction of the score, but also sound "flat and mechanical." It is up to you to give it more life in your own performance.</i> 
+    
+    @{/_assets/images/Primo.pdf}{Primo} - (easy, @{/_assets/audio/Primo.wav}{listen})<br>
+    @{/_assets/images/Bossa-Guy.pdf}{Bossa-Guy} - (moderate, @{/_assets/audio/Bossa-Guy.wav}{listen})<br>
+    @{/_assets/images/Cup Of Coffee.pdf}{Cup Of Coffee} - (moderate, @{/_assets/audio/Cup Of Coffee.wav}{listen})<br>
+    @{/_assets/images/Marigold of Fairyland I.pdf}{Marigold of Fairyland I} - (moderate, @{/_assets/audio/Marigold of Fairyland I.wav}{listen})<br>
+    @{/_assets/images/Marigold of Fairyland II.pdf}{Marigold of Fairyland II} - (moderate, @{/_assets/audio/Marigold of Fairyland II.wav}{listen})<br>
+    
+    ### FREE lead sheets
+    <i>Lead sheets offer only the melodic theme with a chord progression on top. It's up to you to make your own arrangement.</i>
+    
+    @{/_assets/images/Fall (lead sheet).pdf}{Fall} - (2 listening samples on YouTube: @{https://www.youtube.com/watch?v=5F6AMv1AVQA}{Masala album version} and 
+    @{https://www.youtube.com/watch?v=YvbrOlqjjio&list=PLg03M-FuDivyiV8n1HTOV9msu3Z2DRamw&index=4}{"new" Masala 2022})
+    
+
+
